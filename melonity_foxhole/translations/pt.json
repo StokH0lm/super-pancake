@@ -1,0 +1,1990 @@
+{
+    "inlined_strings": {
+        "resource_settings": "Configurações de recursos",
+        "navigation": "Navegação",
+        "outside_folder": "Pasta externa",
+        "common_settings": "Configurações gerais",
+        "many_days_left": "Muitos dias restantes",
+        "days_left": "{} dias restantes",
+        "config_settings": "Configurações de config",
+        "create": "Criar",
+        "resource_settings_desc": "Substituição dos materiais originais do Dota 2. Após ativar, é necessário reiniciar o jogo.",
+        "config_settings_desc": "Aqui você pode selecionar configurações disponíveis, criar novas, excluir as desnecessárias\ntambém compartilhar um código ou importar a configuração de outro usuário pelo código.",
+        "name": "Nome",
+        "author": "Autor",
+        "import": "Importar",
+        "code": "Código",
+        "edited": "Editado",
+        "actions": "Ações",
+        "delete": "Excluir",
+        "cancel": "Cancelar",
+        "load": "Carregar",
+        "list_configs": "Lista de configs",
+        "list_of_avaliable_configs": "Lista de configs disponíveis",
+        "delete_config": "Excluir config {}?",
+        "delete_config_desc": "Uma config excluída só pode ser restaurada usando o código."
+    },
+    "root": {
+        "name": "root"
+    },
+    "Player": {
+        "name": "Jogador"
+    },
+    "ESP": {
+        "name": "ESP"
+    },
+    "Information": {
+        "name": "Informações"
+    },
+    "Settings->System->Show menu on start": {
+        "name": "Mostrar menu ao iniciar"
+    },
+    "Settings": {
+        "name": "Configurações"
+    },
+    "Settings->System": {
+        "name": "Sistema"
+    },
+    "Settings->System->Open menu": {
+        "name": "Abrir menu",
+        "tip": "Tecla adicional para abrir o menu\nTecla principal - Insert"
+    },
+    "Settings->System->Menu scale": {
+        "name": "Escala do menu"
+    },
+    "Settings->System->Disable animated tips": {
+        "toggleBlockNames": {
+            "Disable animated tips": "Desativar dicas animadas"
+        }
+    },
+    "Settings->System->Dll: Stable, Scripts: Stable": {
+        "name": "Dll: Estável, Scripts: Estáveis"
+    },
+    "Settings->Scripts->Scripts->Load server scripts": {
+        "name": "Carregar scripts do servidor",
+        "tip": "Pode ser desativado com o Dev Mode ativado"
+    },
+    "Settings->Scripts": {
+        "name": "Scripts"
+    },
+    "Settings->Scripts->Scripts": {
+        "name": "Scripts"
+    },
+    "Settings->Scripts->Scripts->Reload scripts from server": {
+        "name": "Recarregar scripts do servidor"
+    },
+    "Settings->Scripts->Scripts->Load local scripts": {
+        "name": "Carregar scripts locais",
+        "tip": "Scripts de desenvolvedores terceiros"
+    },
+    "Settings->Scripts->Scripts->Dev Mode": {
+        "name": "Dev Mode",
+        "tip": "Modo de desenvolvedor com informações adicionais",
+        "tip2": "Ativa abas de menu de teste, Debug Menu [F11] e menu de atalhos no jogo"
+    },
+    "Settings->Scripts->Scripts->Bug reporter icon": {
+        "name": "Ícone de reporte de bugs"
+    },
+    "Settings->Scripts->Scripts->Verbose script logs": {
+        "name": "Logs detalhados de scripts"
+    },
+    "Settings->Scripts->Scripts->Dump separate translations": {
+        "name": "Exportar traduções separadas"
+    },
+    "Settings->Scripts->Scripts->Open console": {
+        "name": "Abrir console"
+    },
+    "Settings->Scripts->Scripts->Reload scripts": {
+        "name": "Recarregar scripts"
+    },
+    "Settings->Scripts->Scripts->Unload dll": {
+        "name": "Descarregar dll"
+    },
+    "Settings->Scripts->Scripts->Debug Menu Settings": {
+        "name": "Configurações do Debug Menu"
+    },
+    "Settings->Scripts->Scripts->Debug Menu Settings->Debug menu scale": {
+        "name": "Escala do Debug Menu"
+    },
+    "Settings->Scripts->Scripts->Debug Menu Settings->Debug font size": {
+        "name": "Tamanho da fonte do Debug"
+    },
+    "Settings->Scripts->Scripts->Debug Menu Settings->Debug menu font": {
+        "name": "Fonte do Debug Menu"
+    },
+    "Settings->Scripts->Scripts->Console Settings": {
+        "name": "Configurações do Console"
+    },
+    "Settings->Scripts->Scripts->Console Settings->Debug menu scale": {
+        "name": "Escala do Debug Menu"
+    },
+    "Settings->Scripts->Scripts->Console Settings->Debug font size": {
+        "name": "Tamanho da fonte do Debug"
+    },
+    "Settings->Scripts->Scripts->Console Settings->Debug menu font": {
+        "name": "Fonte do Debug Menu"
+    },
+    "Favorites": {
+        "name": "Favoritos"
+    },
+    "Settings->Configs->Current config:": {
+        "name": "Config atual:"
+    },
+    "Settings->Configs": {
+        "name": "Configs"
+    },
+    "Settings->KeyBinds->There is no options...": {
+        "name": "Não há opções..."
+    },
+    "Settings->KeyBinds": {
+        "name": "KeyBinds"
+    },
+    "Settings->Wheel->Wheel Key": {
+        "name": "Tecla da roda"
+    },
+    "Settings->Wheel": {
+        "name": "Wheel"
+    },
+    "Settings->Wheel->There is no options...": {
+        "name": "Não há opções..."
+    },
+    "Settings->Resources->There is no options...": {
+        "name": "Não há opções..."
+    },
+    "Settings->Resources": {
+        "name": "Recursos"
+    },
+    "ESP->Object Info": {
+        "name": "Informações de objetos"
+    },
+    "ESP->Object Info->Ally": {
+        "name": "Aliado"
+    },
+    "ESP->Object Info->Ally->Header->Enable": {
+        "name": "Ativar"
+    },
+    "ESP->Object Info->Ally->Header": {
+        "name": "Cabeçalho"
+    },
+    "ESP->Object Info->Ally->Header->Color": {
+        "name": "Cor"
+    },
+    "ESP->Object Info->Ally->Infantry->Infantry": {
+        "name": "Infantaria"
+    },
+    "ESP->Object Info->Ally->Infantry": {
+        "name": "Infantaria"
+    },
+    "ESP->Object Info->Ally->Infantry->Infantry information": {
+        "name": "Informações da infantaria",
+        "multiComboBoxValues": {
+            "health number": "número de vida",
+            "HP Bar": "Barra de HP",
+            "Name": "Nome",
+            "Name (hold alt)": "Nome (segurar Alt)",
+            "Equipped weapon": "Arma equipada",
+            "Other equipment": "Outros equipamentos",
+            "Lines to entity": "Linhas até a entidade",
+            "Aiming line": "Linha de mira"
+        }
+    },
+    "ESP->Object Info->Ally->Infantry->Skeleton Type": {
+        "name": "Tipo de esqueleto",
+        "comboBoxValues": {
+            "None": "Nenhum",
+            "Always": "Sempre",
+            "Only when visible": "Apenas quando visível",
+            "Only when not visible": "Apenas quando não visível"
+        }
+    },
+    "ESP->Object Info->Ally->Infantry->Boxes Type": {
+        "name": "Tipo de caixas",
+        "comboBoxValues": {
+            "None": "Nenhum",
+            "3D": "3D",
+            "2D": "2D"
+        }
+    },
+    "ESP->Object Info->Ally->Infantry->Always visible model": {
+        "toggleBlockNames": {
+            "Always visible model": "Modelo sempre visível"
+        }
+    },
+    "ESP->Object Info->Ally->Infantry->Additional Settings->Info Position": {
+        "name": "Posição das informações",
+        "comboBoxValues": {
+            "Center": "Centro",
+            "Top Left": "Superior esquerdo",
+            "Top Center": "Superior central",
+            "Top Right": "Superior direito",
+            "Bottom Left": "Inferior esquerdo",
+            "Bottom Center": "Inferior central",
+            "Bottom Right": "Inferior direito",
+            "Left Top": "Esquerda superior",
+            "Left Center": "Esquerda centro",
+            "Left Bottom": "Esquerda inferior",
+            "Right Top": "Direita superior",
+            "Right Center": "Direita centro",
+            "Right Bottom": "Direita inferior"
+        }
+    },
+    "ESP->Object Info->Ally->Infantry->Additional Settings": {
+        "name": "Configurações adicionais"
+    },
+    "ESP->Object Info->Ally->Infantry->Additional Settings->HP Bar Position": {
+        "name": "Posição da barra de HP",
+        "comboBoxValues": {
+            "Bottom": "Inferior",
+            "Top": "Superior",
+            "Left": "Esquerda",
+            "Right": "Direita"
+        }
+    },
+    "ESP->Object Info->Ally->Vehicles->Vehicles": {
+        "name": "Veículos"
+    },
+    "ESP->Object Info->Ally->Vehicles": {
+        "name": "Veículos"
+    },
+    "ESP->Object Info->Ally->Vehicles->Vehicle information": {
+        "name": "Informações do veículo",
+        "multiComboBoxValues": {
+            "Health": "Vida",
+            "HP Bar": "Barra de HP",
+            "Lock": "Trava",
+            "Squad lock": "Trava de esquadrão",
+            "Fuel": "Combustível",
+            "Temperature": "Temperatura",
+            "Inventory": "Inventário",
+            "Lines to entity": "Linhas até a entidade"
+        }
+    },
+    "ESP->Object Info->Ally->Vehicles->Boxes Type": {
+        "name": "Tipo de caixas",
+        "comboBoxValues": {
+            "None": "Nenhum",
+            "3D": "3D",
+            "2D": "2D"
+        }
+    },
+    "ESP->Object Info->Ally->Vehicles->Always visible model": {
+        "toggleBlockNames": {
+            "Always visible model": "Modelo sempre visível"
+        }
+    },
+    "ESP->Object Info->Ally->Vehicles->Additional Settings->Info Position": {
+        "name": "Posição das informações",
+        "comboBoxValues": {
+            "Center": "Centro",
+            "Top Left": "Superior esquerdo",
+            "Top Center": "Superior central",
+            "Top Right": "Superior direito",
+            "Bottom Left": "Inferior esquerdo",
+            "Bottom Center": "Inferior central",
+            "Bottom Right": "Inferior direito",
+            "Left Top": "Esquerda superior",
+            "Left Center": "Esquerda centro",
+            "Left Bottom": "Esquerda inferior",
+            "Right Top": "Direita superior",
+            "Right Center": "Direita centro",
+            "Right Bottom": "Direita inferior"
+        }
+    },
+    "ESP->Object Info->Ally->Vehicles->Additional Settings": {
+        "name": "Configurações adicionais"
+    },
+    "ESP->Object Info->Ally->Vehicles->Additional Settings->HP Bar Position": {
+        "name": "Posição da barra de HP",
+        "comboBoxValues": {
+            "Bottom": "Inferior",
+            "Top": "Superior",
+            "Left": "Esquerda",
+            "Right": "Direita"
+        }
+    },
+    "ESP->Object Info->Ally->Vehicles->Additional Settings->Additional information on lines": {
+        "name": "Informações adicionais nas linhas",
+        "multiComboBoxValues": {
+            "Lock": "Trava",
+            "Squad lock": "Trava de esquadrão",
+            "Driver": "Motorista"
+        }
+    },
+    "ESP->Object Info->Ally->Etc->Buildings": {
+        "name": "Construções"
+    },
+    "ESP->Object Info->Ally->Etc": {
+        "name": "Outros"
+    },
+    "ESP->Object Info->Ally->Etc->Building Misc": {
+        "name": "Outras informações da construção",
+        "multiComboBoxValues": {
+            "Health": "Vida",
+            "Inventory": "Inventário",
+            "Stockpile": "Estoque",
+            "Use area Box": "Caixa da área de uso"
+        }
+    },
+    "ESP->Object Info->Ally->Etc->Always visible model": {
+        "toggleBlockNames": {
+            "Always visible model": "Modelo sempre visível"
+        }
+    },
+    "ESP->Object Info->Ally->Etc->Watchtower info": {
+        "name": "Informações da torre de vigia",
+        "multiComboBoxValues": {
+            "Range": "Alcance",
+            "Lines to watchtower": "Linhas até a torre de vigia"
+        }
+    },
+    "ESP->Object Info->Ally->Etc->Pillbox info": {
+        "name": "Informações do pillbox",
+        "multiComboBoxValues": {
+            "Firing range": "Alcance de disparo"
+        }
+    },
+    "ESP->Object Info->Enemy": {
+        "name": "Inimigo"
+    },
+    "ESP->Object Info->Enemy->Header->Enable": {
+        "name": "Ativar"
+    },
+    "ESP->Object Info->Enemy->Header": {
+        "name": "Cabeçalho"
+    },
+    "ESP->Object Info->Enemy->Header->Color": {
+        "name": "Cor"
+    },
+    "ESP->Object Info->Enemy->Infantry->Infantry": {
+        "name": "Infantaria"
+    },
+    "ESP->Object Info->Enemy->Infantry": {
+        "name": "Infantaria"
+    },
+    "ESP->Object Info->Enemy->Infantry->Infantry information": {
+        "name": "Informações da infantaria",
+        "multiComboBoxValues": {
+            "health number": "número de vida",
+            "HP Bar": "Barra de HP",
+            "Name": "Nome",
+            "Name (hold alt)": "Nome (segurar Alt)",
+            "Equipped weapon": "Arma equipada",
+            "Other equipment": "Outros equipamentos",
+            "Lines to entity": "Linhas até a entidade",
+            "Aiming line": "Linha de mira"
+        }
+    },
+    "ESP->Object Info->Enemy->Infantry->Skeleton Type": {
+        "name": "Tipo de esqueleto",
+        "comboBoxValues": {
+            "None": "Nenhum",
+            "Always": "Sempre",
+            "Only when visible": "Apenas quando visível",
+            "Only when not visible": "Apenas quando não visível"
+        }
+    },
+    "ESP->Object Info->Enemy->Infantry->Boxes Type": {
+        "name": "Tipo de caixas",
+        "comboBoxValues": {
+            "None": "Nenhum",
+            "3D": "3D",
+            "2D": "2D"
+        }
+    },
+    "ESP->Object Info->Enemy->Infantry->Always visible model": {
+        "toggleBlockNames": {
+            "Always visible model": "Modelo sempre visível"
+        }
+    },
+    "ESP->Object Info->Enemy->Infantry->Additional Settings->Info Position": {
+        "name": "Posição das informações",
+        "comboBoxValues": {
+            "Center": "Centro",
+            "Top Left": "Superior esquerdo",
+            "Top Center": "Superior central",
+            "Top Right": "Superior direito",
+            "Bottom Left": "Inferior esquerdo",
+            "Bottom Center": "Inferior central",
+            "Bottom Right": "Inferior direito",
+            "Left Top": "Esquerda superior",
+            "Left Center": "Esquerda centro",
+            "Left Bottom": "Esquerda inferior",
+            "Right Top": "Direita superior",
+            "Right Center": "Direita centro",
+            "Right Bottom": "Direita inferior"
+        }
+    },
+    "ESP->Object Info->Enemy->Infantry->Additional Settings": {
+        "name": "Configurações adicionais"
+    },
+    "ESP->Object Info->Enemy->Infantry->Additional Settings->HP Bar Position": {
+        "name": "Posição da barra de HP",
+        "comboBoxValues": {
+            "Bottom": "Inferior",
+            "Top": "Superior",
+            "Left": "Esquerda",
+            "Right": "Direita"
+        }
+    },
+    "ESP->Object Info->Enemy->Vehicles->Vehicles": {
+        "name": "Veículos"
+    },
+    "ESP->Object Info->Enemy->Vehicles": {
+        "name": "Veículos"
+    },
+    "ESP->Object Info->Enemy->Vehicles->Vehicle information": {
+        "name": "Informações do veículo",
+        "multiComboBoxValues": {
+            "Health": "Vida",
+            "HP Bar": "Barra de HP",
+            "Lock": "Trava",
+            "Squad lock": "Trava de esquadrão",
+            "Fuel": "Combustível",
+            "Temperature": "Temperatura",
+            "Inventory": "Inventário",
+            "Lines to entity": "Linhas até a entidade"
+        }
+    },
+    "ESP->Object Info->Enemy->Vehicles->Boxes Type": {
+        "name": "Tipo de caixas",
+        "comboBoxValues": {
+            "None": "Nenhum",
+            "3D": "3D",
+            "2D": "2D"
+        }
+    },
+    "ESP->Object Info->Enemy->Vehicles->Always visible model": {
+        "toggleBlockNames": {
+            "Always visible model": "Modelo sempre visível"
+        }
+    },
+    "ESP->Object Info->Enemy->Vehicles->Additional Settings->Info Position": {
+        "name": "Posição das informações",
+        "comboBoxValues": {
+            "Center": "Centro",
+            "Top Left": "Superior esquerdo",
+            "Top Center": "Superior central",
+            "Top Right": "Superior direito",
+            "Bottom Left": "Inferior esquerdo",
+            "Bottom Center": "Inferior central",
+            "Bottom Right": "Inferior direito",
+            "Left Top": "Esquerda superior",
+            "Left Center": "Esquerda centro",
+            "Left Bottom": "Esquerda inferior",
+            "Right Top": "Direita superior",
+            "Right Center": "Direita centro",
+            "Right Bottom": "Direita inferior"
+        }
+    },
+    "ESP->Object Info->Enemy->Vehicles->Additional Settings": {
+        "name": "Configurações adicionais"
+    },
+    "ESP->Object Info->Enemy->Vehicles->Additional Settings->HP Bar Position": {
+        "name": "Posição da barra de HP",
+        "comboBoxValues": {
+            "Bottom": "Inferior",
+            "Top": "Superior",
+            "Left": "Esquerda",
+            "Right": "Direita"
+        }
+    },
+    "ESP->Object Info->Enemy->Vehicles->Additional Settings->Additional information on lines": {
+        "name": "Informações adicionais nas linhas",
+        "multiComboBoxValues": {
+            "Lock": "Trava",
+            "Squad lock": "Trava de esquadrão",
+            "Driver": "Motorista"
+        }
+    },
+    "ESP->Object Info->Enemy->Etc->Buildings": {
+        "name": "Construções"
+    },
+    "ESP->Object Info->Enemy->Etc": {
+        "name": "Outros"
+    },
+    "ESP->Object Info->Enemy->Etc->Building Misc": {
+        "name": "Outras informações da construção",
+        "multiComboBoxValues": {
+            "Health": "Vida",
+            "Inventory": "Inventário",
+            "Stockpile": "Estoque",
+            "Use area Box": "Caixa da área de uso"
+        }
+    },
+    "ESP->Object Info->Enemy->Etc->Always visible model": {
+        "toggleBlockNames": {
+            "Always visible model": "Modelo sempre visível"
+        }
+    },
+    "ESP->Object Info->Enemy->Etc->Watchtower info": {
+        "name": "Informações da torre de vigia",
+        "multiComboBoxValues": {
+            "Range": "Alcance",
+            "Lines to watchtower": "Linhas até a torre de vigia"
+        }
+    },
+    "ESP->Object Info->Enemy->Etc->Pillbox info": {
+        "name": "Informações do pillbox",
+        "multiComboBoxValues": {
+            "Firing range": "Alcance de disparo"
+        }
+    },
+    "ESP->Object Info->Neutral": {
+        "name": "Neutro"
+    },
+    "ESP->Object Info->Neutral->Etc->Wreckage": {
+        "toggleBlockNames": {
+            "Wreckage Circle": "Círculo de destroços",
+            "Wreckage Lines": "Linhas para destroços"
+        }
+    },
+    "ESP->Object Info->Neutral->Etc": {
+        "name": "Outros"
+    },
+    "ESP->Object Info->Neutral->Etc->Listening Kits": {
+        "toggleBlockNames": {
+            "Listening Kits Circle": "Círculo de Listening Kits",
+            "Listening Kits Lines": "Linhas para Listening Kits"
+        }
+    },
+    "ESP->Object Info->Neutral->Etc->Resources fields": {
+        "toggleBlockNames": {
+            "Information about resource field": "Informações sobre o campo de recursos",
+            "Resource field circle": "Círculo do campo de recursos",
+            "Rare resources circle": "Círculo de recursos raros"
+        }
+    },
+    "ESP->Object Info->Neutral->Etc->Explosives": {
+        "toggleBlockNames": {
+            "AP Mines": "Minas AP",
+            "AT Mines": "Minas AT",
+            "Grenades": "Granadas"
+        }
+    },
+    "ESP->Object Info->Neutral->Etc->Wounded soldier": {
+        "toggleBlockNames": {
+            "Wounded soldier circle": "Círculo de soldado ferido",
+            "Wounded soldier line": "Linha para soldado ferido"
+        }
+    },
+    "ESP->Object Info->Neutral->Etc->Other": {
+        "toggleBlockNames": {
+            "Artillery hits places": "Locais de impacto da artilharia",
+            "Pick-up items": "Itens coletáveis",
+            "Puddles": "Poças",
+            "Switch arrows": "Setas de troca"
+        }
+    },
+    "ESP->Object Info->Neutral->Vehicles->Vehicles": {
+        "name": "Veículos"
+    },
+    "ESP->Object Info->Neutral->Vehicles": {
+        "name": "Veículos"
+    },
+    "ESP->Object Info->Neutral->Vehicles->Vehicle information": {
+        "name": "Informações do veículo",
+        "multiComboBoxValues": {
+            "Health": "Vida",
+            "HP Bar": "Barra de HP",
+            "Lock": "Trava",
+            "Squad lock": "Trava de esquadrão",
+            "Fuel": "Combustível",
+            "Temperature": "Temperatura",
+            "Inventory": "Inventário",
+            "Lines to entity": "Linhas até a entidade"
+        }
+    },
+    "ESP->Object Info->Neutral->Vehicles->Boxes Type": {
+        "name": "Tipo de caixas",
+        "comboBoxValues": {
+            "None": "Nenhum",
+            "3D": "3D",
+            "2D": "2D"
+        }
+    },
+    "ESP->Object Info->Neutral->Vehicles->Always visible model": {
+        "toggleBlockNames": {
+            "Always visible model": "Modelo sempre visível"
+        }
+    },
+    "ESP->Object Info->Neutral->Vehicles->Additional Settings->Info Position": {
+        "name": "Posição das informações",
+        "comboBoxValues": {
+            "Center": "Centro",
+            "Top Left": "Superior esquerdo",
+            "Top Center": "Superior central",
+            "Top Right": "Superior direito",
+            "Bottom Left": "Inferior esquerdo",
+            "Bottom Center": "Inferior central",
+            "Bottom Right": "Inferior direito",
+            "Left Top": "Esquerda superior",
+            "Left Center": "Esquerda centro",
+            "Left Bottom": "Esquerda inferior",
+            "Right Top": "Direita superior",
+            "Right Center": "Direita centro",
+            "Right Bottom": "Direita inferior"
+        }
+    },
+    "ESP->Object Info->Neutral->Vehicles->Additional Settings": {
+        "name": "Configurações adicionais"
+    },
+    "ESP->Object Info->Neutral->Vehicles->Additional Settings->HP Bar Position": {
+        "name": "Posição da barra de HP",
+        "comboBoxValues": {
+            "Bottom": "Inferior",
+            "Top": "Superior",
+            "Left": "Esquerda",
+            "Right": "Direita"
+        }
+    },
+    "ESP->Object Info->Neutral->Vehicles->Additional Settings->Additional information on lines": {
+        "name": "Informações adicionais nas linhas",
+        "multiComboBoxValues": {
+            "Lock": "Trava",
+            "Squad lock": "Trava de esquadrão",
+            "Driver": "Motorista"
+        }
+    },
+    "ESP->Object Info->Neutral->Etc->Buildings": {
+        "name": "Construções"
+    },
+    "ESP->Object Info->Neutral->Etc->Building Misc": {
+        "name": "Outras informações da construção",
+        "multiComboBoxValues": {
+            "Health": "Vida",
+            "Inventory": "Inventário",
+            "Stockpile": "Estoque",
+            "Use area Box": "Caixa da área de uso"
+        }
+    },
+    "ESP->Object Info->Neutral->Etc->Always visible model": {
+        "toggleBlockNames": {
+            "Always visible model": "Modelo sempre visível"
+        }
+    },
+    "ESP->Object Info->ETC": {
+        "name": "ETC"
+    },
+    "ESP->Object Info->ETC->Lines->Tracking Line": {
+        "name": "Linha de rastreamento",
+        "tip": "Desenha uma linha até os objetos selecionados"
+    },
+    "ESP->Object Info->ETC->Lines": {
+        "name": "Linhas"
+    },
+    "ESP->Object Info->ETC->Lines->Hide line if target is visible": {
+        "toggleBlockNames": {
+            "Hide line if target is visible": "Ocultar linha se o alvo estiver visível"
+        }
+    },
+    "ESP->Object Info->ETC->Lines->Start Distance": {
+        "name": "Distância inicial"
+    },
+    "ESP->Object Info->ETC->Lines->End Distance": {
+        "name": "Distância final"
+    },
+    "ESP->Object Info->ETC->Lines->Line Transparency": {
+        "name": "Transparência da linha"
+    },
+    "ESP->Object Info->ETC->Lines->Text Transparency": {
+        "name": "Transparência do texto"
+    },
+    "ESP->Object Info->ETC->Lines->Font Scale": {
+        "name": "Escala da fonte"
+    },
+    "ESP->Object Info->ETC->Highlight Interactable": {
+        "name": "Destacar interagíveis",
+        "tip": "Destaca objetos com os quais é possível interagir"
+    },
+    "ESP->Object Info->ETC->Circle Size": {
+        "name": "Tamanho do círculo"
+    },
+    "ESP->Object Info->ETC->Circle Color": {
+        "name": "Cor do círculo"
+    },
+    "ESP->Object Info->ETC->Current Interactable Color": {
+        "name": "Cor do interagível atual",
+        "tip": "Cor do objeto interagível atualmente destacado"
+    },
+    "ESP->Player->Player Info": {
+        "name": "Informações do jogador"
+    },
+    "ESP->Player": {
+        "name": "Jogador"
+    },
+    "ESP->Player->Position X": {
+        "name": "Posição X"
+    },
+    "ESP->Player->Position Y": {
+        "name": "Posição Y"
+    },
+    "ESP->Player->Etc": {
+        "toggleBlockNames": {
+            "Show rotation and movement speed": "Mostrar rotação e velocidade de movimento",
+            "Show PID": "Mostrar PID",
+            "Debug Text": "Texto de debug"
+        }
+    },
+    "Player->Movement->Auto move->Auto move": {
+        "name": "Movimento automático",
+        "tip": "Continuar movendo na direção selecionada"
+    },
+    "Player->Movement": {
+        "name": "Movimento"
+    },
+    "Player->Movement->Auto move": {
+        "name": "Movimento automático"
+    },
+    "Player->Movement->Auto move->Move forward bind": {
+        "name": "Tecla mover para frente",
+        "tip": "Mover para frente"
+    },
+    "Player->Movement->Auto move->Move backward bind": {
+        "name": "Tecla mover para trás",
+        "tip": "Mover para trás"
+    },
+    "Player->Movement->Auto move->Auto move toggles": {
+        "toggleBlockNames": {
+            "Auto stop when W/S pressed": "Parar automaticamente ao pressionar W/S",
+            "Auto stop when enemy spotted": "Parar automaticamente ao detectar inimigo",
+            "Free camera while running": "Câmera livre ao correr",
+            "Auto sprint": "Sprint automático"
+        }
+    },
+    "Information->Notifications->Players proximity notifications": {
+        "name": "Notificações de proximidade de jogadores",
+        "tip": "Ativar notificações para inimigos e aliados próximos"
+    },
+    "Information->Notifications": {
+        "name": "Notificações"
+    },
+    "Information->Notifications->TTS Volume": {
+        "name": "Volume do TTS",
+        "tip": "Volume das notificações de Text-to-Speech"
+    },
+    "Information->Notifications->Inactivity timeout (sec)": {
+        "name": "Tempo de inatividade (seg)",
+        "tip": "Tempo sem mover o cursor para considerar o usuário inativo"
+    },
+    "Information->Notifications->Enemy in Radius->Enemy in Radius": {
+        "name": "Inimigo no raio",
+        "tip": "Notificar quando um inimigo aparecer dentro do raio especificado"
+    },
+    "Information->Notifications->Enemy in Radius": {
+        "name": "Inimigo no raio"
+    },
+    "Information->Notifications->Enemy in Radius->Detection Radius (m)": {
+        "name": "Raio de detecção (m)",
+        "tip": "Raio de detecção em metros"
+    },
+    "Information->Notifications->Enemy in Radius->Cooldown (sec)": {
+        "name": "Cooldown (seg)",
+        "tip": "Tempo mínimo entre notificações"
+    },
+    "Information->Notifications->Enemy in Radius->TTS Text##aboba1": {
+        "name": "Texto TTS##aboba1",
+        "tip": "Texto falado quando um inimigo é detectado"
+    },
+    "Information->Notifications->Enemy in Radius->enemy_radius_opts": {
+        "toggleBlockNames": {
+            "Ignore aircraft": "Ignorar aeronaves",
+            "Only when inactive": "Apenas quando inativo"
+        }
+    },
+    "Information->Notifications->Enemy appears in hex->Enemy appears in hex": {
+        "name": "Inimigo aparece no hex",
+        "tip": "Notificar quando um novo inimigo aparecer no hex"
+    },
+    "Information->Notifications->Enemy appears in hex": {
+        "name": "Inimigo aparece no hex"
+    },
+    "Information->Notifications->Enemy appears in hex->Cooldown (sec)": {
+        "name": "Cooldown (seg)",
+        "tip": "Tempo mínimo entre notificações"
+    },
+    "Information->Notifications->Enemy appears in hex->Max enemy count": {
+        "name": "Máx. de inimigos",
+        "tip": "Parar notificações após detectar essa quantidade de inimigos (0 = ilimitado)"
+    },
+    "Information->Notifications->Enemy appears in hex->TTS Text##aboba2": {
+        "name": "Texto TTS##aboba2",
+        "tip": "Texto falado quando um novo inimigo entra"
+    },
+    "Information->Notifications->Enemy appears in hex->enemy_world_opts": {
+        "toggleBlockNames": {
+            "Only when inactive": "Apenas quando inativo"
+        }
+    },
+    "Information->Notifications->TTS Local chat voiceover->TTS Local chat voiceover": {
+        "name": "Leitura TTS do chat local",
+        "tip": "Mensagens de voz dos jogadores ao seu redor"
+    },
+    "Information->Notifications->TTS Local chat voiceover": {
+        "name": "Leitura TTS do chat local"
+    },
+    "Information->Notifications->TTS Local chat voiceover->Cooldown (sec)": {
+        "name": "Cooldown (seg)",
+        "tip": "Tempo mínimo entre mensagens TTS"
+    },
+    "Information->Notifications->TTS Local chat voiceover->chat_tts_opts": {
+        "toggleBlockNames": {
+            "Include sender name": "Incluir nome do remetente",
+            "Only when inactive": "Apenas quando inativo"
+        }
+    },
+    "Information->Notifications->Ally in Radius->Ally in Radius": {
+        "name": "Aliado no raio",
+        "tip": "Notificar quando um aliado aparecer dentro do raio especificado"
+    },
+    "Information->Notifications->Ally in Radius": {
+        "name": "Aliado no raio"
+    },
+    "Information->Notifications->Ally in Radius->Detection Radius (m)": {
+        "name": "Raio de detecção (m)",
+        "tip": "Raio de detecção em metros"
+    },
+    "Information->Notifications->Ally in Radius->Cooldown (sec)": {
+        "name": "Cooldown (seg)",
+        "tip": "Tempo mínimo entre notificações"
+    },
+    "Information->Notifications->Ally in Radius->TTS Text##aboba3": {
+        "name": "Texto TTS##aboba3",
+        "tip": "Texto falado quando um aliado é detectado"
+    },
+    "Information->Notifications->Ally in Radius->ally_radius_opts": {
+        "toggleBlockNames": {
+            "Only when inactive": "Apenas quando inativo"
+        }
+    },
+    "Player->Pathfinding->Character Pathfinding->Move to position": {
+        "name": "Mover para posição",
+        "tip": "Movimento automático do personagem até a posição especificada",
+        "tip2": "Você pode definir a posição pelo minimapa"
+    },
+    "Player->Pathfinding": {
+        "name": "Pathfinding"
+    },
+    "Player->Pathfinding->Character Pathfinding": {
+        "name": "Pathfinding do personagem"
+    },
+    "Player->Pathfinding->Character Pathfinding->Set destination key": {
+        "name": "Tecla definir destino",
+        "tip": "Para definir a posição, segure a tecla e clique no local"
+    },
+    "Player->Pathfinding->Character Pathfinding->Auto move": {
+        "toggleBlockNames": {
+            "Auto move": "Movimento automático"
+        }
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Climb penalty": {
+        "name": "Penalidade de escalada"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings": {
+        "name": "Configurações de pathfinding"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Climb height": {
+        "name": "Altura de escalada"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Grid size": {
+        "name": "Tamanho da grade"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Max step count": {
+        "name": "Máximo de passos"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Ground check count": {
+        "name": "Verificações de solo"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Max climb height": {
+        "name": "Altura máxima de escalada"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Height check start": {
+        "name": "Início da verificação de altura"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Max slope angle": {
+        "name": "Ângulo máximo de inclinação"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Off-road penalty": {
+        "name": "Penalidade fora da estrada"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Barbed wire penalty": {
+        "name": "Penalidade de arame farpado"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Small radius penalty": {
+        "name": "Penalidade de raio pequeno"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Water penalty": {
+        "name": "Penalidade de água"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Player proximity distance": {
+        "name": "Distância de proximidade do jogador"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Player proximity penalty": {
+        "name": "Penalidade de proximidade do jogador"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->H cost weight": {
+        "name": "Peso do custo H"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Staircase penalty": {
+        "name": "Penalidade de escadas"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Path rebuild interval": {
+        "name": "Intervalo de reconstrução do caminho"
+    },
+    "Player->Pathfinding->Character Pathfinding->Debug settings->Debug toggles": {
+        "toggleBlockNames": {
+            "Show debug": "Mostrar debug",
+            "Show move arrows": "Mostrar setas de movimento",
+            "Show climb arrows": "Mostrar setas de escalada",
+            "Show actual trace": "Mostrar trajeto real"
+        }
+    },
+    "Player->Pathfinding->Character Pathfinding->Debug settings": {
+        "name": "Configurações de debug"
+    },
+    "Player->Pathfinding->Hint->Hint": {
+        "name": "Dica",
+        "tip": "Bind + RMB no chão — mover até o ponto\nBind + RMB no minimapa — mover até o ponto\nBind + RMB em veículo/construção — aproximar e entrar no objeto\nBind + RMB em contêiner — aproximar e empacotar/desempacotar\nBind + RMB em contêiner sentado no guindaste — pegar/colocar o contêiner\nBind + Shift + RMB — adicionar ação à fila (funciona com todas as ações acima)"
+    },
+    "Player->Pathfinding->Hint": {
+        "name": "Dica"
+    },
+    "Player->Aircraft->Bomb target->Bomb landing indicator": {
+        "name": "Indicador de queda da bomba",
+        "tip": "Indicador na superfície onde a bomba irá cair"
+    },
+    "Player->Aircraft": {
+        "name": "Aeronave"
+    },
+    "Player->Aircraft->Bomb target": {
+        "name": "Alvo da bomba"
+    },
+    "Information->Logi helper->Show Refinery Orders->Show refinery orders": {
+        "name": "Mostrar ordens da refinaria",
+        "tip": "Mostra o status das ordens da refinaria"
+    },
+    "Information->Logi helper": {
+        "name": "Auxiliar Logi"
+    },
+    "Information->Logi helper->Show Refinery Orders": {
+        "name": "Mostrar ordens da refinaria"
+    },
+    "Information->Logi helper->Show Refinery Orders->styles": {
+        "toggleBlockNames": {
+            "Enable dark background": "Ativar fundo escuro",
+            "Show final column": "Mostrar coluna final"
+        }
+    },
+    "Information->Logi helper->Show Refinery Orders->Scale": {
+        "name": "Escala",
+        "tip": "Escala da exibição dos pedidos da refinaria"
+    },
+    "Player->Vehicle->Crane Radius->Crane radius": {
+        "name": "Raio do guindaste",
+        "tip": "Renderiza o raio do guindaste"
+    },
+    "Player->Vehicle": {
+        "name": "Veículo"
+    },
+    "Player->Vehicle->Crane Radius": {
+        "name": "Raio do guindaste"
+    },
+    "Player->Vehicle->Crane Radius->Range color": {
+        "name": "Cor do alcance"
+    },
+    "Player->Commend Trader->Commend trader->Auto commend trader": {
+        "name": "Auto elogiar trader",
+        "tip": "Elogia automaticamente jogadores que escrevem no chat"
+    },
+    "Player->Commend Trader": {
+        "name": "Commend Trader"
+    },
+    "Player->Commend Trader->Commend trader": {
+        "name": "Commend trader"
+    },
+    "Player->Commend Trader->Commend trader->Commend toggles": {
+        "toggleBlockNames": {
+            "Auto commend trade": "Auto elogiar trade",
+            "Auto commend response": "Auto elogiar resposta",
+            "Auto commend from list": "Auto elogiar da lista",
+            "Skip self commend": "Ignorar auto elogio"
+        }
+    },
+    "Player->Commend Trader->Commend trader->Auto commend id list": {
+        "name": "Lista automática de IDs para elogiar",
+        "tip": "SteamID64, separados por vírgula"
+    },
+    "Player->Artillery->Shell runner->Shell runner": {
+        "name": "Transportador de munição",
+        "tip": "Para funcionar, é necessário selecionar um local com projéteis e a artilharia"
+    },
+    "Player->Artillery": {
+        "name": "Artilharia"
+    },
+    "Player->Artillery->Shell runner": {
+        "name": "Transportador de munição"
+    },
+    "Player->Artillery->Shell runner->Select stockpile with shells and target": {
+        "name": "Selecionar estoque de projéteis e alvo",
+        "tip": "Você pode selecionar um pallet. Para limpar — pressione o bind em um espaço vazio"
+    },
+    "Player->Artillery->Auto reloader->Auto reloader": {
+        "name": "Auto recarregar",
+        "tip": "Recarrega automaticamente a artilharia enquanto você estiver nela"
+    },
+    "Player->Artillery->Auto reloader": {
+        "name": "Auto recarregar"
+    },
+    "Player->Artillery->Auto reloader->Delay after sitting down": {
+        "name": "Atraso após sentar",
+        "tip": "Atraso antes de começar a recarregar após sentar como artilheiro"
+    },
+    "Player->Artillery->Auto reloader->Pre-reload delay": {
+        "name": "Atraso antes do recarregamento",
+        "tip": "Atraso após a munição acabar antes do primeiro pedido de recarga"
+    },
+    "Player->Artillery->Auto reloader->Reload request interval": {
+        "name": "Intervalo de pedido de recarga",
+        "tip": "Intervalo mínimo entre pedidos de recarga para evitar spam"
+    },
+    "Player->Artillery->Auto fire->Auto fire": {
+        "name": "Disparo automático",
+        "tip": "Dispara a artilharia automaticamente. Desativa ao sair"
+    },
+    "Player->Artillery->Auto fire": {
+        "name": "Disparo automático"
+    },
+    "Player->Artillery->Auto fire->Auto stop condition": {
+        "name": "Condição de parada automática",
+        "tip": "Condição na qual o disparo automático será interrompido",
+        "comboBoxValues": {
+            "When not in artillery": "Quando não estiver na artilharia",
+            "If W/A/S/D/Q pressed": "Se W/A/S/D/Q forem pressionadas"
+        }
+    },
+    "Player->Exploits->Move in ui->Move in ui": {
+        "name": "Mover na UI",
+        "tip": "Permite se mover com a UI aberta"
+    },
+    "Player->Exploits": {
+        "name": "Exploits"
+    },
+    "Player->Exploits->Move in ui": {
+        "name": "Mover na UI"
+    },
+    "ESP->Player->Self health bar->Self health bar": {
+        "name": "Barra de vida própria",
+        "tip": "UI de vida do personagem/veículo"
+    },
+    "ESP->Player->Self health bar": {
+        "name": "Barra de vida própria"
+    },
+    "ESP->Player->Self health bar->Panel position->X pos": {
+        "name": "Pos X",
+        "tip": "Posição X da barra de vida"
+    },
+    "ESP->Player->Self health bar->Panel position": {
+        "name": "Posição do painel"
+    },
+    "ESP->Player->Self health bar->Panel position->Y pos": {
+        "name": "Pos Y",
+        "tip": "Posição Y da barra de vida"
+    },
+    "ESP->Player->Self health bar->Render settings->Health color": {
+        "name": "Cor da vida",
+        "tip": "Cor da barra de vida com vida cheia"
+    },
+    "ESP->Player->Self health bar->Render settings": {
+        "name": "Configurações de renderização"
+    },
+    "ESP->Player->Self health bar->Render settings->Low health color": {
+        "name": "Cor com pouca vida",
+        "tip": "Cor da barra de vida com pouca vida"
+    },
+    "ESP->Player->Self health bar->Render settings->Scale": {
+        "name": "Escala",
+        "tip": "Escala da barra de vida"
+    },
+    "ESP->Player->Self health bar->Render settings->Width": {
+        "name": "Largura",
+        "tip": "Largura da barra de vida"
+    },
+    "ESP->Player->Self health bar->Render settings->Height": {
+        "name": "Altura",
+        "tip": "Altura da barra de vida"
+    },
+    "ESP->Player->Self health bar->Render settings->Alpha": {
+        "name": "Alpha",
+        "tip": "Transparência da barra de vida"
+    },
+    "Player->Movement->Followbot->Followbot": {
+        "name": "Followbot",
+        "tip": "Segue automaticamente o jogador selecionado"
+    },
+    "Player->Movement->Followbot": {
+        "name": "Followbot"
+    },
+    "Player->Movement->Followbot->Toggle Followbot to target": {
+        "name": "Ativar Followbot no alvo",
+        "tip": "Alternar Followbot para o alvo"
+    },
+    "Player->Movement->Followbot->Auto stop toggles": {
+        "toggleBlockNames": {
+            "Auto stop when W/A/S/D pressed": "Parar automaticamente ao pressionar W/A/S/D"
+        }
+    },
+    "Player->Farm helpers->Auto Farm->Auto farm": {
+        "name": "Auto farm",
+        "tip": "Extrai recursos com o personagem ou harvester.\nOs recursos coletados são entregues no ponto de descarregamento."
+    },
+    "Player->Farm helpers": {
+        "name": "Auxiliares de farm"
+    },
+    "Player->Farm helpers->Auto Farm": {
+        "name": "Auto Farm"
+    },
+    "Player->Farm helpers->Auto Farm->Farm toggles": {
+        "toggleBlockNames": {
+            "Stop by W/A/S/D": "Parar com W/A/S/D",
+            "Rare resources mode": "Modo de recursos raros",
+            "Store rare metal": "Armazenar metal raro",
+            "Store tech materials": "Armazenar materiais tecnológicos",
+            "Private facility storage first": "Priorizar armazenamento em instalação privada",
+            "Avoid other players": "Evitar outros jogadores",
+            "Switch to rare resource mode when full": "Mudar para modo de recursos raros quando cheio",
+            "Uload only when full": "Descarregar apenas quando cheio",
+            "Move to AFK point when enemy nearby": "Ir para ponto AFK quando inimigo estiver por perto"
+        }
+    },
+    "Player->Farm helpers->Auto Farm->Start bot key bind": {
+        "name": "Tecla para iniciar o bot",
+        "tip": "Se pressionada novamente, o bot será parado"
+    },
+    "Player->Farm helpers->Auto Farm->Set drop point key bind": {
+        "name": "Tecla para definir ponto de descarregamento",
+        "tip": "Suporta contêineres, veículos, instalações e bases\nSegure Shift para adicionar vários pontos"
+    },
+    "Player->Farm helpers->Auto Farm->Set rare material drop point key bind": {
+        "name": "Tecla para definir ponto de descarregamento de materiais raros",
+        "tip": "Suporta contêineres, veículos, instalações e bases\nSegure Shift para adicionar vários pontos"
+    },
+    "Player->Farm helpers->Auto Farm->Set AFK place key bind": {
+        "name": "Tecla para definir local AFK"
+    },
+    "Player->Farm helpers->Auto Farm->Hints": {
+        "name": "Dicas"
+    },
+    "Player->Farm helpers->Auto Farm->Rare resources mode": {
+        "name": "Modo de recursos raros",
+        "tip": "Alumínio, ferro, cobre, metal raro e materiais tecnológicos\nQuando o inventário estiver cheio, o script irá soltar metal comum no chão."
+    },
+    "Player->Farm helpers->Auto Farm->Store rare resources": {
+        "name": "Armazenar recursos raros",
+        "tip": "Armazena recursos raros nos pontos de descarregamento definidos.\nSe desativado, eles permanecerão no inventário."
+    },
+    "Player->Building->Auto Click->Auto LMB": {
+        "name": "Auto LMB",
+        "tip": "Para reparar, cavar, construir, etc."
+    },
+    "Player->Building": {
+        "name": "Construção"
+    },
+    "Player->Building->Auto Click": {
+        "name": "Auto Click"
+    },
+    "Player->Building->Auto Click->Auto stop toggles": {
+        "toggleBlockNames": {
+            "Auto stop when W/A/S/D pressed": "Parar automaticamente ao pressionar W/A/S/D",
+            "Auto stop when clicked": "Parar automaticamente ao clicar"
+        }
+    },
+    "Player->Building->Auto Click->Auto LMB bind": {
+        "name": "Bind do Auto LMB"
+    },
+    "Player->Vehicle->Replicate movement->Replicate vehicle control": {
+        "name": "Replicar controle do veículo",
+        "tip": "Repete os pressionamentos das teclas WASD do motorista mesmo se o jogo estiver fora de foco",
+        "tip2": "Esse recurso foi criado para controlar veículos a partir de várias janelas do jogo.\nPermite usar, por exemplo, um tanque ou artilharia jogando sozinho.\n\nExemplo: Na janela do motorista, ative o recurso e minimize para a janela\ncom o artilheiro ou comandante. Depois disso você pode pressionar WASD.\nA janela do motorista irá 'capturar' esses pressionamentos."
+    },
+    "Player->Vehicle->Replicate movement": {
+        "name": "Replicar movimento"
+    },
+    "Player->Vehicle->Replicate movement->Activation key bind": {
+        "name": "Tecla de ativação"
+    },
+    "Player->Vehicle->Replicate movement->Movement toggles": {
+        "toggleBlockNames": {
+            "Auto open gates": "Abrir portões automaticamente",
+            "Disable if no crew inside": "Desativar se não houver tripulação dentro"
+        }
+    },
+    "Player->Vehicle->Replicate movement->Check crew pause method": {
+        "name": "Método de pausa ao verificar tripulação",
+        "comboBoxValues": {
+            "When somebody exit": "Quando alguém sair",
+            "When solo in vehicle": "Quando estiver sozinho no veículo"
+        }
+    },
+    "Player->Vehicle->AutoGear->Auto gear change": {
+        "name": "Troca automática de marcha",
+        "tip": "Troca as marchas automaticamente em caminhões pesados"
+    },
+    "Player->Vehicle->AutoGear": {
+        "name": "AutoGear"
+    },
+    "Player->Vehicle->AutoGear->Speed to up gear": {
+        "name": "Velocidade para subir marcha",
+        "tip": "Velocidade (em m/s) na qual a marcha será aumentada"
+    },
+    "Player->Vehicle->AutoGear->Speed to down gear": {
+        "name": "Velocidade para reduzir marcha",
+        "tip": "Velocidade (em m/s) na qual a marcha será reduzida"
+    },
+    "Player->Vehicle->SHTStuff->Auto engineer repair": {
+        "name": "Reparo automático do engenheiro",
+        "tip": "Repara automaticamente o motor em caminhões pesados"
+    },
+    "Player->Vehicle->SHTStuff": {
+        "name": "SHTStuff"
+    },
+    "Player->Artillery->Artillery calculator": {
+        "name": "Calculadora de artilharia",
+        "tip": "Função de cálculo da posição de disparo da artilharia"
+    },
+    "Player->Artillery->Set target position key": {
+        "name": "Tecla para definir posição do alvo",
+        "tip": "Posição para atirar"
+    },
+    "Player->Artillery->Set artillery position key": {
+        "name": "Tecla para definir posição da artilharia",
+        "tip": "Posição de onde atirar (se não definida, será usada a posição do seu personagem)",
+        "tip2": "Se pressionado novamente, a posição será removida"
+    },
+    "Player->Artillery->Render toggle key": {
+        "name": "Tecla para alternar renderização",
+        "tip": "Tecla para mostrar/ocultar as informações"
+    },
+    "Player->Artillery->What to render": {
+        "name": "O que renderizar",
+        "multiComboBoxValues": {
+            "Line from target to predicted pos": "Linha do alvo até a posição prevista",
+            "Line to predicted pos": "Linha até a posição prevista",
+            "Dispersion area": "Área de dispersão",
+            "Panel on cursor": "Painel no cursor"
+        }
+    },
+    "Player->Artillery->Show debug info": {
+        "toggleBlockNames": {
+            "Show debug info": "Mostrar informações de debug"
+        }
+    },
+    "Player->Artillery->Artillery dispersion Preset": {
+        "name": "Preset de dispersão da artilharia",
+        "tip": "Mostra o raio de dispersão da artilharia na posição do alvo",
+        "comboBoxValues": {
+            "Cremari Mortar": "Cremari Mortar",
+            "Gunboat": "Gunboat",
+            "Mortar Truck": "Mortar Truck",
+            "Ship 120mm": "Ship 120mm",
+            "Ship 150mm": "Ship 150mm",
+            "Colonial Field 120mm": "Colonial Field 120mm",
+            "Warden Emplaced 120mm": "Warden Emplaced 120mm",
+            "Battle Tank 150mm": "Battle Tank 150mm",
+            "Warden Emplaced 150mm": "Warden Emplaced 150mm",
+            "Colonial Emplaced 150mm": "Colonial Emplaced 150mm",
+            "Train 300mm": "Train 300mm",
+            "Storm Cannon 300mm": "Storm Cannon 300mm",
+            "Colonial Rocket Tankette 4C": "Colonial Rocket Tankette 4C",
+            "Warden Rocket Half-Track 4C": "Warden Rocket Half-Track 4C",
+            "Warden Field Launcher 4C": "Warden Field Launcher 4C",
+            "Colonial Katyusha 3C": "Colonial Katyusha 3C",
+            "Warden King Jester 3C": "Warden King Jester 3C",
+            "Colonial Hades Net 3C": "Colonial Hades Net 3C"
+        }
+    },
+    "Player->Artillery->Tips->Hint": {
+        "name": "Dica",
+        "tip": "Você pode clicar no minimapa para definir a posição do alvo e da artilharia.\n\nSegure ALT para definir a posição da artilharia ao clicar no minimapa.\n\nO círculo branco no minimapa indica a posição do alvo.\nO círculo laranja indica a posição da artilharia."
+    },
+    "Player->Artillery->Tips": {
+        "name": "Dicas"
+    },
+    "Information->Logi helper->Search stuff->Search stuff": {
+        "name": "Procurar itens",
+        "tip": "Procura por itens em bases e armazéns",
+        "tip2": "Após digitar o texto no campo, o script destacará todos os pontos onde o item procurado está localizado"
+    },
+    "Information->Logi helper->Search stuff": {
+        "name": "Procurar itens"
+    },
+    "Information->Logi helper->Search stuff->Search toggles": {
+        "toggleBlockNames": {
+            "Background scan": "Escaneamento em segundo plano",
+            "Map mod fix": "Correção do mod do mapa"
+        },
+        "toggleBlockTips": {
+            "Background scan": "Escaneia gradualmente armazéns e bases do hex atual em segundo plano",
+            "Map mod fix": "Corrige coordenadas para o mod do mapa caso os pontos não coincidam"
+        }
+    },
+    "Information->Logi helper->Search stuff->Open panel key bind": {
+        "name": "Tecla para abrir painel"
+    },
+    "Information->Logi helper->Search stuff->Open panel button": {
+        "name": "Botão para abrir painel"
+    },
+    "Player->Vehicle->Auto pilot->Auto pilot": {
+        "name": "Piloto automático"
+    },
+    "Player->Vehicle->Auto pilot": {
+        "name": "Piloto automático"
+    },
+    "Player->Vehicle->Auto pilot->Pathfinding toggles": {
+        "toggleBlockNames": {
+            "Auto stop when disabled": "Parar automaticamente quando desativado",
+            "Auto stop when no fuel": "Parar automaticamente sem combustível",
+            "Debug draw": "Desenho de debug"
+        }
+    },
+    "Player->Vehicle->Auto pilot->Update map paths": {
+        "name": "Atualizar rotas do mapa"
+    },
+    "Player->Vehicle->Auto pilot->Hint": {
+        "name": "Dica",
+        "tip": "Para parar o piloto automático – pressione W+S ao mesmo tempo"
+    },
+    "Information->Logi helper->Logi helper->Logi helper": {
+        "name": "Assistente Logi",
+        "tip": "Cálculo das caixas necessárias para a base selecionada",
+        "tip2": "Ao passar o cursor sobre uma base, o script calculará as caixas necessárias\n\nAs caixas podem ser coletadas automaticamente usando o botão no painel"
+    },
+    "Information->Logi helper->Logi helper": {
+        "name": "Assistente Logi"
+    },
+    "Information->Logi helper->Logi helper->Open panel key bind": {
+        "name": "Tecla para abrir painel"
+    },
+    "Information->Logi helper->Logi helper->Open panel button": {
+        "name": "Botão para abrir painel"
+    },
+    "Player->Farm helpers->Auto Train->Auto train": {
+        "name": "Trem automático",
+        "tip": "Script para automatizar o pequeno trem"
+    },
+    "Player->Farm helpers->Auto Train": {
+        "name": "Trem automático"
+    },
+    "Player->Farm helpers->Auto Train->Train toggles": {
+        "toggleBlockNames": {
+            "Use shipping cart": "Usar carrinho de transporte",
+            "Auto coal refill": "Reabastecimento automático de carvão"
+        }
+    },
+    "Player->Farm helpers->Auto Train->Open panel key bind": {
+        "name": "Tecla para abrir painel",
+        "tip": "Menu para configurar rotas e ações"
+    },
+    "Player->Farm helpers->Auto Train->Start bot key bind": {
+        "name": "Tecla para iniciar bot",
+        "tip": "Inicia a sequência do trem automático. Se já estiver funcionando, irá parar."
+    },
+    "Player->Farm helpers->Auto Train->Cart switch delay": {
+        "name": "Atraso ao mudar carrinho",
+        "tip": "Atraso em segundos após mudar de aba do carrinho antes de continuar"
+    },
+    "Player->Farm helpers->Auto Train->Next station delay": {
+        "name": "Atraso na próxima estação",
+        "tip": "Atraso em segundos antes de iniciar ações na próxima estação"
+    },
+    "Player->Repeat pull->Repeat pull": {
+        "name": "Repetir retirada",
+        "tip": "O botão de repetição está localizado abaixo da interface do armazém",
+        "tip2": "O script pegará o item do estoque que foi retirado na última vez"
+    },
+    "Player->Repeat pull": {
+        "name": "Repetir retirada"
+    },
+    "Player->Repeat pull->Auto disable": {
+        "toggleBlockNames": {
+            "Auto disable if stockpile is empty": "Desativar automaticamente se o estoque estiver vazio"
+        }
+    },
+    "Information->Minimap->Mini-Map->Minimap": {
+        "name": "Minimapa",
+        "tip": "Minimapa com capacidade de interação"
+    },
+    "Information->Minimap": {
+        "name": "Minimapa"
+    },
+    "Information->Minimap->Mini-Map": {
+        "name": "Mini-Mapa"
+    },
+    "Information->Minimap->Mini-Map->Map panel scale": {
+        "name": "Escala do painel do mapa",
+        "tip": "Escala do painel do minimapa"
+    },
+    "Information->Minimap->Mini-Map->Icons scale": {
+        "name": "Escala dos ícones",
+        "tip": "Ícones de jogadores, veículos ocupados e abandonados"
+    },
+    "Information->Minimap->Mini-Map->Zoom": {
+        "name": "Zoom",
+        "tip": "É possível aproximar e afastar usando '+' e '-'"
+    },
+    "Information->Minimap->Mini-Map->Edge Expansion": {
+        "name": "Expansão da borda",
+        "tip": "Expande a área de exibição do mapa além do minimapa"
+    },
+    "Information->Minimap->Mini-Map->Cache duration": {
+        "name": "Duração do cache",
+        "tip": "Duração da exibição de entidades no minimapa"
+    },
+    "Information->Minimap->Mini-Map->Minimap Color": {
+        "name": "Cor do minimapa"
+    },
+    "Information->Minimap->Mini-Map->Roads Color": {
+        "name": "Cor das estradas"
+    },
+    "Information->Minimap->Mini-Map->Show objects": {
+        "name": "Mostrar objetos",
+        "multiComboBoxValues": {
+            "Wreckages": "Destroços",
+            "Players": "Jogadores",
+            "Empty Vehicles": "Veículos vazios",
+            "Player Vehicles": "Veículos de jogadores",
+            "Watch Towers": "Torres de vigilância",
+            "Observation Bunkers": "Bunkers de observação",
+            "Listening Kits": "Kits de escuta",
+            "Spawn Bases": "Bases de spawn",
+            "Production": "Produção",
+            "Artillery Explosions": "Explosões de artilharia"
+        }
+    },
+    "Information->Minimap->Mini-Map->Show teams": {
+        "name": "Mostrar times",
+        "multiComboBoxValues": {
+            "Ally": "Aliado",
+            "Enemy": "Inimigo"
+        }
+    },
+    "Information->Minimap->Mini-Map->Map info toggles": {
+        "toggleBlockNames": {
+            "Show players count on map": "Mostrar número de jogadores no mapa",
+            "Show tech level on map": "Mostrar nível tecnológico no mapa",
+            "Show players via intelligence": "Mostrar jogadores via inteligência",
+            "Show ally intel coverage": "Mostrar cobertura de inteligência dos aliados",
+            "Show enemy intel coverage": "Mostrar cobertura de inteligência dos inimigos"
+        }
+    },
+    "Information->Minimap->Mini-Map->Players Count Position": {
+        "name": "Posição do contador de jogadores",
+        "comboBoxValues": {
+            "Top": "Topo",
+            "Bottom": "Inferior"
+        }
+    },
+    "Information->Minimap->Mini-Map->Intel coverage outline thickness": {
+        "name": "Espessura do contorno da cobertura de inteligência"
+    },
+    "Information->Minimap->Mini-Map->Ally intel coverage fill color": {
+        "name": "Cor de preenchimento da cobertura de inteligência dos aliados"
+    },
+    "Information->Minimap->Mini-Map->Ally intel coverage outline color": {
+        "name": "Cor do contorno da cobertura de inteligência dos aliados"
+    },
+    "Information->Minimap->Mini-Map->Enemy intel coverage fill color": {
+        "name": "Cor de preenchimento da cobertura de inteligência dos inimigos"
+    },
+    "Information->Minimap->Mini-Map->Enemy intel coverage outline color": {
+        "name": "Cor do contorno da cobertura de inteligência dos inimigos"
+    },
+    "Information->Minimap->Mini-Map->Minimap position settings->Minimap position X": {
+        "name": "Posição X do minimapa"
+    },
+    "Information->Minimap->Mini-Map->Minimap position settings": {
+        "name": "Configurações de posição do minimapa"
+    },
+    "Information->Minimap->Mini-Map->Minimap position settings->Minimap position Y": {
+        "name": "Posição Y do minimapa"
+    },
+    "Information->Minimap->Map scan->Map scan": {
+        "name": "Escaneamento do mapa",
+        "tip": "Ao iniciar, escaneia a área selecionada ou o mapa inteiro por inimigos/veículos/objetos",
+        "tip2": "Se você selecionar uma área usando CTRL+LMB,\no scanner funcionará apenas nessa área"
+    },
+    "Information->Minimap->Map scan": {
+        "name": "Escaneamento do mapa"
+    },
+    "Information->Minimap->Map scan->Scan toggles": {
+        "toggleBlockNames": {
+            "Wreckage attention": "Atenção aos destroços",
+            "Cyclical scan": "Escaneamento cíclico",
+            "Random position scan": "Escaneamento em posições aleatórias"
+        },
+        "toggleBlockTips": {
+            "Wreckage attention": "Se habilitado, o scanner irá pausar nos destroços para mantê-los carregados após o escaneamento",
+            "Cyclical scan": "",
+            "Random position scan": ""
+        }
+    },
+    "Information->Minimap->Map scan->[DEV] Map scanner settings->Not recommended to change the default settings": {
+        "name": "Não recomendado alterar as configurações padrão",
+        "tip": "As alterações podem ser revertidas clicando com o botão direito → Restaurar padrão"
+    },
+    "Information->Minimap->Map scan->[DEV] Map scanner settings": {
+        "name": "[DEV] Configurações do scanner de mapa"
+    },
+    "Information->Minimap->Map scan->[DEV] Map scanner settings->Scan step duration": {
+        "name": "Duração do passo de escaneamento"
+    },
+    "Information->Minimap->Map scan->[DEV] Map scanner settings->Scan step X": {
+        "name": "Passo de escaneamento X"
+    },
+    "Information->Minimap->Map scan->[DEV] Map scanner settings->Scan step Y": {
+        "name": "Passo de escaneamento Y"
+    },
+    "Information->Minimap->Map scan->Start scan": {
+        "name": "Iniciar escaneamento",
+        "tip": "O escaneamento será interrompido ao pressionar novamente"
+    },
+    "Information->Minimap->Map scan->Start scan keybind": {
+        "name": "Tecla para iniciar escaneamento",
+        "tip": "O escaneamento será interrompido ao pressionar novamente"
+    },
+    "Player->Aim assist->AIM assist": {
+        "name": "Assistência de mira",
+        "tip": "Aponta automaticamente a arma para os inimigos"
+    },
+    "Player->Aim assist": {
+        "name": "Assistência de mira"
+    },
+    "Player->Aim assist->Search FOV": {
+        "name": "FOV de busca",
+        "tip": "Raio ao redor do cursor para procurar inimigos"
+    },
+    "Player->Aim assist->Search step": {
+        "name": "Passo de busca",
+        "tip": "Passo da grade ao escanear o modelo inimigo (menor = mais preciso, mas mais lento)"
+    },
+    "Player->Aim assist->Render FOV": {
+        "name": "Renderizar FOV",
+        "tip": "Exibe o raio ao mirar em um inimigo",
+        "comboBoxValues": {
+            "Only when aiming": "Apenas ao mirar",
+            "Always": "Sempre",
+            "Never": "Nunca"
+        }
+    },
+    "Player->Aim assist->Debug visualization": {
+        "toggleBlockNames": {
+            "Debug visualization": "Visualização de debug"
+        }
+    },
+    "Player->Vehicle->Train fireman->Train fireman": {
+        "name": "Foguista do trem",
+        "tip": "Adiciona carvão automaticamente como foguista no trem grande"
+    },
+    "Player->Vehicle->Train fireman": {
+        "name": "Foguista do trem"
+    },
+    "Player->Vehicle->Train fireman->Activation key bind": {
+        "name": "Tecla de ativação"
+    },
+    "Player->Vehicle->Train fireman->Min fuel": {
+        "name": "Combustível mínimo"
+    },
+    "Player->Vehicle->Train fireman->Min speed": {
+        "name": "Velocidade mínima"
+    },
+    "Player->Exploits->Vehicle->Ignore lack of fuel": {
+        "name": "Ignorar falta de combustível",
+        "tip": "O veículo funcionará sem combustível"
+    },
+    "Player->Exploits->Vehicle": {
+        "name": "Veículo"
+    },
+    "Player->Exploits->Vehicle->Ignore artillery": {
+        "toggleBlockNames": {
+            "Ignore artillery": "Ignorar artilharia"
+        }
+    },
+    "Player->Exploits->Vehicle->Ignore disabled vehicle": {
+        "name": "Ignorar veículo danificado",
+        "tip": "O veículo funcionará mesmo danificado"
+    },
+    "Player->Exploits->Vehicle->Time before disable ignore (0 - off)": {
+        "name": "Tempo antes de ignorar desativação (0 - desativado)",
+        "tip": "Tempo em que o veículo pode operar após sofrer dano"
+    },
+    "Player->Exploits->Weapons->Ignore weapon use restrictions": {
+        "name": "Ignorar restrições de uso de armas",
+        "tip": "Permite usar armas em qualquer condição"
+    },
+    "Player->Exploits->Weapons": {
+        "name": "Armas"
+    },
+    "Player->Exploits->Building->Ignore some building rules": {
+        "name": "Ignorar algumas regras de construção",
+        "tip": "A construção funcionará sem considerar algumas regras"
+    },
+    "Player->Exploits->Building": {
+        "name": "Construção"
+    },
+    "Player->Exploits->Building->Ignore building cooldown": {
+        "name": "Ignorar cooldown de construção",
+        "tip": "Remove o tempo limite entre construções"
+    },
+    "Player->Movement->Auto deploy->Auto deploy": {
+        "name": "Desdobramento automático",
+        "tip": "Movimenta-se para a zona de desdobramento na região inicial"
+    },
+    "Player->Movement->Auto deploy": {
+        "name": "Desdobramento automático"
+    },
+    "Player->Movement->Auto deploy->Move to deploy point bind": {
+        "name": "Tecla para mover ao ponto de desdobramento"
+    },
+    "Player->Movement->Auto deploy->Auto deploy toggles": {
+        "toggleBlockNames": {
+            "Auto run to deploy zone after spawn": "Correr automaticamente para a zona de desdobramento após spawn"
+        }
+    },
+    "Information->Custom range->Around Character->Custom range on character": {
+        "name": "Alcance personalizado no personagem",
+        "tip": "Renderizar raio ao redor do seu personagem"
+    },
+    "Information->Custom range": {
+        "name": "Alcance personalizado"
+    },
+    "Information->Custom range->Around Character": {
+        "name": "Ao redor do personagem"
+    },
+    "Information->Custom range->Around Character->Display radius": {
+        "name": "Exibir raio"
+    },
+    "Information->Custom range->Around Character->Range color": {
+        "name": "Cor do raio"
+    },
+    "Information->Custom range->Around Cursor->Custom range on cursor": {
+        "name": "Alcance personalizado no cursor",
+        "tip": "Renderizar raio ao redor do cursor"
+    },
+    "Information->Custom range->Around Cursor": {
+        "name": "Ao redor do cursor"
+    },
+    "Information->Custom range->Around Cursor->Display radius": {
+        "name": "Exibir raio"
+    },
+    "Information->Custom range->Around Cursor->Range color": {
+        "name": "Cor do raio"
+    },
+    "Information->Custom range->Ruler->Enable ruler": {
+        "name": "Ativar régua",
+        "tip": "Medir distância entre pontos. Shift+Bind adiciona um ponto, Bind sem Shift limpa todos os pontos"
+    },
+    "Information->Custom range->Ruler": {
+        "name": "Régua"
+    },
+    "Information->Custom range->Ruler->Ruler bind": {
+        "name": "Bind da régua"
+    },
+    "Information->Custom range->Ruler->Ruler color": {
+        "name": "Cor da régua"
+    },
+    "Information->Custom range->Ruler->Line thickness": {
+        "name": "Espessura da linha"
+    },
+    "Information->Voice Transcription/Translation->Voice Transcription/Translation": {
+        "name": "Transcrição/Tradução de voz"
+    },
+    "Information->Voice Transcription/Translation": {
+        "name": "Transcrição/Tradução de voz"
+    },
+    "Information->Voice Transcription/Translation->Model": {
+        "name": "Modelo",
+        "comboBoxValues": {
+            "tiny": "tiny",
+            "tiny.en": "tiny.en",
+            "tiny-q5_1": "tiny-q5_1",
+            "tiny.en-q5_1": "tiny.en-q5_1",
+            "tiny-q8_0": "tiny-q8_0",
+            "base": "base",
+            "base.en": "base.en",
+            "base-q5_1": "base-q5_1",
+            "base.en-q5_1": "base.en-q5_1",
+            "base-q8_0": "base-q8_0",
+            "small": "small",
+            "small.en": "small.en",
+            "small.en-tdrz": "small.en-tdrz",
+            "small-q5_1": "small-q5_1",
+            "small.en-q5_1": "small.en-q5_1",
+            "small-q8_0": "small-q8_0",
+            "medium": "medium",
+            "medium.en": "medium.en",
+            "medium-q5_0": "medium-q5_0",
+            "medium.en-q5_0": "medium.en-q5_0",
+            "medium-q8_0": "medium-q8_0",
+            "large-v1": "large-v1",
+            "large-v2": "large-v2",
+            "large-v2-q5_0": "large-v2-q5_0",
+            "large-v2-q8_0": "large-v2-q8_0",
+            "large-v3": "large-v3",
+            "large-v3-q5_0": "large-v3-q5_0",
+            "large-v3-turbo": "large-v3-turbo",
+            "large-v3-turbo-q5_0": "large-v3-turbo-q5_0",
+            "large-v3-turbo-q8_0": "large-v3-turbo-q8_0"
+        }
+    },
+    "Information->Voice Transcription/Translation->Detect language": {
+        "name": "Detectar idioma",
+        "comboBoxValues": {
+            "auto": "auto",
+            "en": "en",
+            "ru": "ru",
+            "de": "de",
+            "fr": "fr",
+            "es": "es",
+            "it": "it",
+            "pt": "pt",
+            "pl": "pl",
+            "tr": "tr",
+            "ja": "ja",
+            "zh": "zh",
+            "ko": "ko",
+            "ar": "ar",
+            "nl": "nl",
+            "sv": "sv",
+            "da": "da",
+            "fi": "fi",
+            "no": "no",
+            "cs": "cs",
+            "hu": "hu",
+            "ro": "ro",
+            "sk": "sk",
+            "bg": "bg",
+            "el": "el"
+        }
+    },
+    "Information->Voice Transcription/Translation->Buffer timeout (s)": {
+        "name": "Tempo limite do buffer (s)"
+    },
+    "Information->Voice Transcription/Translation->Show text over players": {
+        "name": "Exibir texto sobre os jogadores"
+    },
+    "Information->Voice Transcription/Translation->Text display duration (s)": {
+        "name": "Duração da exibição do texto (s)"
+    },
+    "Information->Voice Transcription/Translation->Translate": {
+        "name": "Traduzir"
+    },
+    "Information->Voice Transcription/Translation->Translate to": {
+        "name": "Traduzir para",
+        "comboBoxValues": {
+            "auto": "auto",
+            "en": "en",
+            "ru": "ru",
+            "de": "de",
+            "fr": "fr",
+            "es": "es",
+            "it": "it",
+            "pt": "pt",
+            "pl": "pl",
+            "tr": "tr",
+            "ja": "ja",
+            "zh": "zh",
+            "ko": "ko",
+            "ar": "ar",
+            "nl": "nl",
+            "sv": "sv",
+            "da": "da",
+            "fi": "fi",
+            "no": "no",
+            "cs": "cs",
+            "hu": "hu",
+            "ro": "ro",
+            "sk": "sk",
+            "bg": "bg",
+            "el": "el"
+        }
+    },
+    "Information->Voice Transcription/Translation->Load model": {
+        "name": "Carregar modelo"
+    },
+    "Information->Voice Transcription/Translation->Show history": {
+        "name": "Exibir histórico"
+    },
+    "Information->FPS Unlocker->FPS Unlocker->FPS Unlock": {
+        "name": "Desbloquear FPS",
+        "tip": "Definir qualquer limite de FPS para o jogo"
+    },
+    "Information->FPS Unlocker": {
+        "name": "Desbloqueador de FPS"
+    },
+    "Information->FPS Unlocker->FPS Unlocker": {
+        "name": "Desbloqueador de FPS"
+    },
+    "Information->FPS Unlocker->FPS Unlocker->FPS limit": {
+        "name": "Limite de FPS"
+    },
+    "Information->FPS Unlocker->Fix screen->Fix screen resize": {
+        "name": "Corrigir redimensionamento da tela",
+        "tip": "Corrige mudança de resolução ao alterar região"
+    },
+    "Information->FPS Unlocker->Fix screen": {
+        "name": "Corrigir tela"
+    },
+    "Information->FPS Unlocker->Unfocused FPS->Limit FPS when unfocused": {
+        "name": "Limitar FPS quando fora de foco",
+        "tip": "Reduz FPS quando a janela do jogo não está em foco"
+    },
+    "Information->FPS Unlocker->Unfocused FPS": {
+        "name": "FPS fora de foco"
+    },
+    "Information->FPS Unlocker->Unfocused FPS->Unfocused FPS limit": {
+        "name": "Limite de FPS fora de foco"
+    },
+    "Information->FPS Unlocker->Paused FPS->Limit FPS when paused": {
+        "name": "Limitar FPS quando pausado",
+        "tip": "Reduz FPS quando o jogo está pausado (menu escape)"
+    },
+    "Information->FPS Unlocker->Paused FPS": {
+        "name": "FPS pausado"
+    },
+    "Information->FPS Unlocker->Paused FPS->Paused FPS limit": {
+        "name": "Limite de FPS pausado"
+    },
+    "Information->Camera->Free camera->Free camera": {
+        "name": "Câmera livre",
+        "tip": "Movimento da câmera sem restrições",
+        "tip2": "Ao observar uma posição distante, é recomendado mover a câmera suavemente\npara a posição, caso contrário jogadores/veículos podem não renderizar.\n\nÉ recomendado segurar uma arma ou binóculos na mão para evitar bugs"
+    },
+    "Information->Camera": {
+        "name": "Câmera"
+    },
+    "Information->Camera->Free camera": {
+        "name": "Câmera livre"
+    },
+    "Information->Camera->Free camera->Free camera key": {
+        "name": "Tecla da câmera livre"
+    },
+    "Information->Camera->Free camera->Free camera freeze key": {
+        "name": "Tecla de congelar câmera livre",
+        "tip": "Congela a posição atual da câmera"
+    },
+    "Information->Camera->Free camera->Free camera mode": {
+        "name": "Modo de câmera livre",
+        "tip2": "Auto - Pressão curta ativa o modo Toggle, pressão longa ativa o modo Hold\nHold - Ativa enquanto pressionado\nToggle - Ativa com um único toque",
+        "comboBoxValues": {
+            "Hold": "Hold",
+            "Toggle": "Toggle",
+            "Auto": "Auto"
+        }
+    },
+    "Information->Camera->Free camera->Set camera position via minimap": {
+        "name": "Definir posição da câmera via minimapa",
+        "tip": "ALT+LMB no minimapa define a posição da câmera livre"
+    },
+    "Information->Camera->Free camera->Free camera behavior settings->Camera Speed2": {
+        "name": "Velocidade da câmera"
+    },
+    "Information->Camera->Free camera->Free camera behavior settings": {
+        "name": "Configurações do comportamento da câmera livre"
+    },
+    "Information->Camera->Free camera->Free camera behavior settings->Dead Zone": {
+        "name": "Zona morta",
+        "tip": "Área central da tela onde o cursor não move a câmera"
+    },
+    "Information->Camera->Free camera->Free camera behavior settings->Fast Camera Speed": {
+        "name": "Velocidade máxima da câmera",
+        "tip": "Velocidade máxima da câmera quando o cursor está na borda da tela"
+    },
+    "Information->Camera->Free camera->Free camera behavior settings->Fast Zone": {
+        "name": "Zona rápida",
+        "tip": "Área a partir do centro da tela onde a aceleração da câmera começa"
+    },
+    "Information->Camera->FOV changer->FOV changer": {
+        "name": "Alterador de FOV",
+        "tip": "Ajuste do campo de visão"
+    },
+    "Information->Camera->FOV changer": {
+        "name": "Alterador de FOV"
+    },
+    "Information->Camera->FOV changer->Method of changing": {
+        "name": "Método de alteração",
+        "comboBoxValues": {
+            "Dont change": "Não alterar",
+            "Alt + Scroll": "Alt + Scroll",
+            "Scroll": "Scroll"
+        }
+    },
+    "Information->Camera->FOV changer->Scroll target": {
+        "name": "Alvo do scroll",
+        "comboBoxValues": {
+            "FOV": "FOV",
+            "Camera Arm Length": "Comprimento do braço da câmera"
+        }
+    },
+    "Information->Camera->FOV changer->FOV Changer settings->Current FOV": {
+        "name": "FOV atual"
+    },
+    "Information->Camera->FOV changer->FOV Changer settings": {
+        "name": "Configurações do alterador de FOV"
+    },
+    "Information->Camera->FOV changer->FOV Changer settings->FOV change Step": {
+        "name": "Passo de alteração do FOV"
+    },
+    "Information->Camera->FOV changer->FOV Changer settings->Smooth FOV change": {
+        "name": "Alteração suave do FOV"
+    },
+    "Information->Camera->FOV changer->Camera Zoom settings->Current Zoom Distance": {
+        "name": "Distância de zoom atual"
+    },
+    "Information->Camera->FOV changer->Camera Zoom settings": {
+        "name": "Configurações do zoom da câmera"
+    },
+    "Information->Camera->FOV changer->Camera Zoom settings->Zoom Distance Step": {
+        "name": "Passo de distância do zoom"
+    },
+    "Information->Camera->Cloud settings->Disable clouds": {
+        "name": "Desativar nuvens",
+        "tip": "Desativa a renderização das nuvens no céu"
+    },
+    "Information->Camera->Cloud settings": {
+        "name": "Configurações das nuvens"
+    },
+    "Information->Camera->Night intensity->Night intensity": {
+        "name": "Intensidade da noite",
+        "tip": "Altera a intensidade de visibilidade à noite"
+    },
+    "Information->Camera->Night intensity": {
+        "name": "Intensidade da noite"
+    },
+    "Information->Camera->Night intensity->Night intensity value": {
+        "name": "Valor da intensidade da noite"
+    },
+    "Player->Building->Auto Build->Auto build": {
+        "name": "Construção automática",
+        "tip": "Construção automática de blueprints ou trincheiras"
+    },
+    "Player->Building->Auto Build": {
+        "name": "Construção automática"
+    },
+    "Player->Building->Auto Build->Auto building bind": {
+        "name": "Bind da construção automática"
+    },
+    "Player->Building->Auto Build->Searching distance": {
+        "name": "Distância de busca",
+        "tip": "Distância para procurar blueprints ou trincheiras"
+    },
+    "Player->Building->Auto Build->Build toggles": {
+        "toggleBlockNames": {
+            "Auto stop when W/A/S/D pressed": "Parar automaticamente ao pressionar W/A/S/D",
+            "Drainage of puddles": "Drenagem de poças",
+            "Only on roads": "Apenas em estradas",
+            "Repair damaged structures": "Reparar estruturas danificadas"
+        }
+    },
+    "Player->Building->Auto Build->Repair health threshold %": {
+        "name": "Limite de vida para reparo %",
+        "tip": "Reparar estruturas com HP abaixo dessa porcentagem"
+    }
+}

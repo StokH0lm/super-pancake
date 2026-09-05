@@ -1,0 +1,1990 @@
+{
+    "inlined_strings": {
+        "resource_settings": "资源设置",
+        "navigation": "导航",
+        "outside_folder": "外部文件夹",
+        "common_settings": "通用设置",
+        "many_days_left": "剩余很多天",
+        "days_left": "剩余 {} 天",
+        "config_settings": "配置设置",
+        "create": "创建",
+        "resource_settings_desc": "替换原版 Dota 2 材质。启用后需要重新启动游戏。",
+        "config_settings_desc": "在这里你可以选择可用配置，创建新配置，删除不需要的配置\n也可以通过代码分享配置或导入其他用户的配置。",
+        "name": "名称",
+        "author": "作者",
+        "import": "导入",
+        "code": "代码",
+        "edited": "已编辑",
+        "actions": "操作",
+        "delete": "删除",
+        "cancel": "取消",
+        "load": "加载",
+        "list_configs": "配置列表",
+        "list_of_avaliable_configs": "可用配置列表",
+        "delete_config": "删除配置 {}？",
+        "delete_config_desc": "被删除的配置只能通过代码恢复。"
+    },
+    "root": {
+        "name": "根"
+    },
+    "Player": {
+        "name": "玩家"
+    },
+    "ESP": {
+        "name": "ESP"
+    },
+    "Information": {
+        "name": "信息"
+    },
+    "Settings->System->Show menu on start": {
+        "name": "启动时显示菜单"
+    },
+    "Settings": {
+        "name": "设置"
+    },
+    "Settings->System": {
+        "name": "系统"
+    },
+    "Settings->System->Open menu": {
+        "name": "打开菜单",
+        "tip": "用于打开菜单的附加按键\n主按键 - Insert"
+    },
+    "Settings->System->Menu scale": {
+        "name": "菜单缩放"
+    },
+    "Settings->System->Disable animated tips": {
+        "toggleBlockNames": {
+            "Disable animated tips": "禁用动画提示"
+        }
+    },
+    "Settings->System->Dll: Stable, Scripts: Stable": {
+        "name": "Dll：稳定版，Scripts：稳定版"
+    },
+    "Settings->Scripts->Scripts->Load server scripts": {
+        "name": "加载服务器脚本",
+        "tip": "启用 Dev Mode 后可以禁用"
+    },
+    "Settings->Scripts": {
+        "name": "脚本"
+    },
+    "Settings->Scripts->Scripts": {
+        "name": "脚本"
+    },
+    "Settings->Scripts->Scripts->Reload scripts from server": {
+        "name": "从服务器重新加载脚本"
+    },
+    "Settings->Scripts->Scripts->Load local scripts": {
+        "name": "加载本地脚本",
+        "tip": "来自第三方开发者的脚本"
+    },
+    "Settings->Scripts->Scripts->Dev Mode": {
+        "name": "Dev Mode",
+        "tip": "开发者模式，提供额外信息",
+        "tip2": "启用测试菜单标签、Debug Menu [F11] 以及游戏内快捷菜单"
+    },
+    "Settings->Scripts->Scripts->Bug reporter icon": {
+        "name": "Bug 报告图标"
+    },
+    "Settings->Scripts->Scripts->Verbose script logs": {
+        "name": "详细脚本日志"
+    },
+    "Settings->Scripts->Scripts->Dump separate translations": {
+        "name": "导出独立翻译"
+    },
+    "Settings->Scripts->Scripts->Open console": {
+        "name": "打开控制台"
+    },
+    "Settings->Scripts->Scripts->Reload scripts": {
+        "name": "重新加载脚本"
+    },
+    "Settings->Scripts->Scripts->Unload dll": {
+        "name": "卸载 dll"
+    },
+    "Settings->Scripts->Scripts->Debug Menu Settings": {
+        "name": "Debug 菜单设置"
+    },
+    "Settings->Scripts->Scripts->Debug Menu Settings->Debug menu scale": {
+        "name": "Debug 菜单缩放"
+    },
+    "Settings->Scripts->Scripts->Debug Menu Settings->Debug font size": {
+        "name": "Debug 字体大小"
+    },
+    "Settings->Scripts->Scripts->Debug Menu Settings->Debug menu font": {
+        "name": "Debug 菜单字体"
+    },
+    "Settings->Scripts->Scripts->Console Settings": {
+        "name": "控制台设置"
+    },
+    "Settings->Scripts->Scripts->Console Settings->Debug menu scale": {
+        "name": "Debug 菜单缩放"
+    },
+    "Settings->Scripts->Scripts->Console Settings->Debug font size": {
+        "name": "Debug 字体大小"
+    },
+    "Settings->Scripts->Scripts->Console Settings->Debug menu font": {
+        "name": "Debug 菜单字体"
+    },
+    "Favorites": {
+        "name": "收藏"
+    },
+    "Settings->Configs->Current config:": {
+        "name": "当前配置："
+    },
+    "Settings->Configs": {
+        "name": "配置"
+    },
+    "Settings->KeyBinds->There is no options...": {
+        "name": "没有可用选项..."
+    },
+    "Settings->KeyBinds": {
+        "name": "按键绑定"
+    },
+    "Settings->Wheel->Wheel Key": {
+        "name": "滚轮按键"
+    },
+    "Settings->Wheel": {
+        "name": "滚轮"
+    },
+    "Settings->Wheel->There is no options...": {
+        "name": "没有可用选项..."
+    },
+    "Settings->Resources->There is no options...": {
+        "name": "没有可用选项..."
+    },
+    "Settings->Resources": {
+        "name": "资源"
+    },
+    "ESP->Object Info": {
+        "name": "对象信息"
+    },
+    "ESP->Object Info->Ally": {
+        "name": "友军"
+    },
+    "ESP->Object Info->Ally->Header->Enable": {
+        "name": "启用"
+    },
+    "ESP->Object Info->Ally->Header": {
+        "name": "标题"
+    },
+    "ESP->Object Info->Ally->Header->Color": {
+        "name": "颜色"
+    },
+    "ESP->Object Info->Ally->Infantry->Infantry": {
+        "name": "步兵"
+    },
+    "ESP->Object Info->Ally->Infantry": {
+        "name": "步兵"
+    },
+    "ESP->Object Info->Ally->Infantry->Infantry information": {
+        "name": "步兵信息",
+        "multiComboBoxValues": {
+            "health number": "生命值数字",
+            "HP Bar": "血条",
+            "Name": "名称",
+            "Name (hold alt)": "名称（按住 Alt）",
+            "Equipped weapon": "当前武器",
+            "Other equipment": "其他装备",
+            "Lines to entity": "连线到实体",
+            "Aiming line": "瞄准线"
+        }
+    },
+    "ESP->Object Info->Ally->Infantry->Skeleton Type": {
+        "name": "Skeleton 类型",
+        "comboBoxValues": {
+            "None": "无",
+            "Always": "始终",
+            "Only when visible": "仅在可见时",
+            "Only when not visible": "仅在不可见时"
+        }
+    },
+    "ESP->Object Info->Ally->Infantry->Boxes Type": {
+        "name": "框类型",
+        "comboBoxValues": {
+            "None": "无",
+            "3D": "3D",
+            "2D": "2D"
+        }
+    },
+    "ESP->Object Info->Ally->Infantry->Always visible model": {
+        "toggleBlockNames": {
+            "Always visible model": "模型始终可见"
+        }
+    },
+    "ESP->Object Info->Ally->Infantry->Additional Settings->Info Position": {
+        "name": "信息位置",
+        "comboBoxValues": {
+            "Center": "中心",
+            "Top Left": "左上",
+            "Top Center": "上中",
+            "Top Right": "右上",
+            "Bottom Left": "左下",
+            "Bottom Center": "下中",
+            "Bottom Right": "右下",
+            "Left Top": "左上",
+            "Left Center": "左中",
+            "Left Bottom": "左下",
+            "Right Top": "右上",
+            "Right Center": "右中",
+            "Right Bottom": "右下"
+        }
+    },
+    "ESP->Object Info->Ally->Infantry->Additional Settings": {
+        "name": "附加设置"
+    },
+    "ESP->Object Info->Ally->Infantry->Additional Settings->HP Bar Position": {
+        "name": "血条位置",
+        "comboBoxValues": {
+            "Bottom": "底部",
+            "Top": "顶部",
+            "Left": "左侧",
+            "Right": "右侧"
+        }
+    },
+    "ESP->Object Info->Ally->Vehicles->Vehicles": {
+        "name": "载具"
+    },
+    "ESP->Object Info->Ally->Vehicles": {
+        "name": "载具"
+    },
+    "ESP->Object Info->Ally->Vehicles->Vehicle information": {
+        "name": "载具信息",
+        "multiComboBoxValues": {
+            "Health": "生命值",
+            "HP Bar": "血条",
+            "Lock": "锁定",
+            "Squad lock": "小队锁",
+            "Fuel": "燃料",
+            "Temperature": "温度",
+            "Inventory": "库存",
+            "Lines to entity": "连线到实体"
+        }
+    },
+    "ESP->Object Info->Ally->Vehicles->Boxes Type": {
+        "name": "框类型",
+        "comboBoxValues": {
+            "None": "无",
+            "3D": "3D",
+            "2D": "2D"
+        }
+    },
+    "ESP->Object Info->Ally->Vehicles->Always visible model": {
+        "toggleBlockNames": {
+            "Always visible model": "模型始终可见"
+        }
+    },
+    "ESP->Object Info->Ally->Vehicles->Additional Settings->Info Position": {
+        "name": "信息位置",
+        "comboBoxValues": {
+            "Center": "中心",
+            "Top Left": "左上",
+            "Top Center": "上中",
+            "Top Right": "右上",
+            "Bottom Left": "左下",
+            "Bottom Center": "下中",
+            "Bottom Right": "右下",
+            "Left Top": "左上",
+            "Left Center": "左中",
+            "Left Bottom": "左下",
+            "Right Top": "右上",
+            "Right Center": "右中",
+            "Right Bottom": "右下"
+        }
+    },
+    "ESP->Object Info->Ally->Vehicles->Additional Settings": {
+        "name": "附加设置"
+    },
+    "ESP->Object Info->Ally->Vehicles->Additional Settings->HP Bar Position": {
+        "name": "血条位置",
+        "comboBoxValues": {
+            "Bottom": "底部",
+            "Top": "顶部",
+            "Left": "左侧",
+            "Right": "右侧"
+        }
+    },
+    "ESP->Object Info->Ally->Vehicles->Additional Settings->Additional information on lines": {
+        "name": "连线附加信息",
+        "multiComboBoxValues": {
+            "Lock": "锁定",
+            "Squad lock": "小队锁",
+            "Driver": "驾驶员"
+        }
+    },
+    "ESP->Object Info->Ally->Etc->Buildings": {
+        "name": "建筑"
+    },
+    "ESP->Object Info->Ally->Etc": {
+        "name": "其他"
+    },
+    "ESP->Object Info->Ally->Etc->Building Misc": {
+        "name": "建筑信息",
+        "multiComboBoxValues": {
+            "Health": "生命值",
+            "Inventory": "库存",
+            "Stockpile": "储备",
+            "Use area Box": "使用区域框"
+        }
+    },
+    "ESP->Object Info->Ally->Etc->Always visible model": {
+        "toggleBlockNames": {
+            "Always visible model": "模型始终可见"
+        }
+    },
+    "ESP->Object Info->Ally->Etc->Watchtower info": {
+        "name": "哨塔信息",
+        "multiComboBoxValues": {
+            "Range": "范围",
+            "Lines to watchtower": "连线到哨塔"
+        }
+    },
+    "ESP->Object Info->Ally->Etc->Pillbox info": {
+        "name": "碉堡信息",
+        "multiComboBoxValues": {
+            "Firing range": "射程"
+        }
+    },
+    "ESP->Object Info->Enemy": {
+        "name": "敌人"
+    },
+    "ESP->Object Info->Enemy->Header->Enable": {
+        "name": "启用"
+    },
+    "ESP->Object Info->Enemy->Header": {
+        "name": "标题"
+    },
+    "ESP->Object Info->Enemy->Header->Color": {
+        "name": "颜色"
+    },
+    "ESP->Object Info->Enemy->Infantry->Infantry": {
+        "name": "步兵"
+    },
+    "ESP->Object Info->Enemy->Infantry": {
+        "name": "步兵"
+    },
+    "ESP->Object Info->Enemy->Infantry->Infantry information": {
+        "name": "步兵信息",
+        "multiComboBoxValues": {
+            "health number": "生命值数字",
+            "HP Bar": "血条",
+            "Name": "名称",
+            "Name (hold alt)": "名称（按住 Alt）",
+            "Equipped weapon": "当前武器",
+            "Other equipment": "其他装备",
+            "Lines to entity": "连线到实体",
+            "Aiming line": "瞄准线"
+        }
+    },
+    "ESP->Object Info->Enemy->Infantry->Skeleton Type": {
+        "name": "Skeleton 类型",
+        "comboBoxValues": {
+            "None": "无",
+            "Always": "始终",
+            "Only when visible": "仅在可见时",
+            "Only when not visible": "仅在不可见时"
+        }
+    },
+    "ESP->Object Info->Enemy->Infantry->Boxes Type": {
+        "name": "框类型",
+        "comboBoxValues": {
+            "None": "无",
+            "3D": "3D",
+            "2D": "2D"
+        }
+    },
+    "ESP->Object Info->Enemy->Infantry->Always visible model": {
+        "toggleBlockNames": {
+            "Always visible model": "模型始终可见"
+        }
+    },
+    "ESP->Object Info->Enemy->Infantry->Additional Settings->Info Position": {
+        "name": "信息位置",
+        "comboBoxValues": {
+            "Center": "中心",
+            "Top Left": "左上",
+            "Top Center": "上中",
+            "Top Right": "右上",
+            "Bottom Left": "左下",
+            "Bottom Center": "下中",
+            "Bottom Right": "右下",
+            "Left Top": "左上",
+            "Left Center": "左中",
+            "Left Bottom": "左下",
+            "Right Top": "右上",
+            "Right Center": "右中",
+            "Right Bottom": "右下"
+        }
+    },
+    "ESP->Object Info->Enemy->Infantry->Additional Settings": {
+        "name": "附加设置"
+    },
+    "ESP->Object Info->Enemy->Infantry->Additional Settings->HP Bar Position": {
+        "name": "血条位置",
+        "comboBoxValues": {
+            "Bottom": "底部",
+            "Top": "顶部",
+            "Left": "左侧",
+            "Right": "右侧"
+        }
+    },
+    "ESP->Object Info->Enemy->Vehicles->Vehicles": {
+        "name": "载具"
+    },
+    "ESP->Object Info->Enemy->Vehicles": {
+        "name": "载具"
+    },
+    "ESP->Object Info->Enemy->Vehicles->Vehicle information": {
+        "name": "载具信息",
+        "multiComboBoxValues": {
+            "Health": "生命值",
+            "HP Bar": "血条",
+            "Lock": "锁定",
+            "Squad lock": "小队锁",
+            "Fuel": "燃料",
+            "Temperature": "温度",
+            "Inventory": "库存",
+            "Lines to entity": "连线到实体"
+        }
+    },
+    "ESP->Object Info->Enemy->Vehicles->Boxes Type": {
+        "name": "框类型",
+        "comboBoxValues": {
+            "None": "无",
+            "3D": "3D",
+            "2D": "2D"
+        }
+    },
+    "ESP->Object Info->Enemy->Vehicles->Always visible model": {
+        "toggleBlockNames": {
+            "Always visible model": "模型始终可见"
+        }
+    },
+    "ESP->Object Info->Enemy->Vehicles->Additional Settings->Info Position": {
+        "name": "信息位置",
+        "comboBoxValues": {
+            "Center": "中心",
+            "Top Left": "左上",
+            "Top Center": "上中",
+            "Top Right": "右上",
+            "Bottom Left": "左下",
+            "Bottom Center": "下中",
+            "Bottom Right": "右下",
+            "Left Top": "左上",
+            "Left Center": "左中",
+            "Left Bottom": "左下",
+            "Right Top": "右上",
+            "Right Center": "右中",
+            "Right Bottom": "右下"
+        }
+    },
+    "ESP->Object Info->Enemy->Vehicles->Additional Settings": {
+        "name": "附加设置"
+    },
+    "ESP->Object Info->Enemy->Vehicles->Additional Settings->HP Bar Position": {
+        "name": "血条位置",
+        "comboBoxValues": {
+            "Bottom": "底部",
+            "Top": "顶部",
+            "Left": "左侧",
+            "Right": "右侧"
+        }
+    },
+    "ESP->Object Info->Enemy->Vehicles->Additional Settings->Additional information on lines": {
+        "name": "连线附加信息",
+        "multiComboBoxValues": {
+            "Lock": "锁定",
+            "Squad lock": "小队锁",
+            "Driver": "驾驶员"
+        }
+    },
+    "ESP->Object Info->Enemy->Etc->Buildings": {
+        "name": "建筑"
+    },
+    "ESP->Object Info->Enemy->Etc": {
+        "name": "其他"
+    },
+    "ESP->Object Info->Enemy->Etc->Building Misc": {
+        "name": "建筑信息",
+        "multiComboBoxValues": {
+            "Health": "生命值",
+            "Inventory": "库存",
+            "Stockpile": "储备",
+            "Use area Box": "使用区域框"
+        }
+    },
+    "ESP->Object Info->Enemy->Etc->Always visible model": {
+        "toggleBlockNames": {
+            "Always visible model": "模型始终可见"
+        }
+    },
+    "ESP->Object Info->Enemy->Etc->Watchtower info": {
+        "name": "哨塔信息",
+        "multiComboBoxValues": {
+            "Range": "范围",
+            "Lines to watchtower": "连线到哨塔"
+        }
+    },
+    "ESP->Object Info->Enemy->Etc->Pillbox info": {
+        "name": "碉堡信息",
+        "multiComboBoxValues": {
+            "Firing range": "射程"
+        }
+    },
+    "ESP->Object Info->Neutral": {
+        "name": "中立"
+    },
+    "ESP->Object Info->Neutral->Etc->Wreckage": {
+        "toggleBlockNames": {
+            "Wreckage Circle": "残骸圆圈",
+            "Wreckage Lines": "残骸连线"
+        }
+    },
+    "ESP->Object Info->Neutral->Etc": {
+        "name": "其他"
+    },
+    "ESP->Object Info->Neutral->Etc->Listening Kits": {
+        "toggleBlockNames": {
+            "Listening Kits Circle": "监听装置圆圈",
+            "Listening Kits Lines": "监听装置连线"
+        }
+    },
+    "ESP->Object Info->Neutral->Etc->Resources fields": {
+        "toggleBlockNames": {
+            "Information about resource field": "资源点信息",
+            "Resource field circle": "资源点圆圈",
+            "Rare resources circle": "稀有资源圆圈"
+        }
+    },
+    "ESP->Object Info->Neutral->Etc->Explosives": {
+        "toggleBlockNames": {
+            "AP Mines": "AP 地雷",
+            "AT Mines": "AT 地雷",
+            "Grenades": "手雷"
+        }
+    },
+    "ESP->Object Info->Neutral->Etc->Wounded soldier": {
+        "toggleBlockNames": {
+            "Wounded soldier circle": "伤兵圆圈",
+            "Wounded soldier line": "伤兵连线"
+        }
+    },
+    "ESP->Object Info->Neutral->Etc->Other": {
+        "toggleBlockNames": {
+            "Artillery hits places": "炮击落点",
+            "Pick-up items": "可拾取物品",
+            "Puddles": "积水",
+            "Switch arrows": "切换箭头"
+        }
+    },
+    "ESP->Object Info->Neutral->Vehicles->Vehicles": {
+        "name": "载具"
+    },
+    "ESP->Object Info->Neutral->Vehicles": {
+        "name": "载具"
+    },
+    "ESP->Object Info->Neutral->Vehicles->Vehicle information": {
+        "name": "载具信息",
+        "multiComboBoxValues": {
+            "Health": "生命值",
+            "HP Bar": "血条",
+            "Lock": "锁定",
+            "Squad lock": "小队锁",
+            "Fuel": "燃料",
+            "Temperature": "温度",
+            "Inventory": "库存",
+            "Lines to entity": "连线到实体"
+        }
+    },
+    "ESP->Object Info->Neutral->Vehicles->Boxes Type": {
+        "name": "框类型",
+        "comboBoxValues": {
+            "None": "无",
+            "3D": "3D",
+            "2D": "2D"
+        }
+    },
+    "ESP->Object Info->Neutral->Vehicles->Always visible model": {
+        "toggleBlockNames": {
+            "Always visible model": "模型始终可见"
+        }
+    },
+    "ESP->Object Info->Neutral->Vehicles->Additional Settings->Info Position": {
+        "name": "信息位置",
+        "comboBoxValues": {
+            "Center": "居中",
+            "Top Left": "左上",
+            "Top Center": "上方居中",
+            "Top Right": "右上",
+            "Bottom Left": "左下",
+            "Bottom Center": "下方居中",
+            "Bottom Right": "右下",
+            "Left Top": "左侧上方",
+            "Left Center": "左侧居中",
+            "Left Bottom": "左侧下方",
+            "Right Top": "右侧上方",
+            "Right Center": "右侧居中",
+            "Right Bottom": "右侧下方"
+        }
+    },
+    "ESP->Object Info->Neutral->Vehicles->Additional Settings": {
+        "name": "附加设置"
+    },
+    "ESP->Object Info->Neutral->Vehicles->Additional Settings->HP Bar Position": {
+        "name": "HP条位置",
+        "comboBoxValues": {
+            "Bottom": "底部",
+            "Top": "顶部",
+            "Left": "左侧",
+            "Right": "右侧"
+        }
+    },
+    "ESP->Object Info->Neutral->Vehicles->Additional Settings->Additional information on lines": {
+        "name": "在线条上显示的附加信息",
+        "multiComboBoxValues": {
+            "Lock": "锁定",
+            "Squad lock": "小队锁定",
+            "Driver": "驾驶员"
+        }
+    },
+    "ESP->Object Info->Neutral->Etc->Buildings": {
+        "name": "建筑"
+    },
+    "ESP->Object Info->Neutral->Etc->Building Misc": {
+        "name": "建筑信息",
+        "multiComboBoxValues": {
+            "Health": "耐久度",
+            "Inventory": "库存",
+            "Stockpile": "仓储",
+            "Use area Box": "显示使用区域"
+        }
+    },
+    "ESP->Object Info->Neutral->Etc->Always visible model": {
+        "toggleBlockNames": {
+            "Always visible model": "模型始终可见"
+        }
+    },
+    "ESP->Object Info->ETC": {
+        "name": "其他"
+    },
+    "ESP->Object Info->ETC->Lines->Tracking Line": {
+        "name": "追踪线",
+        "tip": "为选中的对象绘制一条线"
+    },
+    "ESP->Object Info->ETC->Lines": {
+        "name": "线条"
+    },
+    "ESP->Object Info->ETC->Lines->Hide line if target is visible": {
+        "toggleBlockNames": {
+            "Hide line if target is visible": "目标可见时隐藏线条"
+        }
+    },
+    "ESP->Object Info->ETC->Lines->Start Distance": {
+        "name": "起始距离"
+    },
+    "ESP->Object Info->ETC->Lines->End Distance": {
+        "name": "结束距离"
+    },
+    "ESP->Object Info->ETC->Lines->Line Transparency": {
+        "name": "线条透明度"
+    },
+    "ESP->Object Info->ETC->Lines->Text Transparency": {
+        "name": "文本透明度"
+    },
+    "ESP->Object Info->ETC->Lines->Font Scale": {
+        "name": "字体缩放"
+    },
+    "ESP->Object Info->ETC->Highlight Interactable": {
+        "name": "高亮可交互对象",
+        "tip": "高亮可以交互的对象"
+    },
+    "ESP->Object Info->ETC->Circle Size": {
+        "name": "圆圈大小"
+    },
+    "ESP->Object Info->ETC->Circle Color": {
+        "name": "圆圈颜色"
+    },
+    "ESP->Object Info->ETC->Current Interactable Color": {
+        "name": "当前交互对象颜色",
+        "tip": "当前高亮的可交互对象的颜色"
+    },
+    "ESP->Player->Player Info": {
+        "name": "玩家信息"
+    },
+    "ESP->Player": {
+        "name": "玩家"
+    },
+    "ESP->Player->Position X": {
+        "name": "位置 X"
+    },
+    "ESP->Player->Position Y": {
+        "name": "位置 Y"
+    },
+    "ESP->Player->Etc": {
+        "toggleBlockNames": {
+            "Show rotation and movement speed": "显示朝向与移动速度",
+            "Show PID": "显示PID",
+            "Debug Text": "调试文本"
+        }
+    },
+    "Player->Movement->Auto move->Auto move": {
+        "name": "自动移动",
+        "tip": "持续朝选定方向移动"
+    },
+    "Player->Movement": {
+        "name": "移动"
+    },
+    "Player->Movement->Auto move": {
+        "name": "自动移动"
+    },
+    "Player->Movement->Auto move->Move forward bind": {
+        "name": "前进按键",
+        "tip": "向前移动"
+    },
+    "Player->Movement->Auto move->Move backward bind": {
+        "name": "后退按键",
+        "tip": "向后移动"
+    },
+    "Player->Movement->Auto move->Auto move toggles": {
+        "toggleBlockNames": {
+            "Auto stop when W/S pressed": "按下 W/S 时自动停止",
+            "Auto stop when enemy spotted": "发现敌人时自动停止",
+            "Free camera while running": "移动时自由视角",
+            "Auto sprint": "自动冲刺"
+        }
+    },
+    "Information->Notifications->Players proximity notifications": {
+        "name": "玩家接近通知",
+        "tip": "启用附近敌人和友军的通知"
+    },
+    "Information->Notifications": {
+        "name": "通知"
+    },
+    "Information->Notifications->TTS Volume": {
+        "name": "TTS音量",
+        "tip": "语音播报通知的音量"
+    },
+    "Information->Notifications->Inactivity timeout (sec)": {
+        "name": "不活动超时（秒）",
+        "tip": "在未移动光标的情况下判定为不活动的时间"
+    },
+    "Information->Notifications->Enemy in Radius->Enemy in Radius": {
+        "name": "范围内敌人",
+        "tip": "当敌人进入指定范围时进行通知"
+    },
+    "Information->Notifications->Enemy in Radius": {
+        "name": "范围内敌人"
+    },
+    "Information->Notifications->Enemy in Radius->Detection Radius (m)": {
+        "name": "检测范围（米）",
+        "tip": "以米为单位的检测半径"
+    },
+    "Information->Notifications->Enemy in Radius->Cooldown (sec)": {
+        "name": "冷却时间（秒）",
+        "tip": "两次通知之间的最小间隔"
+    },
+    "Information->Notifications->Enemy in Radius->TTS Text##aboba1": {
+        "name": "TTS文本##aboba1",
+        "tip": "检测到敌人时播报的文本"
+    },
+    "Information->Notifications->Enemy in Radius->enemy_radius_opts": {
+        "toggleBlockNames": {
+            "Ignore aircraft": "忽略飞行器",
+            "Only when inactive": "仅在不活动时"
+        }
+    },
+    "Information->Notifications->Enemy appears in hex->Enemy appears in hex": {
+        "name": "区域出现敌人",
+        "tip": "当新的敌方玩家出现在当前区域时通知"
+    },
+    "Information->Notifications->Enemy appears in hex": {
+        "name": "区域出现敌人"
+    },
+    "Information->Notifications->Enemy appears in hex->Cooldown (sec)": {
+        "name": "冷却时间（秒）",
+        "tip": "两次通知之间的最小间隔"
+    },
+    "Information->Notifications->Enemy appears in hex->Max enemy count": {
+        "name": "最大敌人数",
+        "tip": "检测到该数量敌人后停止通知（0 = 不限制）"
+    },
+    "Information->Notifications->Enemy appears in hex->TTS Text##aboba2": {
+        "name": "TTS文本##aboba2",
+        "tip": "有新敌人加入时播报的文本"
+    },
+    "Information->Notifications->Enemy appears in hex->enemy_world_opts": {
+        "toggleBlockNames": {
+            "Only when inactive": "仅在不活动时"
+        }
+    },
+    "Information->Notifications->TTS Local chat voiceover->TTS Local chat voiceover": {
+        "name": "本地聊天语音播报",
+        "tip": "播放附近玩家的语音消息"
+    },
+    "Information->Notifications->TTS Local chat voiceover": {
+        "name": "本地聊天语音播报"
+    },
+    "Information->Notifications->TTS Local chat voiceover->Cooldown (sec)": {
+        "name": "冷却时间（秒）",
+        "tip": "两次语音播报之间的最小间隔"
+    },
+    "Information->Notifications->TTS Local chat voiceover->chat_tts_opts": {
+        "toggleBlockNames": {
+            "Include sender name": "包含发送者名称",
+            "Only when inactive": "仅在不活动时"
+        }
+    },
+    "Information->Notifications->Ally in Radius->Ally in Radius": {
+        "name": "范围内友军",
+        "tip": "当友军进入指定范围时进行通知"
+    },
+    "Information->Notifications->Ally in Radius": {
+        "name": "范围内友军"
+    },
+    "Information->Notifications->Ally in Radius->Detection Radius (m)": {
+        "name": "检测范围（米）",
+        "tip": "以米为单位的检测半径"
+    },
+    "Information->Notifications->Ally in Radius->Cooldown (sec)": {
+        "name": "冷却时间（秒）",
+        "tip": "两次通知之间的最小间隔"
+    },
+    "Information->Notifications->Ally in Radius->TTS Text##aboba3": {
+        "name": "TTS文本##aboba3",
+        "tip": "检测到友军时播报的文本"
+    },
+    "Information->Notifications->Ally in Radius->ally_radius_opts": {
+        "toggleBlockNames": {
+            "Only when inactive": "仅在不活动时"
+        }
+    },
+    "Player->Pathfinding->Character Pathfinding->Move to position": {
+        "name": "移动到指定位置",
+        "tip": "角色自动移动到指定位置",
+        "tip2": "可以通过小地图设置目标位置"
+    },
+    "Player->Pathfinding": {
+        "name": "路径寻路"
+    },
+    "Player->Pathfinding->Character Pathfinding": {
+        "name": "角色寻路"
+    },
+    "Player->Pathfinding->Character Pathfinding->Set destination key": {
+        "name": "设置目标按键",
+        "tip": "按住该键并点击位置即可设置目标"
+    },
+    "Player->Pathfinding->Character Pathfinding->Auto move": {
+        "toggleBlockNames": {
+            "Auto move": "自动移动"
+        }
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Climb penalty": {
+        "name": "攀爬惩罚"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings": {
+        "name": "寻路设置"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Climb height": {
+        "name": "攀爬高度"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Grid size": {
+        "name": "网格大小"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Max step count": {
+        "name": "最大步数"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Ground check count": {
+        "name": "地面检测次数"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Max climb height": {
+        "name": "最大攀爬高度"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Height check start": {
+        "name": "高度检测起点"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Max slope angle": {
+        "name": "最大坡度角"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Off-road penalty": {
+        "name": "越野惩罚"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Barbed wire penalty": {
+        "name": "铁丝网惩罚"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Small radius penalty": {
+        "name": "小半径惩罚"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Water penalty": {
+        "name": "水域惩罚"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Player proximity distance": {
+        "name": "玩家接近距离"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Player proximity penalty": {
+        "name": "玩家接近惩罚"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->H cost weight": {
+        "name": "H cost 权重"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Staircase penalty": {
+        "name": "楼梯惩罚"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Path rebuild interval": {
+        "name": "路径重建间隔"
+    },
+    "Player->Pathfinding->Character Pathfinding->Debug settings->Debug toggles": {
+        "toggleBlockNames": {
+            "Show debug": "显示调试信息",
+            "Show move arrows": "显示移动箭头",
+            "Show climb arrows": "显示攀爬箭头",
+            "Show actual trace": "显示实际路径"
+        }
+    },
+    "Player->Pathfinding->Character Pathfinding->Debug settings": {
+        "name": "调试设置"
+    },
+    "Player->Pathfinding->Hint->Hint": {
+        "name": "提示",
+        "tip": "绑定键 + 右键地面 — 移动到指定位置\n绑定键 + 右键小地图 — 移动到指定位置\n绑定键 + 右键载具/建筑 — 走到并进入对象\n绑定键 + 右键容器 — 走到并打包/拆包容器\n在起重机中时 绑定键 + 右键容器 — 拾取/放下容器\n绑定键 + Shift + 右键 — 将动作加入队列（适用于以上所有操作）"
+    },
+    "Player->Pathfinding->Hint": {
+        "name": "提示"
+    },
+    "Player->Aircraft->Bomb target->Bomb landing indicator": {
+        "name": "炸弹落点指示",
+        "tip": "显示炸弹将落下的位置"
+    },
+    "Player->Aircraft": {
+        "name": "飞行器"
+    },
+    "Player->Aircraft->Bomb target": {
+        "name": "炸弹目标"
+    },
+    "Information->Logi helper->Show Refinery Orders->Show refinery orders": {
+        "name": "显示炼油厂订单",
+        "tip": "显示炼油厂订单状态"
+    },
+    "Information->Logi helper": {
+        "name": "Logi 助手"
+    },
+    "Information->Logi helper->Show Refinery Orders": {
+        "name": "显示炼油厂订单"
+    },
+    "Information->Logi helper->Show Refinery Orders->styles": {
+        "toggleBlockNames": {
+            "Enable dark background": "启用深色背景",
+            "Show final column": "显示最终列"
+        }
+    },
+    "Information->Logi helper->Show Refinery Orders->Scale": {
+        "name": "缩放",
+        "tip": "炼油厂订单显示的缩放比例"
+    },
+    "Player->Vehicle->Crane Radius->Crane radius": {
+        "name": "起重机范围",
+        "tip": "显示起重机的作用范围"
+    },
+    "Player->Vehicle": {
+        "name": "载具"
+    },
+    "Player->Vehicle->Crane Radius": {
+        "name": "起重机范围"
+    },
+    "Player->Vehicle->Crane Radius->Range color": {
+        "name": "范围颜色"
+    },
+    "Player->Commend Trader->Commend trader->Auto commend trader": {
+        "name": "自动点赞交易者",
+        "tip": "自动为在聊天中发言的玩家点赞"
+    },
+    "Player->Commend Trader": {
+        "name": "Commend 交易者"
+    },
+    "Player->Commend Trader->Commend trader": {
+        "name": "Commend 交易者"
+    },
+    "Player->Commend Trader->Commend trader->Commend toggles": {
+        "toggleBlockNames": {
+            "Auto commend trade": "自动点赞交易",
+            "Auto commend response": "自动点赞回复",
+            "Auto commend from list": "从列表自动点赞",
+            "Skip self commend": "跳过自己"
+        }
+    },
+    "Player->Commend Trader->Commend trader->Auto commend id list": {
+        "name": "自动点赞 ID 列表",
+        "tip": "SteamID64，用逗号分隔"
+    },
+    "Player->Artillery->Shell runner->Shell runner": {
+        "name": "弹药搬运",
+        "tip": "要使用此功能，需要先选择有弹药的地点和炮位"
+    },
+    "Player->Artillery": {
+        "name": "炮兵"
+    },
+    "Player->Artillery->Shell runner": {
+        "name": "弹药搬运"
+    },
+    "Player->Artillery->Shell runner->Select stockpile with shells and target": {
+        "name": "选择弹药仓和目标",
+        "tip": "可以选择托盘。要清除 — 在空白处点击绑定键"
+    },
+    "Player->Artillery->Auto reloader->Auto reloader": {
+        "name": "自动装填",
+        "tip": "在炮内时自动装填炮弹"
+    },
+    "Player->Artillery->Auto reloader": {
+        "name": "自动装填"
+    },
+    "Player->Artillery->Auto reloader->Delay after sitting down": {
+        "name": "坐下延迟",
+        "tip": "作为炮手坐下后，开始装填前的延迟时间"
+    },
+    "Player->Artillery->Auto reloader->Pre-reload delay": {
+        "name": "预装填延迟",
+        "tip": "弹药耗尽后首次请求装填前的延迟"
+    },
+    "Player->Artillery->Auto reloader->Reload request interval": {
+        "name": "装填请求间隔",
+        "tip": "两次装填请求之间的最小间隔，避免刷屏"
+    },
+    "Player->Artillery->Auto fire->Auto fire": {
+        "name": "自动开火",
+        "tip": "自动开火炮。退出炮位后自动关闭"
+    },
+    "Player->Artillery->Auto fire": {
+        "name": "自动开火"
+    },
+    "Player->Artillery->Auto fire->Auto stop condition": {
+        "name": "自动停止条件",
+        "tip": "满足条件时自动开火将停止",
+        "comboBoxValues": {
+            "When not in artillery": "离开炮位时",
+            "If W/A/S/D/Q pressed": "按下 W/A/S/D/Q 时"
+        }
+    },
+    "Player->Exploits->Move in ui->Move in ui": {
+        "name": "UI内移动",
+        "tip": "开启时可在打开UI界面时移动"
+    },
+    "Player->Exploits": {
+        "name": "外挂功能"
+    },
+    "Player->Exploits->Move in ui": {
+        "name": "UI内移动"
+    },
+    "ESP->Player->Self health bar->Self health bar": {
+        "name": "自身血条",
+        "tip": "角色/载具血量UI"
+    },
+    "ESP->Player->Self health bar": {
+        "name": "自身血条"
+    },
+    "ESP->Player->Self health bar->Panel position->X pos": {
+        "name": "X坐标",
+        "tip": "血条 X 坐标"
+    },
+    "ESP->Player->Self health bar->Panel position": {
+        "name": "面板位置"
+    },
+    "ESP->Player->Self health bar->Panel position->Y pos": {
+        "name": "Y坐标",
+        "tip": "血条 Y 坐标"
+    },
+    "ESP->Player->Self health bar->Render settings->Health color": {
+        "name": "血量颜色",
+        "tip": "满血时血条颜色"
+    },
+    "ESP->Player->Self health bar->Render settings": {
+        "name": "渲染设置"
+    },
+    "ESP->Player->Self health bar->Render settings->Low health color": {
+        "name": "低血颜色",
+        "tip": "血量低时血条颜色"
+    },
+    "ESP->Player->Self health bar->Render settings->Scale": {
+        "name": "缩放",
+        "tip": "血条缩放比例"
+    },
+    "ESP->Player->Self health bar->Render settings->Width": {
+        "name": "宽度",
+        "tip": "血条宽度"
+    },
+    "ESP->Player->Self health bar->Render settings->Height": {
+        "name": "高度",
+        "tip": "血条高度"
+    },
+    "ESP->Player->Self health bar->Render settings->Alpha": {
+        "name": "透明度",
+        "tip": "血条透明度"
+    },
+    "Player->Movement->Followbot->Followbot": {
+        "name": "跟随机器人",
+        "tip": "自动跟随选定玩家"
+    },
+    "Player->Movement->Followbot": {
+        "name": "跟随机器人"
+    },
+    "Player->Movement->Followbot->Toggle Followbot to target": {
+        "name": "切换跟随目标",
+        "tip": "切换跟随机器人目标"
+    },
+    "Player->Movement->Followbot->Auto stop toggles": {
+        "toggleBlockNames": {
+            "Auto stop when W/A/S/D pressed": "按下 W/A/S/D 时自动停止"
+        }
+    },
+    "Player->Farm helpers->Auto Farm->Auto farm": {
+        "name": "自动采集",
+        "tip": "由角色或收割机自动采集资源。\n采集的资源将被送到指定投放点。"
+    },
+    "Player->Farm helpers": {
+        "name": "采集助手"
+    },
+    "Player->Farm helpers->Auto Farm": {
+        "name": "自动采集"
+    },
+    "Player->Farm helpers->Auto Farm->Farm toggles": {
+        "toggleBlockNames": {
+            "Stop by W/A/S/D": "按 W/A/S/D 停止",
+            "Rare resources mode": "稀有资源模式",
+            "Store rare metal": "存储稀有金属",
+            "Store tech materials": "存储科技材料",
+            "Private facility storage first": "优先私人设施存储",
+            "Avoid other players": "避开其他玩家",
+            "Switch to rare resource mode when full": "满载时切换稀有资源模式",
+            "Uload only when full": "仅满载时投放",
+            "Move to AFK point when enemy nearby": "附近有敌人时移动到AFK点"
+        }
+    },
+    "Player->Farm helpers->Auto Farm->Start bot key bind": {
+        "name": "启动采集绑定键",
+        "tip": "再次按下则停止采集"
+    },
+    "Player->Farm helpers->Auto Farm->Set drop point key bind": {
+        "name": "设置投放点绑定键",
+        "tip": "支持容器、载具、设施和基地\n按住 Shift 可设置多个点"
+    },
+    "Player->Farm helpers->Auto Farm->Set rare material drop point key bind": {
+        "name": "设置稀有材料投放点绑定键",
+        "tip": "支持容器、载具、设施和基地\n按住 Shift 可设置多个点"
+    },
+    "Player->Farm helpers->Auto Farm->Set AFK place key bind": {
+        "name": "设置 AFK 点绑定键"
+    },
+    "Player->Farm helpers->Auto Farm->Hints": {
+        "name": "提示"
+    },
+    "Player->Farm helpers->Auto Farm->Rare resources mode": {
+        "name": "稀有资源模式",
+        "tip": "铝、铁、铜、稀有金属和科技材料\n当库存满时，脚本会将普通金属投放在地面上。"
+    },
+    "Player->Farm helpers->Auto Farm->Store rare resources": {
+        "name": "存储稀有资源",
+        "tip": "将稀有资源存放在指定投放点。\n若关闭，将保存在库存中。"
+    },
+    "Player->Building->Auto Click->Auto LMB": {
+        "name": "自动左键",
+        "tip": "用于修复、挖掘、建造等"
+    },
+    "Player->Building": {
+        "name": "建筑"
+    },
+    "Player->Building->Auto Click": {
+        "name": "自动点击"
+    },
+    "Player->Building->Auto Click->Auto stop toggles": {
+        "toggleBlockNames": {
+            "Auto stop when W/A/S/D pressed": "按 W/A/S/D 时自动停止",
+            "Auto stop when clicked": "点击时自动停止"
+        }
+    },
+    "Player->Building->Auto Click->Auto LMB bind": {
+        "name": "自动左键绑定"
+    },
+    "Player->Vehicle->Replicate movement->Replicate vehicle control": {
+        "name": "复制载具控制",
+        "tip": "即使游戏失去焦点，也会重复驾驶员的 WASD 按键操作",
+        "tip2": "此功能用于从多个游戏窗口控制载具。\n例如，可以在单人游戏时操作坦克或炮兵。\n\n示例：在驾驶员窗口启用此功能并最小化到\n炮手或指挥官窗口，然后按 WASD。\n驾驶员窗口会“接收”这些按键操作"
+    },
+    "Player->Vehicle->Replicate movement": {
+        "name": "复制移动"
+    },
+    "Player->Vehicle->Replicate movement->Activation key bind": {
+        "name": "激活绑定键"
+    },
+    "Player->Vehicle->Replicate movement->Movement toggles": {
+        "toggleBlockNames": {
+            "Auto open gates": "自动开门",
+            "Disable if no crew inside": "无人驾驶时禁用"
+        }
+    },
+    "Player->Vehicle->Replicate movement->Check crew pause method": {
+        "name": "检测乘员暂停方式",
+        "comboBoxValues": {
+            "When somebody exit": "有人下车时",
+            "When solo in vehicle": "单人驾驶时"
+        }
+    },
+    "Player->Vehicle->AutoGear->Auto gear change": {
+        "name": "自动换挡",
+        "tip": "重型卡车自动换挡"
+    },
+    "Player->Vehicle->AutoGear": {
+        "name": "自动挡"
+    },
+    "Player->Vehicle->AutoGear->Speed to up gear": {
+        "name": "升挡速度",
+        "tip": "达到此速度（m/s）时升挡"
+    },
+    "Player->Vehicle->AutoGear->Speed to down gear": {
+        "name": "降挡速度",
+        "tip": "达到此速度（m/s）时降挡"
+    },
+    "Player->Vehicle->SHTStuff->Auto engineer repair": {
+        "name": "自动维修引擎",
+        "tip": "重型卡车自动修理引擎"
+    },
+    "Player->Vehicle->SHTStuff": {
+        "name": "SHTStuff"
+    },
+    "Player->Artillery->Artillery calculator": {
+        "name": "炮兵计算器",
+        "tip": "炮兵开火位置计算功能"
+    },
+    "Player->Artillery->Set target position key": {
+        "name": "设置目标位置键",
+        "tip": "炮击目标位置"
+    },
+    "Player->Artillery->Set artillery position key": {
+        "name": "设置炮位键",
+        "tip": "炮击起始位置（未设置则使用角色位置）",
+        "tip2": "再次按下将移除该位置"
+    },
+    "Player->Artillery->Render toggle key": {
+        "name": "信息显示切换键",
+        "tip": "切换信息显示"
+    },
+    "Player->Artillery->What to render": {
+        "name": "显示内容",
+        "multiComboBoxValues": {
+            "Line from target to predicted pos": "从目标到预测位置的线",
+            "Line to predicted pos": "到预测位置的线",
+            "Dispersion area": "散布范围",
+            "Panel on cursor": "光标面板"
+        }
+    },
+    "Player->Artillery->Show debug info": {
+        "toggleBlockNames": {
+            "Show debug info": "显示调试信息"
+        }
+    },
+    "Player->Artillery->Artillery dispersion Preset": {
+        "name": "炮兵散布预设",
+        "tip": "显示目标位置的炮弹散布半径",
+        "comboBoxValues": {
+            "Cremari Mortar": "Cremari 迫击炮",
+            "Gunboat": "炮艇",
+            "Mortar Truck": "迫击炮卡车",
+            "Ship 120mm": "120mm 舰炮",
+            "Ship 150mm": "150mm 舰炮",
+            "Colonial Field 120mm": "殖民军120mm野战炮",
+            "Warden Emplaced 120mm": "守望者固定式120mm炮",
+            "Battle Tank 150mm": "战斗坦克150mm炮",
+            "Warden Emplaced 150mm": "守望者固定式150mm炮",
+            "Colonial Emplaced 150mm": "殖民军固定式150mm炮",
+            "Train 300mm": "300mm列车炮",
+            "Storm Cannon 300mm": "风暴加农炮300mm",
+            "Colonial Rocket Tankette 4C": "殖民军火箭轻战车4C",
+            "Warden Rocket Half-Track 4C": "守望者火箭半履带车4C",
+            "Warden Field Launcher 4C": "守望者野战发射器4C",
+            "Colonial Katyusha 3C": "殖民军喀秋莎3C",
+            "Warden King Jester 3C": "守望者 King Jester 3C",
+            "Colonial Hades Net 3C": "殖民军 Hades Net 3C"
+        }
+    },
+    "Player->Artillery->Tips->Hint": {
+        "name": "提示",
+        "tip": "点击小地图可设置目标和炮位。\n\n按住 ALT 点击小地图可设置炮位。\n\n白色圆圈表示目标位置，橙色圆圈表示炮位。"
+    },
+    "Player->Artillery->Tips": {
+        "name": "提示"
+    },
+    "Information->Logi helper->Search stuff->Search stuff": {
+        "name": "搜索物品",
+        "tip": "在基地和仓库中搜索物品",
+        "tip2": "在输入框输入文字后，脚本会高亮显示所有搜索到的物品位置"
+    },
+    "Information->Logi helper->Search stuff": {
+        "name": "搜索物品"
+    },
+    "Information->Logi helper->Search stuff->Search toggles": {
+        "toggleBlockNames": {
+            "Background scan": "后台扫描",
+            "Map mod fix": "地图Mod修正"
+        },
+        "toggleBlockTips": {
+            "Background scan": "在后台逐步扫描当前六边形的仓库和基地",
+            "Map mod fix": "如果点位不匹配，修正地图Mod坐标"
+        }
+    },
+    "Information->Logi helper->Search stuff->Open panel key bind": {
+        "name": "打开面板快捷键"
+    },
+    "Information->Logi helper->Search stuff->Open panel button": {
+        "name": "打开面板按钮"
+    },
+    "Player->Vehicle->Auto pilot->Auto pilot": {
+        "name": "自动驾驶"
+    },
+    "Player->Vehicle->Auto pilot": {
+        "name": "自动驾驶"
+    },
+    "Player->Vehicle->Auto pilot->Pathfinding toggles": {
+        "toggleBlockNames": {
+            "Auto stop when disabled": "禁用时自动停止",
+            "Auto stop when no fuel": "无燃料时自动停止",
+            "Debug draw": "调试绘制"
+        }
+    },
+    "Player->Vehicle->Auto pilot->Update map paths": {
+        "name": "更新地图路径"
+    },
+    "Player->Vehicle->Auto pilot->Hint": {
+        "name": "提示",
+        "tip": "停止自动驾驶：同时按下 W+S"
+    },
+    "Information->Logi helper->Logi helper->Logi helper": {
+        "name": "物流助手",
+        "tip": "计算所选基地所需的箱子数量",
+        "tip2": "将鼠标悬停在基地上，脚本会计算所需箱子数量\n\n可使用面板按钮自动收集箱子"
+    },
+    "Information->Logi helper->Logi helper": {
+        "name": "物流助手"
+    },
+    "Information->Logi helper->Logi helper->Open panel key bind": {
+        "name": "打开面板快捷键"
+    },
+    "Information->Logi helper->Logi helper->Open panel button": {
+        "name": "打开面板按钮"
+    },
+    "Player->Farm helpers->Auto Train->Auto train": {
+        "name": "自动火车",
+        "tip": "自动化小火车的脚本"
+    },
+    "Player->Farm helpers->Auto Train": {
+        "name": "自动火车"
+    },
+    "Player->Farm helpers->Auto Train->Train toggles": {
+        "toggleBlockNames": {
+            "Use shipping cart": "使用运输车",
+            "Auto coal refill": "自动加煤"
+        }
+    },
+    "Player->Farm helpers->Auto Train->Open panel key bind": {
+        "name": "打开面板快捷键",
+        "tip": "用于设置路线和操作的菜单"
+    },
+    "Player->Farm helpers->Auto Train->Start bot key bind": {
+        "name": "启动机器人快捷键",
+        "tip": "开始自动火车序列。如果已经运行，则停止"
+    },
+    "Player->Farm helpers->Auto Train->Cart switch delay": {
+        "name": "切换车延迟",
+        "tip": "切换车标签后等待的秒数再继续"
+    },
+    "Player->Farm helpers->Auto Train->Next station delay": {
+        "name": "下一站延迟",
+        "tip": "开始下一站操作前等待的秒数"
+    },
+    "Player->Repeat pull->Repeat pull": {
+        "name": "重复拉取",
+        "tip": "重复按钮位于仓库界面下方",
+        "tip2": "脚本将取出上次取出的库存物品"
+    },
+    "Player->Repeat pull": {
+        "name": "重复拉取"
+    },
+    "Player->Repeat pull->Auto disable": {
+        "toggleBlockNames": {
+            "Auto disable if stockpile is empty": "库存为空时自动禁用"
+        }
+    },
+    "Information->Minimap->Mini-Map->Minimap": {
+        "name": "小地图",
+        "tip": "支持交互的小地图"
+    },
+    "Information->Minimap": {
+        "name": "小地图"
+    },
+    "Information->Minimap->Mini-Map": {
+        "name": "小地图面板"
+    },
+    "Information->Minimap->Mini-Map->Map panel scale": {
+        "name": "面板缩放",
+        "tip": "小地图面板缩放比例"
+    },
+    "Information->Minimap->Mini-Map->Icons scale": {
+        "name": "图标缩放",
+        "tip": "玩家、占领车辆和废弃车辆图标"
+    },
+    "Information->Minimap->Mini-Map->Zoom": {
+        "name": "缩放",
+        "tip": "可使用 '+' 和 '-' 放大或缩小"
+    },
+    "Information->Minimap->Mini-Map->Edge Expansion": {
+        "name": "边缘扩展",
+        "tip": "将地图显示区域扩展到小地图之外"
+    },
+    "Information->Minimap->Mini-Map->Cache duration": {
+        "name": "缓存时间",
+        "tip": "小地图上实体显示的持续时间"
+    },
+    "Information->Minimap->Mini-Map->Minimap Color": {
+        "name": "小地图颜色"
+    },
+    "Information->Minimap->Mini-Map->Roads Color": {
+        "name": "道路颜色"
+    },
+    "Information->Minimap->Mini-Map->Show objects": {
+        "name": "显示对象",
+        "multiComboBoxValues": {
+            "Wreckages": "残骸",
+            "Players": "玩家",
+            "Empty Vehicles": "空车辆",
+            "Player Vehicles": "玩家车辆",
+            "Watch Towers": "瞭望塔",
+            "Observation Bunkers": "观察碉堡",
+            "Listening Kits": "监听装置",
+            "Spawn Bases": "出生基地",
+            "Production": "生产",
+            "Artillery Explosions": "炮击爆炸"
+        }
+    },
+    "Information->Minimap->Mini-Map->Show teams": {
+        "name": "显示队伍",
+        "multiComboBoxValues": {
+            "Ally": "盟军",
+            "Enemy": "敌军"
+        }
+    },
+    "Information->Minimap->Mini-Map->Map info toggles": {
+        "toggleBlockNames": {
+            "Show players count on map": "显示地图玩家数量",
+            "Show tech level on map": "显示地图科技等级",
+            "Show players via intelligence": "通过情报显示玩家",
+            "Show ally intel coverage": "显示友军情报覆盖",
+            "Show enemy intel coverage": "显示敌方情报覆盖"
+        }
+    },
+    "Information->Minimap->Mini-Map->Players Count Position": {
+        "name": "玩家数量位置",
+        "comboBoxValues": {
+            "Top": "顶部",
+            "Bottom": "底部"
+        }
+    },
+    "Information->Minimap->Mini-Map->Intel coverage outline thickness": {
+        "name": "情报覆盖边框厚度"
+    },
+    "Information->Minimap->Mini-Map->Ally intel coverage fill color": {
+        "name": "友军情报覆盖填充颜色"
+    },
+    "Information->Minimap->Mini-Map->Ally intel coverage outline color": {
+        "name": "友军情报覆盖边框颜色"
+    },
+    "Information->Minimap->Mini-Map->Enemy intel coverage fill color": {
+        "name": "敌方情报覆盖填充颜色"
+    },
+    "Information->Minimap->Mini-Map->Enemy intel coverage outline color": {
+        "name": "敌方情报覆盖边框颜色"
+    },
+    "Information->Minimap->Mini-Map->Minimap position settings->Minimap position X": {
+        "name": "小地图位置 X"
+    },
+    "Information->Minimap->Mini-Map->Minimap position settings": {
+        "name": "小地图位置设置"
+    },
+    "Information->Minimap->Mini-Map->Minimap position settings->Minimap position Y": {
+        "name": "小地图位置 Y"
+    },
+    "Information->Minimap->Map scan->Map scan": {
+        "name": "地图扫描",
+        "tip": "启动后扫描所选区域或整个地图的敌人/车辆/对象",
+        "tip2": "使用 CTRL+左键选择区域后，扫描器\n只会在该区域工作"
+    },
+    "Information->Minimap->Map scan": {
+        "name": "地图扫描"
+    },
+    "Information->Minimap->Map scan->Scan toggles": {
+        "toggleBlockNames": {
+            "Wreckage attention": "残骸关注",
+            "Cyclical scan": "循环扫描",
+            "Random position scan": "随机位置扫描"
+        },
+        "toggleBlockTips": {
+            "Wreckage attention": "启用后，扫描器在扫描后会在残骸处停留一段时间以保持其加载状态",
+            "Cyclical scan": "",
+            "Random position scan": ""
+        }
+    },
+    "Information->Minimap->Map scan->[DEV] Map scanner settings->Not recommended to change the default settings": {
+        "name": "不建议更改默认设置",
+        "tip": "更改后可右键 → 重置为默认值"
+    },
+    "Information->Minimap->Map scan->[DEV] Map scanner settings": {
+        "name": "[开发] 地图扫描设置"
+    },
+    "Information->Minimap->Map scan->[DEV] Map scanner settings->Scan step duration": {
+        "name": "扫描步长持续时间"
+    },
+    "Information->Minimap->Map scan->[DEV] Map scanner settings->Scan step X": {
+        "name": "扫描步长 X"
+    },
+    "Information->Minimap->Map scan->[DEV] Map scanner settings->Scan step Y": {
+        "name": "扫描步长 Y"
+    },
+    "Information->Minimap->Map scan->Start scan": {
+        "name": "开始扫描",
+        "tip": "再次按下将停止扫描"
+    },
+    "Information->Minimap->Map scan->Start scan keybind": {
+        "name": "开始扫描快捷键",
+        "tip": "再次按下将停止扫描"
+    },
+    "Player->Aim assist->AIM assist": {
+        "name": "瞄准辅助",
+        "tip": "自动瞄准敌人"
+    },
+    "Player->Aim assist": {
+        "name": "瞄准辅助"
+    },
+    "Player->Aim assist->Search FOV": {
+        "name": "搜索视野",
+        "tip": "以光标为中心搜索敌人的半径"
+    },
+    "Player->Aim assist->Search step": {
+        "name": "搜索步长",
+        "tip": "扫描敌人模型的网格步长（数值越小越精确但越慢）"
+    },
+    "Player->Aim assist->Render FOV": {
+        "name": "显示视野",
+        "tip": "瞄准敌人时显示的半径",
+        "comboBoxValues": {
+            "Only when aiming": "仅在瞄准时",
+            "Always": "始终显示",
+            "Never": "从不显示"
+        }
+    },
+    "Player->Aim assist->Debug visualization": {
+        "toggleBlockNames": {
+            "Debug visualization": "调试可视化"
+        }
+    },
+    "Player->Vehicle->Train fireman->Train fireman": {
+        "name": "火车加煤员",
+        "tip": "作为大火车的加煤员自动加煤"
+    },
+    "Player->Vehicle->Train fireman": {
+        "name": "火车加煤员"
+    },
+    "Player->Vehicle->Train fireman->Activation key bind": {
+        "name": "激活快捷键"
+    },
+    "Player->Vehicle->Train fireman->Min fuel": {
+        "name": "最小燃料"
+    },
+    "Player->Vehicle->Train fireman->Min speed": {
+        "name": "最低速度"
+    },
+    "Player->Exploits->Vehicle->Ignore lack of fuel": {
+        "name": "忽略燃料不足",
+        "tip": "车辆将无燃料运行"
+    },
+    "Player->Exploits->Vehicle": {
+        "name": "车辆"
+    },
+    "Player->Exploits->Vehicle->Ignore artillery": {
+        "toggleBlockNames": {
+            "Ignore artillery": "忽略炮击"
+        }
+    },
+    "Player->Exploits->Vehicle->Ignore disabled vehicle": {
+        "name": "忽略损坏车辆",
+        "tip": "车辆即使受损也可运行"
+    },
+    "Player->Exploits->Vehicle->Time before disable ignore (0 - off)": {
+        "name": "忽略前的时间 (0 - 关闭)",
+        "tip": "车辆受损后可操作的时间"
+    },
+    "Player->Exploits->Weapons->Ignore weapon use restrictions": {
+        "name": "忽略武器使用限制",
+        "tip": "允许在任何情况下使用武器"
+    },
+    "Player->Exploits->Weapons": {
+        "name": "武器"
+    },
+    "Player->Exploits->Building->Ignore some building rules": {
+        "name": "忽略部分建筑规则",
+        "tip": "建筑将不考虑部分规则运行"
+    },
+    "Player->Exploits->Building": {
+        "name": "建筑"
+    },
+    "Player->Exploits->Building->Ignore building cooldown": {
+        "name": "忽略建筑冷却",
+        "tip": "移除建筑间的时间限制"
+    },
+    "Player->Movement->Auto deploy->Auto deploy": {
+        "name": "自动部署",
+        "tip": "移动到本地区域的部署点"
+    },
+    "Player->Movement->Auto deploy": {
+        "name": "自动部署"
+    },
+    "Player->Movement->Auto deploy->Move to deploy point bind": {
+        "name": "移动到部署点快捷键"
+    },
+    "Player->Movement->Auto deploy->Auto deploy toggles": {
+        "toggleBlockNames": {
+            "Auto run to deploy zone after spawn": "生成后自动跑到部署区"
+        }
+    },
+    "Information->Custom range->Around Character->Custom range on character": {
+        "name": "角色周围自定义范围",
+        "tip": "以角色为中心显示的半径"
+    },
+    "Information->Custom range": {
+        "name": "自定义范围"
+    },
+    "Information->Custom range->Around Character": {
+        "name": "角色周围"
+    },
+    "Information->Custom range->Around Character->Display radius": {
+        "name": "显示半径"
+    },
+    "Information->Custom range->Around Character->Range color": {
+        "name": "范围颜色"
+    },
+    "Information->Custom range->Around Cursor->Custom range on cursor": {
+        "name": "光标周围自定义范围",
+        "tip": "以光标为中心显示的半径"
+    },
+    "Information->Custom range->Around Cursor": {
+        "name": "光标周围"
+    },
+    "Information->Custom range->Around Cursor->Display radius": {
+        "name": "显示半径"
+    },
+    "Information->Custom range->Around Cursor->Range color": {
+        "name": "范围颜色"
+    },
+    "Information->Custom range->Ruler->Enable ruler": {
+        "name": "启用标尺",
+        "tip": "测量两点之间距离。Shift+快捷键添加点，不按Shift清除所有点"
+    },
+    "Information->Custom range->Ruler": {
+        "name": "标尺"
+    },
+    "Information->Custom range->Ruler->Ruler bind": {
+        "name": "标尺快捷键"
+    },
+    "Information->Custom range->Ruler->Ruler color": {
+        "name": "标尺颜色"
+    },
+    "Information->Custom range->Ruler->Line thickness": {
+        "name": "线条粗细"
+    },
+    "Information->Voice Transcription/Translation->Voice Transcription/Translation": {
+        "name": "语音转文字/翻译"
+    },
+    "Information->Voice Transcription/Translation": {
+        "name": "语音转文字/翻译"
+    },
+    "Information->Voice Transcription/Translation->Model": {
+        "name": "模型",
+        "comboBoxValues": {
+            "tiny": "tiny",
+            "tiny.en": "tiny.en",
+            "tiny-q5_1": "tiny-q5_1",
+            "tiny.en-q5_1": "tiny.en-q5_1",
+            "tiny-q8_0": "tiny-q8_0",
+            "base": "base",
+            "base.en": "base.en",
+            "base-q5_1": "base-q5_1",
+            "base.en-q5_1": "base.en-q5_1",
+            "base-q8_0": "base-q8_0",
+            "small": "small",
+            "small.en": "small.en",
+            "small.en-tdrz": "small.en-tdrz",
+            "small-q5_1": "small-q5_1",
+            "small.en-q5_1": "small.en-q5_1",
+            "small-q8_0": "small-q8_0",
+            "medium": "medium",
+            "medium.en": "medium.en",
+            "medium-q5_0": "medium-q5_0",
+            "medium.en-q5_0": "medium.en-q5_0",
+            "medium-q8_0": "medium-q8_0",
+            "large-v1": "large-v1",
+            "large-v2": "large-v2",
+            "large-v2-q5_0": "large-v2-q5_0",
+            "large-v2-q8_0": "large-v2-q8_0",
+            "large-v3": "large-v3",
+            "large-v3-q5_0": "large-v3-q5_0",
+            "large-v3-turbo": "large-v3-turbo",
+            "large-v3-turbo-q5_0": "large-v3-turbo-q5_0",
+            "large-v3-turbo-q8_0": "large-v3-turbo-q8_0"
+        }
+    },
+    "Information->Voice Transcription/Translation->Detect language": {
+        "name": "检测语言",
+        "comboBoxValues": {
+            "auto": "auto",
+            "en": "en",
+            "ru": "ru",
+            "de": "de",
+            "fr": "fr",
+            "es": "es",
+            "it": "it",
+            "pt": "pt",
+            "pl": "pl",
+            "tr": "tr",
+            "ja": "ja",
+            "zh": "zh",
+            "ko": "ko",
+            "ar": "ar",
+            "nl": "nl",
+            "sv": "sv",
+            "da": "da",
+            "fi": "fi",
+            "no": "no",
+            "cs": "cs",
+            "hu": "hu",
+            "ro": "ro",
+            "sk": "sk",
+            "bg": "bg",
+            "el": "el"
+        }
+    },
+    "Information->Voice Transcription/Translation->Buffer timeout (s)": {
+        "name": "缓冲超时（秒）"
+    },
+    "Information->Voice Transcription/Translation->Show text over players": {
+        "name": "在玩家上方显示文字"
+    },
+    "Information->Voice Transcription/Translation->Text display duration (s)": {
+        "name": "文字显示时间（秒）"
+    },
+    "Information->Voice Transcription/Translation->Translate": {
+        "name": "翻译"
+    },
+    "Information->Voice Transcription/Translation->Translate to": {
+        "name": "翻译为",
+        "comboBoxValues": {
+            "auto": "auto",
+            "en": "en",
+            "ru": "ru",
+            "de": "de",
+            "fr": "fr",
+            "es": "es",
+            "it": "it",
+            "pt": "pt",
+            "pl": "pl",
+            "tr": "tr",
+            "ja": "ja",
+            "zh": "zh",
+            "ko": "ko",
+            "ar": "ar",
+            "nl": "nl",
+            "sv": "sv",
+            "da": "da",
+            "fi": "fi",
+            "no": "no",
+            "cs": "cs",
+            "hu": "hu",
+            "ro": "ro",
+            "sk": "sk",
+            "bg": "bg",
+            "el": "el"
+        }
+    },
+    "Information->Voice Transcription/Translation->Load model": {
+        "name": "加载模型"
+    },
+    "Information->Voice Transcription/Translation->Show history": {
+        "name": "显示历史记录"
+    },
+    "Information->FPS Unlocker->FPS Unlocker->FPS Unlock": {
+        "name": "解锁FPS",
+        "tip": "为游戏设置任意FPS限制"
+    },
+    "Information->FPS Unlocker": {
+        "name": "FPS解锁器"
+    },
+    "Information->FPS Unlocker->FPS Unlocker": {
+        "name": "FPS解锁器"
+    },
+    "Information->FPS Unlocker->FPS Unlocker->FPS limit": {
+        "name": "FPS上限"
+    },
+    "Information->FPS Unlocker->Fix screen->Fix screen resize": {
+        "name": "修复屏幕缩放",
+        "tip": "在切换区域时修复分辨率变化"
+    },
+    "Information->FPS Unlocker->Fix screen": {
+        "name": "修复屏幕"
+    },
+    "Information->FPS Unlocker->Unfocused FPS->Limit FPS when unfocused": {
+        "name": "失去焦点时限制FPS",
+        "tip": "游戏窗口未聚焦时降低FPS"
+    },
+    "Information->FPS Unlocker->Unfocused FPS": {
+        "name": "失去焦点FPS"
+    },
+    "Information->FPS Unlocker->Unfocused FPS->Unfocused FPS limit": {
+        "name": "失去焦点FPS上限"
+    },
+    "Information->FPS Unlocker->Paused FPS->Limit FPS when paused": {
+        "name": "暂停时限制FPS",
+        "tip": "游戏暂停（ESC菜单）时降低FPS"
+    },
+    "Information->FPS Unlocker->Paused FPS": {
+        "name": "暂停FPS"
+    },
+    "Information->FPS Unlocker->Paused FPS->Paused FPS limit": {
+        "name": "暂停FPS上限"
+    },
+    "Information->Camera->Free camera->Free camera": {
+        "name": "自由摄像机",
+        "tip": "无限制移动摄像机",
+        "tip2": "远距离观察位置时，建议平滑移动摄像机，否则玩家/车辆可能无法渲染\n建议手持武器或望远镜以避免bug"
+    },
+    "Information->Camera": {
+        "name": "摄像机"
+    },
+    "Information->Camera->Free camera": {
+        "name": "自由摄像机"
+    },
+    "Information->Camera->Free camera->Free camera key": {
+        "name": "自由摄像机快捷键"
+    },
+    "Information->Camera->Free camera->Free camera freeze key": {
+        "name": "冻结摄像机快捷键",
+        "tip": "固定当前摄像机位置"
+    },
+    "Information->Camera->Free camera->Free camera mode": {
+        "name": "自由摄像机模式",
+        "tip2": "自动 - 短按切换Toggle模式，长按切换Hold模式\nHold - 按住时激活\nToggle - 单次按下激活",
+        "comboBoxValues": {
+            "Hold": "按住",
+            "Toggle": "切换",
+            "Auto": "自动"
+        }
+    },
+    "Information->Camera->Free camera->Set camera position via minimap": {
+        "name": "通过小地图设置摄像机位置",
+        "tip": "ALT+左键在小地图上设置自由摄像机位置"
+    },
+    "Information->Camera->Free camera->Free camera behavior settings->Camera Speed2": {
+        "name": "摄像机速度"
+    },
+    "Information->Camera->Free camera->Free camera behavior settings": {
+        "name": "自由摄像机行为设置"
+    },
+    "Information->Camera->Free camera->Free camera behavior settings->Dead Zone": {
+        "name": "死区",
+        "tip": "屏幕中心区域内光标不会移动摄像机"
+    },
+    "Information->Camera->Free camera->Free camera behavior settings->Fast Camera Speed": {
+        "name": "快速摄像机速度",
+        "tip": "光标在屏幕边缘时的最大摄像机速度"
+    },
+    "Information->Camera->Free camera->Free camera behavior settings->Fast Zone": {
+        "name": "快速区域",
+        "tip": "从屏幕中心开始摄像机加速的区域"
+    },
+    "Information->Camera->FOV changer->FOV changer": {
+        "name": "视野调整器",
+        "tip": "调整视野范围"
+    },
+    "Information->Camera->FOV changer": {
+        "name": "视野调整器"
+    },
+    "Information->Camera->FOV changer->Method of changing": {
+        "name": "调整方式",
+        "comboBoxValues": {
+            "Dont change": "不改变",
+            "Alt + Scroll": "Alt+滚轮",
+            "Scroll": "滚轮"
+        }
+    },
+    "Information->Camera->FOV changer->Scroll target": {
+        "name": "滚轮目标",
+        "comboBoxValues": {
+            "FOV": "视野",
+            "Camera Arm Length": "摄像机臂长"
+        }
+    },
+    "Information->Camera->FOV changer->FOV Changer settings->Current FOV": {
+        "name": "当前视野"
+    },
+    "Information->Camera->FOV changer->FOV Changer settings": {
+        "name": "视野调整器设置"
+    },
+    "Information->Camera->FOV changer->FOV Changer settings->FOV change Step": {
+        "name": "视野调整步长"
+    },
+    "Information->Camera->FOV changer->FOV Changer settings->Smooth FOV change": {
+        "name": "平滑调整视野"
+    },
+    "Information->Camera->FOV changer->Camera Zoom settings->Current Zoom Distance": {
+        "name": "当前缩放距离"
+    },
+    "Information->Camera->FOV changer->Camera Zoom settings": {
+        "name": "摄像机缩放设置"
+    },
+    "Information->Camera->FOV changer->Camera Zoom settings->Zoom Distance Step": {
+        "name": "缩放距离步长"
+    },
+    "Information->Camera->Cloud settings->Disable clouds": {
+        "name": "禁用云层",
+        "tip": "禁用天空中的云渲染"
+    },
+    "Information->Camera->Cloud settings": {
+        "name": "云层设置"
+    },
+    "Information->Camera->Night intensity->Night intensity": {
+        "name": "夜间亮度",
+        "tip": "调整夜间可见度强度"
+    },
+    "Information->Camera->Night intensity": {
+        "name": "夜间亮度"
+    },
+    "Information->Camera->Night intensity->Night intensity value": {
+        "name": "夜间亮度数值"
+    },
+    "Player->Building->Auto Build->Auto build": {
+        "name": "自动建造",
+        "tip": "自动建造蓝图或壕沟"
+    },
+    "Player->Building->Auto Build": {
+        "name": "自动建造"
+    },
+    "Player->Building->Auto Build->Auto building bind": {
+        "name": "自动建造快捷键"
+    },
+    "Player->Building->Auto Build->Searching distance": {
+        "name": "搜索距离",
+        "tip": "搜索蓝图或壕沟的距离"
+    },
+    "Player->Building->Auto Build->Build toggles": {
+        "toggleBlockNames": {
+            "Auto stop when W/A/S/D pressed": "按下W/A/S/D时自动停止",
+            "Drainage of puddles": "排除积水",
+            "Only on roads": "仅在道路上",
+            "Repair damaged structures": "修复受损建筑"
+        }
+    },
+    "Player->Building->Auto Build->Repair health threshold %": {
+        "name": "修复生命值阈值 %",
+        "tip": "当建筑耐久低于该百分比时进行修复"
+    }
+}

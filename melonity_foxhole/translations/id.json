@@ -1,0 +1,1990 @@
+{
+    "inlined_strings": {
+        "resource_settings": "Pengaturan resource",
+        "navigation": "Navigasi",
+        "outside_folder": "Di luar folder",
+        "common_settings": "Pengaturan umum",
+        "many_days_left": "Masih banyak hari tersisa",
+        "days_left": "{} hari tersisa",
+        "config_settings": "Pengaturan config",
+        "create": "Buat",
+        "resource_settings_desc": "Mengganti resource asli Dota 2. Setelah diaktifkan, game perlu direstart.",
+        "config_settings_desc": "Di sini kamu bisa memilih konfigurasi yang tersedia, membuat yang baru, menghapus yang tidak diperlukan\nserta membagikan kode atau mengimpor konfigurasi pengguna lain melalui kodenya.",
+        "name": "Nama",
+        "author": "Pembuat",
+        "import": "Impor",
+        "code": "Kode",
+        "edited": "Diedit",
+        "actions": "Aksi",
+        "delete": "Hapus",
+        "cancel": "Batal",
+        "load": "Muat",
+        "list_configs": "Daftar config",
+        "list_of_avaliable_configs": "Daftar config yang tersedia",
+        "delete_config": "Hapus config {}?",
+        "delete_config_desc": "Config yang dihapus hanya bisa dipulihkan dengan kode."
+    },
+    "root": {
+        "name": "root"
+    },
+    "Player": {
+        "name": "Pemain"
+    },
+    "ESP": {
+        "name": "ESP"
+    },
+    "Information": {
+        "name": "Informasi"
+    },
+    "Settings->System->Show menu on start": {
+        "name": "Tampilkan menu saat start"
+    },
+    "Settings": {
+        "name": "Pengaturan"
+    },
+    "Settings->System": {
+        "name": "Sistem"
+    },
+    "Settings->System->Open menu": {
+        "name": "Buka menu",
+        "tip": "Tombol tambahan untuk membuka menu\nTombol utama - Insert"
+    },
+    "Settings->System->Menu scale": {
+        "name": "Skala menu"
+    },
+    "Settings->System->Disable animated tips": {
+        "toggleBlockNames": {
+            "Disable animated tips": "Nonaktifkan tips animasi"
+        }
+    },
+    "Settings->System->Dll: Stable, Scripts: Stable": {
+        "name": "Dll: Stable, Scripts: Stable"
+    },
+    "Settings->Scripts->Scripts->Load server scripts": {
+        "name": "Load server scripts",
+        "tip": "Bisa dinonaktifkan jika Dev Mode aktif"
+    },
+    "Settings->Scripts": {
+        "name": "Scripts"
+    },
+    "Settings->Scripts->Scripts": {
+        "name": "Scripts"
+    },
+    "Settings->Scripts->Scripts->Reload scripts from server": {
+        "name": "Reload scripts dari server"
+    },
+    "Settings->Scripts->Scripts->Load local scripts": {
+        "name": "Load local scripts",
+        "tip": "Scripts dari developer pihak ketiga"
+    },
+    "Settings->Scripts->Scripts->Dev Mode": {
+        "name": "Dev Mode",
+        "tip": "Mode developer dengan informasi tambahan",
+        "tip2": "Mengaktifkan tab menu test, Debug Menu [F11], dan shortcut menu di dalam game"
+    },
+    "Settings->Scripts->Scripts->Bug reporter icon": {
+        "name": "Ikon pelapor bug"
+    },
+    "Settings->Scripts->Scripts->Verbose script logs": {
+        "name": "Log script detail"
+    },
+    "Settings->Scripts->Scripts->Dump separate translations": {
+        "name": "Dump terjemahan terpisah"
+    },
+    "Settings->Scripts->Scripts->Open console": {
+        "name": "Buka console"
+    },
+    "Settings->Scripts->Scripts->Reload scripts": {
+        "name": "Reload scripts"
+    },
+    "Settings->Scripts->Scripts->Unload dll": {
+        "name": "Unload dll"
+    },
+    "Settings->Scripts->Scripts->Debug Menu Settings": {
+        "name": "Pengaturan Debug Menu"
+    },
+    "Settings->Scripts->Scripts->Debug Menu Settings->Debug menu scale": {
+        "name": "Skala Debug menu"
+    },
+    "Settings->Scripts->Scripts->Debug Menu Settings->Debug font size": {
+        "name": "Ukuran font Debug"
+    },
+    "Settings->Scripts->Scripts->Debug Menu Settings->Debug menu font": {
+        "name": "Font Debug menu"
+    },
+    "Settings->Scripts->Scripts->Console Settings": {
+        "name": "Pengaturan Console"
+    },
+    "Settings->Scripts->Scripts->Console Settings->Debug menu scale": {
+        "name": "Skala Debug menu"
+    },
+    "Settings->Scripts->Scripts->Console Settings->Debug font size": {
+        "name": "Ukuran font Debug"
+    },
+    "Settings->Scripts->Scripts->Console Settings->Debug menu font": {
+        "name": "Font Debug menu"
+    },
+    "Favorites": {
+        "name": "Favorit"
+    },
+    "Settings->Configs->Current config:": {
+        "name": "Config saat ini:"
+    },
+    "Settings->Configs": {
+        "name": "Configs"
+    },
+    "Settings->KeyBinds->There is no options...": {
+        "name": "Tidak ada opsi..."
+    },
+    "Settings->KeyBinds": {
+        "name": "KeyBinds"
+    },
+    "Settings->Wheel->Wheel Key": {
+        "name": "Tombol Wheel"
+    },
+    "Settings->Wheel": {
+        "name": "Wheel"
+    },
+    "Settings->Wheel->There is no options...": {
+        "name": "Tidak ada opsi..."
+    },
+    "Settings->Resources->There is no options...": {
+        "name": "Tidak ada opsi..."
+    },
+    "Settings->Resources": {
+        "name": "Resources"
+    },
+    "ESP->Object Info": {
+        "name": "Info Objek"
+    },
+    "ESP->Object Info->Ally": {
+        "name": "Sekutu"
+    },
+    "ESP->Object Info->Ally->Header->Enable": {
+        "name": "Aktifkan"
+    },
+    "ESP->Object Info->Ally->Header": {
+        "name": "Header"
+    },
+    "ESP->Object Info->Ally->Header->Color": {
+        "name": "Warna"
+    },
+    "ESP->Object Info->Ally->Infantry->Infantry": {
+        "name": "Infanteri"
+    },
+    "ESP->Object Info->Ally->Infantry": {
+        "name": "Infanteri"
+    },
+    "ESP->Object Info->Ally->Infantry->Infantry information": {
+        "name": "Informasi infanteri",
+        "multiComboBoxValues": {
+            "health number": "angka health",
+            "HP Bar": "HP Bar",
+            "Name": "Nama",
+            "Name (hold alt)": "Nama (tahan Alt)",
+            "Equipped weapon": "Senjata yang dipakai",
+            "Other equipment": "Peralatan lain",
+            "Lines to entity": "Garis ke entity",
+            "Aiming line": "Garis bidik"
+        }
+    },
+    "ESP->Object Info->Ally->Infantry->Skeleton Type": {
+        "name": "Tipe skeleton",
+        "comboBoxValues": {
+            "None": "Tidak ada",
+            "Always": "Selalu",
+            "Only when visible": "Hanya saat terlihat",
+            "Only when not visible": "Hanya saat tidak terlihat"
+        }
+    },
+    "ESP->Object Info->Ally->Infantry->Boxes Type": {
+        "name": "Tipe box",
+        "comboBoxValues": {
+            "None": "Tidak ada",
+            "3D": "3D",
+            "2D": "2D"
+        }
+    },
+    "ESP->Object Info->Ally->Infantry->Always visible model": {
+        "toggleBlockNames": {
+            "Always visible model": "Model selalu terlihat"
+        }
+    },
+    "ESP->Object Info->Ally->Infantry->Additional Settings->Info Position": {
+        "name": "Posisi info",
+        "comboBoxValues": {
+            "Center": "Tengah",
+            "Top Left": "Kiri atas",
+            "Top Center": "Atas tengah",
+            "Top Right": "Kanan atas",
+            "Bottom Left": "Kiri bawah",
+            "Bottom Center": "Bawah tengah",
+            "Bottom Right": "Kanan bawah",
+            "Left Top": "Kiri atas",
+            "Left Center": "Kiri tengah",
+            "Left Bottom": "Kiri bawah",
+            "Right Top": "Kanan atas",
+            "Right Center": "Kanan tengah",
+            "Right Bottom": "Kanan bawah"
+        }
+    },
+    "ESP->Object Info->Ally->Infantry->Additional Settings": {
+        "name": "Pengaturan tambahan"
+    },
+    "ESP->Object Info->Ally->Infantry->Additional Settings->HP Bar Position": {
+        "name": "Posisi HP Bar",
+        "comboBoxValues": {
+            "Bottom": "Bawah",
+            "Top": "Atas",
+            "Left": "Kiri",
+            "Right": "Kanan"
+        }
+    },
+    "ESP->Object Info->Ally->Vehicles->Vehicles": {
+        "name": "Kendaraan"
+    },
+    "ESP->Object Info->Ally->Vehicles": {
+        "name": "Kendaraan"
+    },
+    "ESP->Object Info->Ally->Vehicles->Vehicle information": {
+        "name": "Informasi kendaraan",
+        "multiComboBoxValues": {
+            "Health": "Health",
+            "HP Bar": "HP Bar",
+            "Lock": "Kunci",
+            "Squad lock": "Kunci squad",
+            "Fuel": "Fuel",
+            "Temperature": "Suhu",
+            "Inventory": "Inventory",
+            "Lines to entity": "Garis ke entity"
+        }
+    },
+    "ESP->Object Info->Ally->Vehicles->Boxes Type": {
+        "name": "Tipe box",
+        "comboBoxValues": {
+            "None": "Tidak ada",
+            "3D": "3D",
+            "2D": "2D"
+        }
+    },
+    "ESP->Object Info->Ally->Vehicles->Always visible model": {
+        "toggleBlockNames": {
+            "Always visible model": "Model selalu terlihat"
+        }
+    },
+    "ESP->Object Info->Ally->Vehicles->Additional Settings->Info Position": {
+        "name": "Posisi info",
+        "comboBoxValues": {
+            "Center": "Tengah",
+            "Top Left": "Kiri atas",
+            "Top Center": "Atas tengah",
+            "Top Right": "Kanan atas",
+            "Bottom Left": "Kiri bawah",
+            "Bottom Center": "Bawah tengah",
+            "Bottom Right": "Kanan bawah",
+            "Left Top": "Kiri atas",
+            "Left Center": "Kiri tengah",
+            "Left Bottom": "Kiri bawah",
+            "Right Top": "Kanan atas",
+            "Right Center": "Kanan tengah",
+            "Right Bottom": "Kanan bawah"
+        }
+    },
+    "ESP->Object Info->Ally->Vehicles->Additional Settings": {
+        "name": "Pengaturan tambahan"
+    },
+    "ESP->Object Info->Ally->Vehicles->Additional Settings->HP Bar Position": {
+        "name": "Posisi HP Bar",
+        "comboBoxValues": {
+            "Bottom": "Bawah",
+            "Top": "Atas",
+            "Left": "Kiri",
+            "Right": "Kanan"
+        }
+    },
+    "ESP->Object Info->Ally->Vehicles->Additional Settings->Additional information on lines": {
+        "name": "Informasi tambahan pada garis",
+        "multiComboBoxValues": {
+            "Lock": "Kunci",
+            "Squad lock": "Kunci squad",
+            "Driver": "Pengemudi"
+        }
+    },
+    "ESP->Object Info->Ally->Etc->Buildings": {
+        "name": "Bangunan"
+    },
+    "ESP->Object Info->Ally->Etc": {
+        "name": "Lainnya"
+    },
+    "ESP->Object Info->Ally->Etc->Building Misc": {
+        "name": "Info bangunan lain",
+        "multiComboBoxValues": {
+            "Health": "Health",
+            "Inventory": "Inventory",
+            "Stockpile": "Stockpile",
+            "Use area Box": "Gunakan area Box"
+        }
+    },
+    "ESP->Object Info->Ally->Etc->Always visible model": {
+        "toggleBlockNames": {
+            "Always visible model": "Model selalu terlihat"
+        }
+    },
+    "ESP->Object Info->Ally->Etc->Watchtower info": {
+        "name": "Info watchtower",
+        "multiComboBoxValues": {
+            "Range": "Jangkauan",
+            "Lines to watchtower": "Garis ke watchtower"
+        }
+    },
+    "ESP->Object Info->Ally->Etc->Pillbox info": {
+        "name": "Info pillbox",
+        "multiComboBoxValues": {
+            "Firing range": "Jarak tembak"
+        }
+    },
+    "ESP->Object Info->Enemy": {
+        "name": "Musuh"
+    },
+    "ESP->Object Info->Enemy->Header->Enable": {
+        "name": "Aktifkan"
+    },
+    "ESP->Object Info->Enemy->Header": {
+        "name": "Header"
+    },
+    "ESP->Object Info->Enemy->Header->Color": {
+        "name": "Warna"
+    },
+    "ESP->Object Info->Enemy->Infantry->Infantry": {
+        "name": "Infanteri"
+    },
+    "ESP->Object Info->Enemy->Infantry": {
+        "name": "Infanteri"
+    },
+    "ESP->Object Info->Enemy->Infantry->Infantry information": {
+        "name": "Informasi infanteri",
+        "multiComboBoxValues": {
+            "health number": "angka health",
+            "HP Bar": "HP Bar",
+            "Name": "Nama",
+            "Name (hold alt)": "Nama (tahan Alt)",
+            "Equipped weapon": "Senjata yang dipakai",
+            "Other equipment": "Peralatan lain",
+            "Lines to entity": "Garis ke entity",
+            "Aiming line": "Garis bidik"
+        }
+    },
+    "ESP->Object Info->Enemy->Infantry->Skeleton Type": {
+        "name": "Tipe skeleton",
+        "comboBoxValues": {
+            "None": "Tidak ada",
+            "Always": "Selalu",
+            "Only when visible": "Hanya saat terlihat",
+            "Only when not visible": "Hanya saat tidak terlihat"
+        }
+    },
+    "ESP->Object Info->Enemy->Infantry->Boxes Type": {
+        "name": "Tipe box",
+        "comboBoxValues": {
+            "None": "Tidak ada",
+            "3D": "3D",
+            "2D": "2D"
+        }
+    },
+    "ESP->Object Info->Enemy->Infantry->Always visible model": {
+        "toggleBlockNames": {
+            "Always visible model": "Model selalu terlihat"
+        }
+    },
+    "ESP->Object Info->Enemy->Infantry->Additional Settings->Info Position": {
+        "name": "Posisi info",
+        "comboBoxValues": {
+            "Center": "Tengah",
+            "Top Left": "Kiri atas",
+            "Top Center": "Atas tengah",
+            "Top Right": "Kanan atas",
+            "Bottom Left": "Kiri bawah",
+            "Bottom Center": "Bawah tengah",
+            "Bottom Right": "Kanan bawah",
+            "Left Top": "Kiri atas",
+            "Left Center": "Kiri tengah",
+            "Left Bottom": "Kiri bawah",
+            "Right Top": "Kanan atas",
+            "Right Center": "Kanan tengah",
+            "Right Bottom": "Kanan bawah"
+        }
+    },
+    "ESP->Object Info->Enemy->Infantry->Additional Settings": {
+        "name": "Pengaturan tambahan"
+    },
+    "ESP->Object Info->Enemy->Infantry->Additional Settings->HP Bar Position": {
+        "name": "Posisi HP Bar",
+        "comboBoxValues": {
+            "Bottom": "Bawah",
+            "Top": "Atas",
+            "Left": "Kiri",
+            "Right": "Kanan"
+        }
+    },
+    "ESP->Object Info->Enemy->Vehicles->Vehicles": {
+        "name": "Kendaraan"
+    },
+    "ESP->Object Info->Enemy->Vehicles": {
+        "name": "Kendaraan"
+    },
+    "ESP->Object Info->Enemy->Vehicles->Vehicle information": {
+        "name": "Informasi kendaraan",
+        "multiComboBoxValues": {
+            "Health": "Health",
+            "HP Bar": "HP Bar",
+            "Lock": "Kunci",
+            "Squad lock": "Kunci squad",
+            "Fuel": "Fuel",
+            "Temperature": "Suhu",
+            "Inventory": "Inventory",
+            "Lines to entity": "Garis ke entity"
+        }
+    },
+    "ESP->Object Info->Enemy->Vehicles->Boxes Type": {
+        "name": "Tipe box",
+        "comboBoxValues": {
+            "None": "Tidak ada",
+            "3D": "3D",
+            "2D": "2D"
+        }
+    },
+    "ESP->Object Info->Enemy->Vehicles->Always visible model": {
+        "toggleBlockNames": {
+            "Always visible model": "Model selalu terlihat"
+        }
+    },
+    "ESP->Object Info->Enemy->Vehicles->Additional Settings->Info Position": {
+        "name": "Posisi info",
+        "comboBoxValues": {
+            "Center": "Tengah",
+            "Top Left": "Kiri atas",
+            "Top Center": "Atas tengah",
+            "Top Right": "Kanan atas",
+            "Bottom Left": "Kiri bawah",
+            "Bottom Center": "Bawah tengah",
+            "Bottom Right": "Kanan bawah",
+            "Left Top": "Kiri atas",
+            "Left Center": "Kiri tengah",
+            "Left Bottom": "Kiri bawah",
+            "Right Top": "Kanan atas",
+            "Right Center": "Kanan tengah",
+            "Right Bottom": "Kanan bawah"
+        }
+    },
+    "ESP->Object Info->Enemy->Vehicles->Additional Settings": {
+        "name": "Pengaturan tambahan"
+    },
+    "ESP->Object Info->Enemy->Vehicles->Additional Settings->HP Bar Position": {
+        "name": "Posisi HP Bar",
+        "comboBoxValues": {
+            "Bottom": "Bawah",
+            "Top": "Atas",
+            "Left": "Kiri",
+            "Right": "Kanan"
+        }
+    },
+    "ESP->Object Info->Enemy->Vehicles->Additional Settings->Additional information on lines": {
+        "name": "Informasi tambahan pada garis",
+        "multiComboBoxValues": {
+            "Lock": "Kunci",
+            "Squad lock": "Kunci squad",
+            "Driver": "Pengemudi"
+        }
+    },
+    "ESP->Object Info->Enemy->Etc->Buildings": {
+        "name": "Bangunan"
+    },
+    "ESP->Object Info->Enemy->Etc": {
+        "name": "Lainnya"
+    },
+    "ESP->Object Info->Enemy->Etc->Building Misc": {
+        "name": "Info bangunan lain",
+        "multiComboBoxValues": {
+            "Health": "Health",
+            "Inventory": "Inventory",
+            "Stockpile": "Stockpile",
+            "Use area Box": "Gunakan area Box"
+        }
+    },
+    "ESP->Object Info->Enemy->Etc->Always visible model": {
+        "toggleBlockNames": {
+            "Always visible model": "Model selalu terlihat"
+        }
+    },
+    "ESP->Object Info->Enemy->Etc->Watchtower info": {
+        "name": "Info watchtower",
+        "multiComboBoxValues": {
+            "Range": "Jangkauan",
+            "Lines to watchtower": "Garis ke watchtower"
+        }
+    },
+    "ESP->Object Info->Enemy->Etc->Pillbox info": {
+        "name": "Info pillbox",
+        "multiComboBoxValues": {
+            "Firing range": "Jarak tembak"
+        }
+    },
+    "ESP->Object Info->Neutral": {
+        "name": "Netral"
+    },
+    "ESP->Object Info->Neutral->Etc->Wreckage": {
+        "toggleBlockNames": {
+            "Wreckage Circle": "Lingkaran wreckage",
+            "Wreckage Lines": "Garis wreckage"
+        }
+    },
+    "ESP->Object Info->Neutral->Etc": {
+        "name": "Lainnya"
+    },
+    "ESP->Object Info->Neutral->Etc->Listening Kits": {
+        "toggleBlockNames": {
+            "Listening Kits Circle": "Lingkaran listening kit",
+            "Listening Kits Lines": "Garis listening kit"
+        }
+    },
+    "ESP->Object Info->Neutral->Etc->Resources fields": {
+        "toggleBlockNames": {
+            "Information about resource field": "Info resource field",
+            "Resource field circle": "Lingkaran resource field",
+            "Rare resources circle": "Lingkaran resource langka"
+        }
+    },
+    "ESP->Object Info->Neutral->Etc->Explosives": {
+        "toggleBlockNames": {
+            "AP Mines": "Ranjau AP",
+            "AT Mines": "Ranjau AT",
+            "Grenades": "Granat"
+        }
+    },
+    "ESP->Object Info->Neutral->Etc->Wounded soldier": {
+        "toggleBlockNames": {
+            "Wounded soldier circle": "Lingkaran prajurit terluka",
+            "Wounded soldier line": "Garis prajurit terluka"
+        }
+    },
+    "ESP->Object Info->Neutral->Etc->Other": {
+        "toggleBlockNames": {
+            "Artillery hits places": "Lokasi tembakan artileri",
+            "Pick-up items": "Item yang bisa diambil",
+            "Puddles": "Genangan air",
+            "Switch arrows": "Panah pergantian"
+        }
+    },
+    "ESP->Object Info->Neutral->Vehicles->Vehicles": {
+        "name": "Kendaraan"
+    },
+    "ESP->Object Info->Neutral->Vehicles": {
+        "name": "Kendaraan"
+    },
+    "ESP->Object Info->Neutral->Vehicles->Vehicle information": {
+        "name": "Informasi kendaraan",
+        "multiComboBoxValues": {
+            "Health": "Health",
+            "HP Bar": "HP Bar",
+            "Lock": "Kunci",
+            "Squad lock": "Kunci squad",
+            "Fuel": "Fuel",
+            "Temperature": "Suhu",
+            "Inventory": "Inventory",
+            "Lines to entity": "Garis ke entity"
+        }
+    },
+    "ESP->Object Info->Neutral->Vehicles->Boxes Type": {
+        "name": "Tipe box",
+        "comboBoxValues": {
+            "None": "Tidak ada",
+            "3D": "3D",
+            "2D": "2D"
+        }
+    },
+    "ESP->Object Info->Neutral->Vehicles->Always visible model": {
+        "toggleBlockNames": {
+            "Always visible model": "Model selalu terlihat"
+        }
+    },
+    "ESP->Object Info->Neutral->Vehicles->Additional Settings->Info Position": {
+        "name": "Posisi info",
+        "comboBoxValues": {
+            "Center": "Tengah",
+            "Top Left": "Kiri atas",
+            "Top Center": "Atas tengah",
+            "Top Right": "Kanan atas",
+            "Bottom Left": "Kiri bawah",
+            "Bottom Center": "Bawah tengah",
+            "Bottom Right": "Kanan bawah",
+            "Left Top": "Kiri atas",
+            "Left Center": "Kiri tengah",
+            "Left Bottom": "Kiri bawah",
+            "Right Top": "Kanan atas",
+            "Right Center": "Kanan tengah",
+            "Right Bottom": "Kanan bawah"
+        }
+    },
+    "ESP->Object Info->Neutral->Vehicles->Additional Settings": {
+        "name": "Pengaturan tambahan"
+    },
+    "ESP->Object Info->Neutral->Vehicles->Additional Settings->HP Bar Position": {
+        "name": "Posisi HP Bar",
+        "comboBoxValues": {
+            "Bottom": "Bawah",
+            "Top": "Atas",
+            "Left": "Kiri",
+            "Right": "Kanan"
+        }
+    },
+    "ESP->Object Info->Neutral->Vehicles->Additional Settings->Additional information on lines": {
+        "name": "Informasi tambahan pada garis",
+        "multiComboBoxValues": {
+            "Lock": "Terkunci",
+            "Squad lock": "Terkunci Squad",
+            "Driver": "Pengemudi"
+        }
+    },
+    "ESP->Object Info->Neutral->Etc->Buildings": {
+        "name": "Bangunan"
+    },
+    "ESP->Object Info->Neutral->Etc->Building Misc": {
+        "name": "Lainnya Bangunan",
+        "multiComboBoxValues": {
+            "Health": "Health",
+            "Inventory": "Inventory",
+            "Stockpile": "Stockpile",
+            "Use area Box": "Gunakan Area Box"
+        }
+    },
+    "ESP->Object Info->Neutral->Etc->Always visible model": {
+        "toggleBlockNames": {
+            "Always visible model": "Model selalu terlihat"
+        }
+    },
+    "ESP->Object Info->ETC": {
+        "name": "Lainnya"
+    },
+    "ESP->Object Info->ETC->Lines->Tracking Line": {
+        "name": "Tracking Line",
+        "tip": "Menggambar garis ke objek yang dipilih"
+    },
+    "ESP->Object Info->ETC->Lines": {
+        "name": "Garis"
+    },
+    "ESP->Object Info->ETC->Lines->Hide line if target is visible": {
+        "toggleBlockNames": {
+            "Hide line if target is visible": "Sembunyikan garis jika target terlihat"
+        }
+    },
+    "ESP->Object Info->ETC->Lines->Start Distance": {
+        "name": "Jarak Awal"
+    },
+    "ESP->Object Info->ETC->Lines->End Distance": {
+        "name": "Jarak Akhir"
+    },
+    "ESP->Object Info->ETC->Lines->Line Transparency": {
+        "name": "Transparansi Garis"
+    },
+    "ESP->Object Info->ETC->Lines->Text Transparency": {
+        "name": "Transparansi Teks"
+    },
+    "ESP->Object Info->ETC->Lines->Font Scale": {
+        "name": "Skala Font"
+    },
+    "ESP->Object Info->ETC->Highlight Interactable": {
+        "name": "Sorot Interactable",
+        "tip": "Menyorot objek yang bisa diinteraksikan"
+    },
+    "ESP->Object Info->ETC->Circle Size": {
+        "name": "Ukuran Lingkaran"
+    },
+    "ESP->Object Info->ETC->Circle Color": {
+        "name": "Warna Lingkaran"
+    },
+    "ESP->Object Info->ETC->Current Interactable Color": {
+        "name": "Warna Interactable Saat Ini",
+        "tip": "Warna untuk objek interactable yang sedang disorot"
+    },
+    "ESP->Player->Player Info": {
+        "name": "Info Pemain"
+    },
+    "ESP->Player": {
+        "name": "Pemain"
+    },
+    "ESP->Player->Position X": {
+        "name": "Posisi X"
+    },
+    "ESP->Player->Position Y": {
+        "name": "Posisi Y"
+    },
+    "ESP->Player->Etc": {
+        "toggleBlockNames": {
+            "Show rotation and movement speed": "Tampilkan rotasi dan kecepatan gerak",
+            "Show PID": "Tampilkan PID",
+            "Debug Text": "Teks debug"
+        }
+    },
+    "Player->Movement->Auto move->Auto move": {
+        "name": "Auto move",
+        "tip": "Terus bergerak ke arah yang dipilih"
+    },
+    "Player->Movement": {
+        "name": "Pergerakan"
+    },
+    "Player->Movement->Auto move": {
+        "name": "Auto move"
+    },
+    "Player->Movement->Auto move->Move forward bind": {
+        "name": "Bind maju",
+        "tip": "Bergerak maju"
+    },
+    "Player->Movement->Auto move->Move backward bind": {
+        "name": "Bind mundur",
+        "tip": "Bergerak mundur"
+    },
+    "Player->Movement->Auto move->Auto move toggles": {
+        "toggleBlockNames": {
+            "Auto stop when W/S pressed": "Auto berhenti saat W/S ditekan",
+            "Auto stop when enemy spotted": "Auto berhenti saat musuh terlihat",
+            "Free camera while running": "Free camera saat berlari",
+            "Auto sprint": "Auto sprint"
+        }
+    },
+    "Information->Notifications->Players proximity notifications": {
+        "name": "Notifikasi pemain di sekitar",
+        "tip": "Aktifkan notifikasi untuk musuh dan sekutu di dekat"
+    },
+    "Information->Notifications": {
+        "name": "Notifikasi"
+    },
+    "Information->Notifications->TTS Volume": {
+        "name": "Volume TTS",
+        "tip": "Volume untuk notifikasi Text-to-Speech"
+    },
+    "Information->Notifications->Inactivity timeout (sec)": {
+        "name": "Batas tidak aktif (detik)",
+        "tip": "Waktu tanpa pergerakan kursor untuk dianggap tidak aktif"
+    },
+    "Information->Notifications->Enemy in Radius->Enemy in Radius": {
+        "name": "Musuh dalam radius",
+        "tip": "Notifikasi saat musuh muncul dalam radius tertentu"
+    },
+    "Information->Notifications->Enemy in Radius": {
+        "name": "Musuh dalam radius"
+    },
+    "Information->Notifications->Enemy in Radius->Detection Radius (m)": {
+        "name": "Radius deteksi (m)",
+        "tip": "Jarak radius deteksi dalam meter"
+    },
+    "Information->Notifications->Enemy in Radius->Cooldown (sec)": {
+        "name": "Cooldown (detik)",
+        "tip": "Jeda minimum antar notifikasi"
+    },
+    "Information->Notifications->Enemy in Radius->TTS Text##aboba1": {
+        "name": "Teks TTS##aboba1",
+        "tip": "Teks yang diucapkan saat musuh terdeteksi"
+    },
+    "Information->Notifications->Enemy in Radius->enemy_radius_opts": {
+        "toggleBlockNames": {
+            "Ignore aircraft": "Abaikan pesawat",
+            "Only when inactive": "Hanya saat tidak aktif"
+        }
+    },
+    "Information->Notifications->Enemy appears in hex->Enemy appears in hex": {
+        "name": "Musuh muncul di hex",
+        "tip": "Notifikasi saat pemain musuh baru muncul di hex"
+    },
+    "Information->Notifications->Enemy appears in hex": {
+        "name": "Musuh muncul di hex"
+    },
+    "Information->Notifications->Enemy appears in hex->Cooldown (sec)": {
+        "name": "Cooldown (detik)",
+        "tip": "Jeda minimum antar notifikasi"
+    },
+    "Information->Notifications->Enemy appears in hex->Max enemy count": {
+        "name": "Jumlah maksimum musuh",
+        "tip": "Hentikan notifikasi setelah jumlah ini tercapai (0 = tanpa batas)"
+    },
+    "Information->Notifications->Enemy appears in hex->TTS Text##aboba2": {
+        "name": "Teks TTS##aboba2",
+        "tip": "Teks yang diucapkan saat musuh baru bergabung"
+    },
+    "Information->Notifications->Enemy appears in hex->enemy_world_opts": {
+        "toggleBlockNames": {
+            "Only when inactive": "Hanya saat tidak aktif"
+        }
+    },
+    "Information->Notifications->TTS Local chat voiceover->TTS Local chat voiceover": {
+        "name": "Voiceover chat lokal (TTS)",
+        "tip": "Pesan suara dari pemain di sekitar"
+    },
+    "Information->Notifications->TTS Local chat voiceover": {
+        "name": "Voiceover chat lokal (TTS)"
+    },
+    "Information->Notifications->TTS Local chat voiceover->Cooldown (sec)": {
+        "name": "Cooldown (detik)",
+        "tip": "Jeda minimum antar pesan TTS"
+    },
+    "Information->Notifications->TTS Local chat voiceover->chat_tts_opts": {
+        "toggleBlockNames": {
+            "Include sender name": "Sertakan nama pengirim",
+            "Only when inactive": "Hanya saat tidak aktif"
+        }
+    },
+    "Information->Notifications->Ally in Radius->Ally in Radius": {
+        "name": "Sekutu dalam radius",
+        "tip": "Notifikasi saat sekutu muncul dalam radius tertentu"
+    },
+    "Information->Notifications->Ally in Radius": {
+        "name": "Sekutu dalam radius"
+    },
+    "Information->Notifications->Ally in Radius->Detection Radius (m)": {
+        "name": "Radius deteksi (m)",
+        "tip": "Jarak radius deteksi dalam meter"
+    },
+    "Information->Notifications->Ally in Radius->Cooldown (sec)": {
+        "name": "Cooldown (detik)",
+        "tip": "Jeda minimum antar notifikasi"
+    },
+    "Information->Notifications->Ally in Radius->TTS Text##aboba3": {
+        "name": "Teks TTS##aboba3",
+        "tip": "Teks yang diucapkan saat sekutu terdeteksi"
+    },
+    "Information->Notifications->Ally in Radius->ally_radius_opts": {
+        "toggleBlockNames": {
+            "Only when inactive": "Hanya saat tidak aktif"
+        }
+    },
+    "Player->Pathfinding->Character Pathfinding->Move to position": {
+        "name": "Bergerak ke posisi",
+        "tip": "Pergerakan otomatis karakter ke posisi yang ditentukan",
+        "tip2": "Posisi bisa ditentukan melalui minimap"
+    },
+    "Player->Pathfinding": {
+        "name": "Pathfinding"
+    },
+    "Player->Pathfinding->Character Pathfinding": {
+        "name": "Character Pathfinding"
+    },
+    "Player->Pathfinding->Character Pathfinding->Set destination key": {
+        "name": "Tombol set tujuan",
+        "tip": "Untuk menentukan posisi, tahan tombol lalu klik pada posisi"
+    },
+    "Player->Pathfinding->Character Pathfinding->Auto move": {
+        "toggleBlockNames": {
+            "Auto move": "Auto move"
+        }
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Climb penalty": {
+        "name": "Climb penalty"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings": {
+        "name": "Pengaturan Pathfinding"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Climb height": {
+        "name": "Climb height"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Grid size": {
+        "name": "Ukuran Grid"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Max step count": {
+        "name": "Jumlah langkah maksimum"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Ground check count": {
+        "name": "Jumlah pengecekan tanah"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Max climb height": {
+        "name": "Tinggi panjat maksimum"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Height check start": {
+        "name": "Mulai pengecekan tinggi"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Max slope angle": {
+        "name": "Sudut kemiringan maksimum"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Off-road penalty": {
+        "name": "Penalty off-road"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Barbed wire penalty": {
+        "name": "Penalty kawat berduri"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Small radius penalty": {
+        "name": "Penalty radius kecil"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Water penalty": {
+        "name": "Penalty air"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Player proximity distance": {
+        "name": "Jarak kedekatan pemain"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Player proximity penalty": {
+        "name": "Penalty kedekatan pemain"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->H cost weight": {
+        "name": "Bobot H cost"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Staircase penalty": {
+        "name": "Penalty tangga"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Path rebuild interval": {
+        "name": "Interval rebuild path"
+    },
+    "Player->Pathfinding->Character Pathfinding->Debug settings->Debug toggles": {
+        "toggleBlockNames": {
+            "Show debug": "Tampilkan debug",
+            "Show move arrows": "Tampilkan panah gerakan",
+            "Show climb arrows": "Tampilkan panah panjat",
+            "Show actual trace": "Tampilkan jejak aktual"
+        }
+    },
+    "Player->Pathfinding->Character Pathfinding->Debug settings": {
+        "name": "Pengaturan Debug"
+    },
+    "Player->Pathfinding->Hint->Hint": {
+        "name": "Petunjuk",
+        "tip": "Bind + RMB pada posisi di tanah - bergerak ke titik tersebut\nBind + RMB pada minimap - bergerak ke titik tersebut\nBind + RMB pada kendaraan/bangunan - mendekat dan masuk ke objek\nBind + RMB pada container - mendekat dan pack/unpack container\nBind + RMB pada container saat duduk di crane - ambil/letakkan container\nBind + Shift + RMB - tambahkan aksi ke antrian (berfungsi untuk semua aksi di atas)"
+    },
+    "Player->Pathfinding->Hint": {
+        "name": "Petunjuk"
+    },
+    "Player->Aircraft->Bomb target->Bomb landing indicator": {
+        "name": "Indikator jatuh bom",
+        "tip": "Indikator di permukaan tempat bom akan jatuh"
+    },
+    "Player->Aircraft": {
+        "name": "Pesawat"
+    },
+    "Player->Aircraft->Bomb target": {
+        "name": "Target bom"
+    },
+    "Information->Logi helper->Show Refinery Orders->Show refinery orders": {
+        "name": "Tampilkan pesanan refinery",
+        "tip": "Menampilkan status pesanan refinery"
+    },
+    "Information->Logi helper": {
+        "name": "Logi helper"
+    },
+    "Information->Logi helper->Show Refinery Orders": {
+        "name": "Tampilkan Pesanan Refinery"
+    },
+    "Information->Logi helper->Show Refinery Orders->styles": {
+        "toggleBlockNames": {
+            "Enable dark background": "Aktifkan background gelap",
+            "Show final column": "Tampilkan kolom terakhir"
+        }
+    },
+    "Information->Logi helper->Show Refinery Orders->Scale": {
+        "name": "Skala",
+        "tip": "Skala tampilan order refinery"
+    },
+    "Player->Vehicle->Crane Radius->Crane radius": {
+        "name": "Radius crane",
+        "tip": "Menampilkan radius crane"
+    },
+    "Player->Vehicle": {
+        "name": "Kendaraan"
+    },
+    "Player->Vehicle->Crane Radius": {
+        "name": "Radius Crane"
+    },
+    "Player->Vehicle->Crane Radius->Range color": {
+        "name": "Warna jangkauan"
+    },
+    "Player->Commend Trader->Commend trader->Auto commend trader": {
+        "name": "Auto commend trader",
+        "tip": "Secara otomatis memberi commend kepada pemain yang menulis di chat"
+    },
+    "Player->Commend Trader": {
+        "name": "Commend Trader"
+    },
+    "Player->Commend Trader->Commend trader": {
+        "name": "Commend trader"
+    },
+    "Player->Commend Trader->Commend trader->Commend toggles": {
+        "toggleBlockNames": {
+            "Auto commend trade": "Auto commend trade",
+            "Auto commend response": "Auto commend response",
+            "Auto commend from list": "Auto commend dari daftar",
+            "Skip self commend": "Lewati commend diri sendiri"
+        }
+    },
+    "Player->Commend Trader->Commend trader->Auto commend id list": {
+        "name": "Daftar ID auto commend",
+        "tip": "SteamID64, dipisahkan dengan koma"
+    },
+    "Player->Artillery->Shell runner->Shell runner": {
+        "name": "Shell runner",
+        "tip": "Agar berfungsi, pilih tempat dengan shell dan artileri"
+    },
+    "Player->Artillery": {
+        "name": "Artileri"
+    },
+    "Player->Artillery->Shell runner": {
+        "name": "Shell runner"
+    },
+    "Player->Artillery->Shell runner->Select stockpile with shells and target": {
+        "name": "Pilih stockpile dengan shell dan target",
+        "tip": "Anda bisa memilih pallet. Untuk menghapus — klik bind di area kosong"
+    },
+    "Player->Artillery->Auto reloader->Auto reloader": {
+        "name": "Auto reloader",
+        "tip": "Secara otomatis reload artileri saat berada di dalamnya"
+    },
+    "Player->Artillery->Auto reloader": {
+        "name": "Auto reloader"
+    },
+    "Player->Artillery->Auto reloader->Delay after sitting down": {
+        "name": "Delay setelah duduk",
+        "tip": "Delay sebelum mulai reload setelah duduk sebagai gunner"
+    },
+    "Player->Artillery->Auto reloader->Pre-reload delay": {
+        "name": "Delay sebelum reload",
+        "tip": "Jeda setelah ammo habis sebelum permintaan reload pertama"
+    },
+    "Player->Artillery->Auto reloader->Reload request interval": {
+        "name": "Interval permintaan reload",
+        "tip": "Interval minimum antar permintaan reload agar tidak spam"
+    },
+    "Player->Artillery->Auto fire->Auto fire": {
+        "name": "Auto fire",
+        "tip": "Secara otomatis menembakkan artileri. Nonaktif setelah keluar"
+    },
+    "Player->Artillery->Auto fire": {
+        "name": "Auto fire"
+    },
+    "Player->Artillery->Auto fire->Auto stop condition": {
+        "name": "Kondisi auto stop",
+        "tip": "Kondisi saat auto fire akan dihentikan",
+        "comboBoxValues": {
+            "When not in artillery": "Saat tidak berada di artileri",
+            "If W/A/S/D/Q pressed": "Jika W/A/S/D/Q ditekan"
+        }
+    },
+    "Player->Exploits->Move in ui->Move in ui": {
+        "name": "Move in UI",
+        "tip": "Aktifkan pergerakan saat UI terbuka"
+    },
+    "Player->Exploits": {
+        "name": "Exploits"
+    },
+    "Player->Exploits->Move in ui": {
+        "name": "Move in UI"
+    },
+    "ESP->Player->Self health bar->Self health bar": {
+        "name": "Health bar sendiri",
+        "tip": "UI health karakter/kendaraan"
+    },
+    "ESP->Player->Self health bar": {
+        "name": "Health bar sendiri"
+    },
+    "ESP->Player->Self health bar->Panel position->X pos": {
+        "name": "Posisi X",
+        "tip": "Posisi X health bar"
+    },
+    "ESP->Player->Self health bar->Panel position": {
+        "name": "Posisi panel"
+    },
+    "ESP->Player->Self health bar->Panel position->Y pos": {
+        "name": "Posisi Y",
+        "tip": "Posisi Y health bar"
+    },
+    "ESP->Player->Self health bar->Render settings->Health color": {
+        "name": "Warna health",
+        "tip": "Warna health bar saat penuh"
+    },
+    "ESP->Player->Self health bar->Render settings": {
+        "name": "Pengaturan render"
+    },
+    "ESP->Player->Self health bar->Render settings->Low health color": {
+        "name": "Warna health rendah",
+        "tip": "Warna health bar saat health rendah"
+    },
+    "ESP->Player->Self health bar->Render settings->Scale": {
+        "name": "Skala",
+        "tip": "Skala health bar"
+    },
+    "ESP->Player->Self health bar->Render settings->Width": {
+        "name": "Lebar",
+        "tip": "Lebar health bar"
+    },
+    "ESP->Player->Self health bar->Render settings->Height": {
+        "name": "Tinggi",
+        "tip": "Tinggi health bar"
+    },
+    "ESP->Player->Self health bar->Render settings->Alpha": {
+        "name": "Alpha",
+        "tip": "Alpha health bar"
+    },
+    "Player->Movement->Followbot->Followbot": {
+        "name": "Followbot",
+        "tip": "Secara otomatis mengikuti pemain yang dipilih"
+    },
+    "Player->Movement->Followbot": {
+        "name": "Followbot"
+    },
+    "Player->Movement->Followbot->Toggle Followbot to target": {
+        "name": "Toggle Followbot ke target",
+        "tip": "Aktifkan/nonaktifkan follow bot ke target"
+    },
+    "Player->Movement->Followbot->Auto stop toggles": {
+        "toggleBlockNames": {
+            "Auto stop when W/A/S/D pressed": "Auto berhenti saat W/A/S/D ditekan"
+        }
+    },
+    "Player->Farm helpers->Auto Farm->Auto farm": {
+        "name": "Auto farm",
+        "tip": "Menambang resource dengan karakter atau harvester.\nResource yang ditambang akan dikirim ke drop point."
+    },
+    "Player->Farm helpers": {
+        "name": "Farm helpers"
+    },
+    "Player->Farm helpers->Auto Farm": {
+        "name": "Auto Farm"
+    },
+    "Player->Farm helpers->Auto Farm->Farm toggles": {
+        "toggleBlockNames": {
+            "Stop by W/A/S/D": "Berhenti dengan W/A/S/D",
+            "Rare resources mode": "Mode resource langka",
+            "Store rare metal": "Simpan rare metal",
+            "Store tech materials": "Simpan tech materials",
+            "Private facility storage first": "Prioritaskan storage facility pribadi",
+            "Avoid other players": "Hindari pemain lain",
+            "Switch to rare resource mode when full": "Beralih ke mode resource langka saat penuh",
+            "Uload only when full": "Unload hanya saat penuh",
+            "Move to AFK point when enemy nearby": "Pergi ke titik AFK saat musuh dekat"
+        }
+    },
+    "Player->Farm helpers->Auto Farm->Start bot key bind": {
+        "name": "Bind tombol mulai bot",
+        "tip": "Jika ditekan lagi, bot akan berhenti"
+    },
+    "Player->Farm helpers->Auto Farm->Set drop point key bind": {
+        "name": "Bind set drop point",
+        "tip": "Mendukung container, kendaraan, facility dan base\nTahan Shift untuk menambahkan beberapa titik"
+    },
+    "Player->Farm helpers->Auto Farm->Set rare material drop point key bind": {
+        "name": "Bind drop point material langka",
+        "tip": "Mendukung container, kendaraan, facility dan base\nTahan Shift untuk menambahkan beberapa titik"
+    },
+    "Player->Farm helpers->Auto Farm->Set AFK place key bind": {
+        "name": "Bind set tempat AFK"
+    },
+    "Player->Farm helpers->Auto Farm->Hints": {
+        "name": "Petunjuk"
+    },
+    "Player->Farm helpers->Auto Farm->Rare resources mode": {
+        "name": "Mode resource langka",
+        "tip": "Aluminum, iron, copper, rare metal, dan tech materials\nSaat inventory penuh, script akan menjatuhkan metal biasa ke tanah."
+    },
+    "Player->Farm helpers->Auto Farm->Store rare resources": {
+        "name": "Simpan resource langka",
+        "tip": "Menyimpan resource langka di drop point yang ditentukan.\nJika dinonaktifkan, akan tetap disimpan di inventory."
+    },
+    "Player->Building->Auto Click->Auto LMB": {
+        "name": "Auto LMB",
+        "tip": "Untuk repair, menggali, membangun, dll."
+    },
+    "Player->Building": {
+        "name": "Building"
+    },
+    "Player->Building->Auto Click": {
+        "name": "Auto Click"
+    },
+    "Player->Building->Auto Click->Auto stop toggles": {
+        "toggleBlockNames": {
+            "Auto stop when W/A/S/D pressed": "Auto berhenti saat W/A/S/D ditekan",
+            "Auto stop when clicked": "Auto berhenti saat diklik"
+        }
+    },
+    "Player->Building->Auto Click->Auto LMB bind": {
+        "name": "Bind Auto LMB"
+    },
+    "Player->Vehicle->Replicate movement->Replicate vehicle control": {
+        "name": "Replicate kontrol kendaraan",
+        "tip": "Mengulang input tombol WASD dari driver meskipun game tidak dalam fokus",
+        "tip2": "Fitur ini dirancang untuk mengontrol kendaraan dari beberapa jendela game.\nMemungkinkan Anda menggunakan tank atau artileri saat bermain solo.\n\nContoh: Di jendela driver, aktifkan fitur ini lalu minimalkan ke jendela\n gunner atau commander. Setelah itu Anda bisa menekan WASD.\nJendela driver akan 'menangkap' input tersebut"
+    },
+    "Player->Vehicle->Replicate movement": {
+        "name": "Replicate movement"
+    },
+    "Player->Vehicle->Replicate movement->Activation key bind": {
+        "name": "Bind tombol aktivasi"
+    },
+    "Player->Vehicle->Replicate movement->Movement toggles": {
+        "toggleBlockNames": {
+            "Auto open gates": "Auto buka gerbang",
+            "Disable if no crew inside": "Nonaktif jika tidak ada crew di dalam"
+        }
+    },
+    "Player->Vehicle->Replicate movement->Check crew pause method": {
+        "name": "Metode cek pause crew",
+        "comboBoxValues": {
+            "When somebody exit": "Saat seseorang keluar",
+            "When solo in vehicle": "Saat sendirian di kendaraan"
+        }
+    },
+    "Player->Vehicle->AutoGear->Auto gear change": {
+        "name": "Auto gear change",
+        "tip": "Secara otomatis mengganti gear di heavy truck"
+    },
+    "Player->Vehicle->AutoGear": {
+        "name": "AutoGear"
+    },
+    "Player->Vehicle->AutoGear->Speed to up gear": {
+        "name": "Kecepatan untuk naik gear",
+        "tip": "Kecepatan (m/s) saat gear akan dinaikkan"
+    },
+    "Player->Vehicle->AutoGear->Speed to down gear": {
+        "name": "Kecepatan untuk turun gear",
+        "tip": "Kecepatan (m/s) saat gear akan diturunkan"
+    },
+    "Player->Vehicle->SHTStuff->Auto engineer repair": {
+        "name": "Auto engineer repair",
+        "tip": "Secara otomatis memperbaiki mesin di heavy truck"
+    },
+    "Player->Vehicle->SHTStuff": {
+        "name": "SHTStuff"
+    },
+    "Player->Artillery->Artillery calculator": {
+        "name": "Kalkulator artileri",
+        "tip": "Fungsi perhitungan posisi tembak artileri"
+    },
+    "Player->Artillery->Set target position key": {
+        "name": "Tombol set posisi target",
+        "tip": "Posisi untuk ditembak"
+    },
+    "Player->Artillery->Set artillery position key": {
+        "name": "Tombol set posisi artileri",
+        "tip": "Posisi untuk menembak (jika tidak diatur, posisi karakter akan digunakan)",
+        "tip2": "Jika ditekan lagi, posisi akan dihapus"
+    },
+    "Player->Artillery->Render toggle key": {
+        "name": "Tombol toggle render",
+        "tip": "Tombol untuk menampilkan/menyembunyikan informasi"
+    },
+    "Player->Artillery->What to render": {
+        "name": "Yang ditampilkan",
+        "multiComboBoxValues": {
+            "Line from target to predicted pos": "Garis dari target ke posisi prediksi",
+            "Line to predicted pos": "Garis ke posisi prediksi",
+            "Dispersion area": "Area dispersi",
+            "Panel on cursor": "Panel di kursor"
+        }
+    },
+    "Player->Artillery->Show debug info": {
+        "toggleBlockNames": {
+            "Show debug info": "Tampilkan info debug"
+        }
+    },
+    "Player->Artillery->Artillery dispersion Preset": {
+        "name": "Preset dispersi artileri",
+        "tip": "Menampilkan radius penyebaran artileri pada posisi target",
+        "comboBoxValues": {
+            "Cremari Mortar": "Cremari Mortar",
+            "Gunboat": "Gunboat",
+            "Mortar Truck": "Mortar Truck",
+            "Ship 120mm": "Ship 120mm",
+            "Ship 150mm": "Ship 150mm",
+            "Colonial Field 120mm": "Colonial Field 120mm",
+            "Warden Emplaced 120mm": "Warden Emplaced 120mm",
+            "Battle Tank 150mm": "Battle Tank 150mm",
+            "Warden Emplaced 150mm": "Warden Emplaced 150mm",
+            "Colonial Emplaced 150mm": "Colonial Emplaced 150mm",
+            "Train 300mm": "Train 300mm",
+            "Storm Cannon 300mm": "Storm Cannon 300mm",
+            "Colonial Rocket Tankette 4C": "Colonial Rocket Tankette 4C",
+            "Warden Rocket Half-Track 4C": "Warden Rocket Half-Track 4C",
+            "Warden Field Launcher 4C": "Warden Field Launcher 4C",
+            "Colonial Katyusha 3C": "Colonial Katyusha 3C",
+            "Warden King Jester 3C": "Warden King Jester 3C",
+            "Colonial Hades Net 3C": "Colonial Hades Net 3C"
+        }
+    },
+    "Player->Artillery->Tips->Hint": {
+        "name": "Petunjuk",
+        "tip": "Anda bisa klik minimap untuk menentukan posisi target dan posisi artileri.\n\nTahan ALT untuk menentukan posisi artileri saat klik minimap.\n\nLingkaran putih di minimap menunjukkan posisi target.\nLingkaran oranye menunjukkan posisi artileri."
+    },
+    "Player->Artillery->Tips": {
+        "name": "Tips"
+    },
+    "Information->Logi helper->Search stuff->Search stuff": {
+        "name": "Cari item",
+        "tip": "Cari item di basis dan gudang",
+        "tip2": "Setelah memasukkan teks di kolom input, skrip akan menyorot semua titik tempat item yang dicari berada"
+    },
+    "Information->Logi helper->Search stuff": {
+        "name": "Cari item"
+    },
+    "Information->Logi helper->Search stuff->Search toggles": {
+        "toggleBlockNames": {
+            "Background scan": "Pindai latar belakang",
+            "Map mod fix": "Perbaiki mod peta"
+        },
+        "toggleBlockTips": {
+            "Background scan": "Memindai gudang dan basis di hex saat ini secara bertahap di latar belakang",
+            "Map mod fix": "Memperbaiki koordinat untuk mod peta jika titik tidak sesuai"
+        }
+    },
+    "Information->Logi helper->Search stuff->Open panel key bind": {
+        "name": "Tombol buka panel"
+    },
+    "Information->Logi helper->Search stuff->Open panel button": {
+        "name": "Tombol buka panel"
+    },
+    "Player->Vehicle->Auto pilot->Auto pilot": {
+        "name": "Pilot otomatis"
+    },
+    "Player->Vehicle->Auto pilot": {
+        "name": "Pilot otomatis"
+    },
+    "Player->Vehicle->Auto pilot->Pathfinding toggles": {
+        "toggleBlockNames": {
+            "Auto stop when disabled": "Berhenti otomatis saat nonaktif",
+            "Auto stop when no fuel": "Berhenti otomatis saat bahan bakar habis",
+            "Debug draw": "Debug visual"
+        }
+    },
+    "Player->Vehicle->Auto pilot->Update map paths": {
+        "name": "Perbarui jalur peta"
+    },
+    "Player->Vehicle->Auto pilot->Hint": {
+        "name": "Petunjuk",
+        "tip": "Untuk menghentikan pilot otomatis - tekan W+S bersamaan"
+    },
+    "Information->Logi helper->Logi helper->Logi helper": {
+        "name": "Bantuan Logi",
+        "tip": "Perhitungan kotak yang dibutuhkan untuk basis terpilih",
+        "tip2": "Saat mengarahkan kursor ke basis, skrip akan menghitung kotak yang dibutuhkan\n\nKotak dapat dikumpulkan secara otomatis menggunakan tombol di panel"
+    },
+    "Information->Logi helper->Logi helper": {
+        "name": "Bantuan Logi"
+    },
+    "Information->Logi helper->Logi helper->Open panel key bind": {
+        "name": "Tombol buka panel"
+    },
+    "Information->Logi helper->Logi helper->Open panel button": {
+        "name": "Tombol buka panel"
+    },
+    "Player->Farm helpers->Auto Train->Auto train": {
+        "name": "Kereta otomatis",
+        "tip": "Skrip untuk mengotomatiskan kereta kecil"
+    },
+    "Player->Farm helpers->Auto Train": {
+        "name": "Kereta Otomatis"
+    },
+    "Player->Farm helpers->Auto Train->Train toggles": {
+        "toggleBlockNames": {
+            "Use shipping cart": "Gunakan gerobak pengiriman",
+            "Auto coal refill": "Isi ulang batu bara otomatis"
+        }
+    },
+    "Player->Farm helpers->Auto Train->Open panel key bind": {
+        "name": "Tombol buka panel",
+        "tip": "Menu untuk mengatur rute dan aksi"
+    },
+    "Player->Farm helpers->Auto Train->Start bot key bind": {
+        "name": "Tombol mulai bot",
+        "tip": "Mulai urutan kereta otomatis. Jika sudah berjalan, akan dihentikan."
+    },
+    "Player->Farm helpers->Auto Train->Cart switch delay": {
+        "name": "Delay ganti gerobak",
+        "tip": "Jeda dalam detik setelah mengganti tab gerobak sebelum melanjutkan"
+    },
+    "Player->Farm helpers->Auto Train->Next station delay": {
+        "name": "Delay stasiun berikutnya",
+        "tip": "Jeda dalam detik sebelum memulai aksi di stasiun berikutnya"
+    },
+    "Player->Repeat pull->Repeat pull": {
+        "name": "Tarik ulang",
+        "tip": "Tombol ulang berada di bawah antarmuka gudang",
+        "tip2": "Skrip akan mengambil item dari stok terakhir yang diambil"
+    },
+    "Player->Repeat pull": {
+        "name": "Tarik ulang"
+    },
+    "Player->Repeat pull->Auto disable": {
+        "toggleBlockNames": {
+            "Auto disable if stockpile is empty": "Nonaktif otomatis jika stok kosong"
+        }
+    },
+    "Information->Minimap->Mini-Map->Minimap": {
+        "name": "Peta mini",
+        "tip": "Peta mini dengan kemampuan interaksi"
+    },
+    "Information->Minimap": {
+        "name": "Peta mini"
+    },
+    "Information->Minimap->Mini-Map": {
+        "name": "Peta mini"
+    },
+    "Information->Minimap->Mini-Map->Map panel scale": {
+        "name": "Skala panel peta",
+        "tip": "Skala panel peta mini"
+    },
+    "Information->Minimap->Mini-Map->Icons scale": {
+        "name": "Skala ikon",
+        "tip": "Ikon pemain, kendaraan ditempati, dan kendaraan kosong"
+    },
+    "Information->Minimap->Mini-Map->Zoom": {
+        "name": "Zoom",
+        "tip": "Gunakan '+' dan '-' untuk memperbesar atau memperkecil"
+    },
+    "Information->Minimap->Mini-Map->Edge Expansion": {
+        "name": "Perluasan tepi",
+        "tip": "Memperluas area tampilan peta di luar peta mini"
+    },
+    "Information->Minimap->Mini-Map->Cache duration": {
+        "name": "Durasi cache",
+        "tip": "Durasi tampilan entitas di peta mini"
+    },
+    "Information->Minimap->Mini-Map->Minimap Color": {
+        "name": "Warna peta mini"
+    },
+    "Information->Minimap->Mini-Map->Roads Color": {
+        "name": "Warna jalan"
+    },
+    "Information->Minimap->Mini-Map->Show objects": {
+        "name": "Tampilkan objek",
+        "multiComboBoxValues": {
+            "Wreckages": "Reruntuhan",
+            "Players": "Pemain",
+            "Empty Vehicles": "Kendaraan kosong",
+            "Player Vehicles": "Kendaraan pemain",
+            "Watch Towers": "Menara pengawas",
+            "Observation Bunkers": "Bunker pengamatan",
+            "Listening Kits": "Perangkat dengar",
+            "Spawn Bases": "Basis spawn",
+            "Production": "Produksi",
+            "Artillery Explosions": "Ledakan artileri"
+        }
+    },
+    "Information->Minimap->Mini-Map->Show teams": {
+        "name": "Tampilkan tim",
+        "multiComboBoxValues": {
+            "Ally": "Sekutu",
+            "Enemy": "Musuh"
+        }
+    },
+    "Information->Minimap->Mini-Map->Map info toggles": {
+        "toggleBlockNames": {
+            "Show players count on map": "Tampilkan jumlah pemain di peta",
+            "Show tech level on map": "Tampilkan level teknologi di peta",
+            "Show players via intelligence": "Tampilkan pemain berdasarkan intel",
+            "Show ally intel coverage": "Tampilkan cakupan intel sekutu",
+            "Show enemy intel coverage": "Tampilkan cakupan intel musuh"
+        }
+    },
+    "Information->Minimap->Mini-Map->Players Count Position": {
+        "name": "Posisi jumlah pemain",
+        "comboBoxValues": {
+            "Top": "Atas",
+            "Bottom": "Bawah"
+        }
+    },
+    "Information->Minimap->Mini-Map->Intel coverage outline thickness": {
+        "name": "Ketebalan outline cakupan intel"
+    },
+    "Information->Minimap->Mini-Map->Ally intel coverage fill color": {
+        "name": "Warna isi cakupan intel sekutu"
+    },
+    "Information->Minimap->Mini-Map->Ally intel coverage outline color": {
+        "name": "Warna outline cakupan intel sekutu"
+    },
+    "Information->Minimap->Mini-Map->Enemy intel coverage fill color": {
+        "name": "Warna isi cakupan intel musuh"
+    },
+    "Information->Minimap->Mini-Map->Enemy intel coverage outline color": {
+        "name": "Warna outline cakupan intel musuh"
+    },
+    "Information->Minimap->Mini-Map->Minimap position settings->Minimap position X": {
+        "name": "Posisi X peta mini"
+    },
+    "Information->Minimap->Mini-Map->Minimap position settings": {
+        "name": "Pengaturan posisi peta mini"
+    },
+    "Information->Minimap->Mini-Map->Minimap position settings->Minimap position Y": {
+        "name": "Posisi Y peta mini"
+    },
+    "Information->Minimap->Map scan->Map scan": {
+        "name": "Pindai peta",
+        "tip": "Saat dijalankan, memindai area yang dipilih atau seluruh peta untuk musuh/kendaraan/objek",
+        "tip2": "Jika memilih area menggunakan CTRL+LMB, pemindai hanya bekerja di area itu"
+    },
+    "Information->Minimap->Map scan": {
+        "name": "Pindai peta"
+    },
+    "Information->Minimap->Map scan->Scan toggles": {
+        "toggleBlockNames": {
+            "Wreckage attention": "Perhatikan reruntuhan",
+            "Cyclical scan": "Pindai siklus",
+            "Random position scan": "Pindai posisi acak"
+        },
+        "toggleBlockTips": {
+            "Wreckage attention": "Jika diaktifkan, pemindai akan berhenti sebentar di reruntuhan untuk menjaga agar tetap terlihat setelah pemindaian",
+            "Cyclical scan": "",
+            "Random position scan": ""
+        }
+    },
+    "Information->Minimap->Map scan->[DEV] Map scanner settings->Not recommended to change the default settings": {
+        "name": "Tidak disarankan mengubah pengaturan default",
+        "tip": "Perubahan bisa dikembalikan dengan klik kanan → Reset ke default"
+    },
+    "Information->Minimap->Map scan->[DEV] Map scanner settings": {
+        "name": "[DEV] Pengaturan pemindai peta"
+    },
+    "Information->Minimap->Map scan->[DEV] Map scanner settings->Scan step duration": {
+        "name": "Durasi langkah pindai"
+    },
+    "Information->Minimap->Map scan->[DEV] Map scanner settings->Scan step X": {
+        "name": "Langkah pindai X"
+    },
+    "Information->Minimap->Map scan->[DEV] Map scanner settings->Scan step Y": {
+        "name": "Langkah pindai Y"
+    },
+    "Information->Minimap->Map scan->Start scan": {
+        "name": "Mulai pindai",
+        "tip": "Pemindaian akan berhenti saat ditekan lagi"
+    },
+    "Information->Minimap->Map scan->Start scan keybind": {
+        "name": "Tombol mulai pindai",
+        "tip": "Pemindaian akan berhenti saat ditekan lagi"
+    },
+    "Player->Aim assist->AIM assist": {
+        "name": "Bantuan bidik",
+        "tip": "Menembak otomatis ke musuh"
+    },
+    "Player->Aim assist": {
+        "name": "Bantuan bidik"
+    },
+    "Player->Aim assist->Search FOV": {
+        "name": "FOV pencarian",
+        "tip": "Radius sekitar kursor untuk mencari musuh"
+    },
+    "Player->Aim assist->Search step": {
+        "name": "Langkah pencarian",
+        "tip": "Langkah grid saat memindai model musuh (lebih kecil - lebih akurat tapi lebih lambat)"
+    },
+    "Player->Aim assist->Render FOV": {
+        "name": "Tampilan FOV",
+        "tip": "Menampilkan radius saat menarget musuh",
+        "comboBoxValues": {
+            "Only when aiming": "Hanya saat bidik",
+            "Always": "Selalu",
+            "Never": "Tidak pernah"
+        }
+    },
+    "Player->Aim assist->Debug visualization": {
+        "toggleBlockNames": {
+            "Debug visualization": "Visualisasi debug"
+        }
+    },
+    "Player->Vehicle->Train fireman->Train fireman": {
+        "name": "Juru api kereta",
+        "tip": "Menambahkan batu bara otomatis sebagai juru api di kereta besar"
+    },
+    "Player->Vehicle->Train fireman": {
+        "name": "Juru api kereta"
+    },
+    "Player->Vehicle->Train fireman->Activation key bind": {
+        "name": "Tombol aktivasi"
+    },
+    "Player->Vehicle->Train fireman->Min fuel": {
+        "name": "Bahan bakar minimum"
+    },
+    "Player->Vehicle->Train fireman->Min speed": {
+        "name": "Kecepatan minimum"
+    },
+    "Player->Exploits->Vehicle->Ignore lack of fuel": {
+        "name": "Abaikan kekurangan bahan bakar",
+        "tip": "Kendaraan tetap bisa dijalankan tanpa bahan bakar"
+    },
+    "Player->Exploits->Vehicle": {
+        "name": "Kendaraan"
+    },
+    "Player->Exploits->Vehicle->Ignore artillery": {
+        "toggleBlockNames": {
+            "Ignore artillery": "Abaikan artileri"
+        }
+    },
+    "Player->Exploits->Vehicle->Ignore disabled vehicle": {
+        "name": "Abaikan kendaraan rusak",
+        "tip": "Kendaraan tetap bisa dijalankan meski rusak"
+    },
+    "Player->Exploits->Vehicle->Time before disable ignore (0 - off)": {
+        "name": "Waktu sebelum abaikan kerusakan (0 - mati)",
+        "tip": "Durasi kendaraan bisa dijalankan setelah rusak"
+    },
+    "Player->Exploits->Weapons->Ignore weapon use restrictions": {
+        "name": "Abaikan batasan penggunaan senjata",
+        "tip": "Memungkinkan penggunaan senjata dalam kondisi apapun"
+    },
+    "Player->Exploits->Weapons": {
+        "name": "Senjata"
+    },
+    "Player->Exploits->Building->Ignore some building rules": {
+        "name": "Abaikan beberapa aturan bangunan",
+        "tip": "Bangunan beroperasi tanpa memperhatikan beberapa aturan"
+    },
+    "Player->Exploits->Building": {
+        "name": "Bangunan"
+    },
+    "Player->Exploits->Building->Ignore building cooldown": {
+        "name": "Abaikan cooldown bangunan",
+        "tip": "Menghapus batas waktu antar pembangunan"
+    },
+    "Player->Movement->Auto deploy->Auto deploy": {
+        "name": "Deploy otomatis",
+        "tip": "Bergerak ke zona deploy di wilayah rumah"
+    },
+    "Player->Movement->Auto deploy": {
+        "name": "Deploy otomatis"
+    },
+    "Player->Movement->Auto deploy->Move to deploy point bind": {
+        "name": "Tombol pindah ke titik deploy"
+    },
+    "Player->Movement->Auto deploy->Auto deploy toggles": {
+        "toggleBlockNames": {
+            "Auto run to deploy zone after spawn": "Berlari otomatis ke zona deploy setelah spawn"
+        }
+    },
+    "Information->Custom range->Around Character->Custom range on character": {
+        "name": "Jangkauan khusus di karakter",
+        "tip": "Tampilkan radius di sekitar karakter Anda"
+    },
+    "Information->Custom range": {
+        "name": "Jangkauan khusus"
+    },
+    "Information->Custom range->Around Character": {
+        "name": "Di sekitar karakter"
+    },
+    "Information->Custom range->Around Character->Display radius": {
+        "name": "Tampilkan radius"
+    },
+    "Information->Custom range->Around Character->Range color": {
+        "name": "Warna jangkauan"
+    },
+    "Information->Custom range->Around Cursor->Custom range on cursor": {
+        "name": "Jangkauan khusus di kursor",
+        "tip": "Tampilkan radius di sekitar kursor Anda"
+    },
+    "Information->Custom range->Around Cursor": {
+        "name": "Di sekitar kursor"
+    },
+    "Information->Custom range->Around Cursor->Display radius": {
+        "name": "Tampilkan radius"
+    },
+    "Information->Custom range->Around Cursor->Range color": {
+        "name": "Warna jangkauan"
+    },
+    "Information->Custom range->Ruler->Enable ruler": {
+        "name": "Aktifkan penggaris",
+        "tip": "Ukur jarak antara titik. Shift+Bind menambah titik, Bind tanpa Shift menghapus semua titik"
+    },
+    "Information->Custom range->Ruler": {
+        "name": "Penggaris"
+    },
+    "Information->Custom range->Ruler->Ruler bind": {
+        "name": "Bind penggaris"
+    },
+    "Information->Custom range->Ruler->Ruler color": {
+        "name": "Warna penggaris"
+    },
+    "Information->Custom range->Ruler->Line thickness": {
+        "name": "Ketebalan garis"
+    },
+    "Information->Voice Transcription/Translation->Voice Transcription/Translation": {
+        "name": "Transkripsi/terjemahan suara"
+    },
+    "Information->Voice Transcription/Translation": {
+        "name": "Transkripsi/terjemahan suara"
+    },
+    "Information->Voice Transcription/Translation->Model": {
+        "name": "Model",
+        "comboBoxValues": {
+            "tiny": "tiny",
+            "tiny.en": "tiny.en",
+            "tiny-q5_1": "tiny-q5_1",
+            "tiny.en-q5_1": "tiny.en-q5_1",
+            "tiny-q8_0": "tiny-q8_0",
+            "base": "base",
+            "base.en": "base.en",
+            "base-q5_1": "base-q5_1",
+            "base.en-q5_1": "base.en-q5_1",
+            "base-q8_0": "base-q8_0",
+            "small": "small",
+            "small.en": "small.en",
+            "small.en-tdrz": "small.en-tdrz",
+            "small-q5_1": "small-q5_1",
+            "small.en-q5_1": "small.en-q5_1",
+            "small-q8_0": "small-q8_0",
+            "medium": "medium",
+            "medium.en": "medium.en",
+            "medium-q5_0": "medium-q5_0",
+            "medium.en-q5_0": "medium.en-q5_0",
+            "medium-q8_0": "medium-q8_0",
+            "large-v1": "large-v1",
+            "large-v2": "large-v2",
+            "large-v2-q5_0": "large-v2-q5_0",
+            "large-v2-q8_0": "large-v2-q8_0",
+            "large-v3": "large-v3",
+            "large-v3-q5_0": "large-v3-q5_0",
+            "large-v3-turbo": "large-v3-turbo",
+            "large-v3-turbo-q5_0": "large-v3-turbo-q5_0",
+            "large-v3-turbo-q8_0": "large-v3-turbo-q8_0"
+        }
+    },
+    "Information->Voice Transcription/Translation->Detect language": {
+        "name": "Deteksi bahasa",
+        "comboBoxValues": {
+            "auto": "auto",
+            "en": "en",
+            "ru": "ru",
+            "de": "de",
+            "fr": "fr",
+            "es": "es",
+            "it": "it",
+            "pt": "pt",
+            "pl": "pl",
+            "tr": "tr",
+            "ja": "ja",
+            "zh": "zh",
+            "ko": "ko",
+            "ar": "ar",
+            "nl": "nl",
+            "sv": "sv",
+            "da": "da",
+            "fi": "fi",
+            "no": "no",
+            "cs": "cs",
+            "hu": "hu",
+            "ro": "ro",
+            "sk": "sk",
+            "bg": "bg",
+            "el": "el"
+        }
+    },
+    "Information->Voice Transcription/Translation->Buffer timeout (s)": {
+        "name": "Timeout buffer (s)"
+    },
+    "Information->Voice Transcription/Translation->Show text over players": {
+        "name": "Tampilkan teks di atas pemain"
+    },
+    "Information->Voice Transcription/Translation->Text display duration (s)": {
+        "name": "Durasi tampilan teks (s)"
+    },
+    "Information->Voice Transcription/Translation->Translate": {
+        "name": "Terjemahkan"
+    },
+    "Information->Voice Transcription/Translation->Translate to": {
+        "name": "Terjemahkan ke",
+        "comboBoxValues": {
+            "auto": "auto",
+            "en": "en",
+            "ru": "ru",
+            "de": "de",
+            "fr": "fr",
+            "es": "es",
+            "it": "it",
+            "pt": "pt",
+            "pl": "pl",
+            "tr": "tr",
+            "ja": "ja",
+            "zh": "zh",
+            "ko": "ko",
+            "ar": "ar",
+            "nl": "nl",
+            "sv": "sv",
+            "da": "da",
+            "fi": "fi",
+            "no": "no",
+            "cs": "cs",
+            "hu": "hu",
+            "ro": "ro",
+            "sk": "sk",
+            "bg": "bg",
+            "el": "el"
+        }
+    },
+    "Information->Voice Transcription/Translation->Load model": {
+        "name": "Muat model"
+    },
+    "Information->Voice Transcription/Translation->Show history": {
+        "name": "Tampilkan riwayat"
+    },
+    "Information->FPS Unlocker->FPS Unlocker->FPS Unlock": {
+        "name": "Buka batas FPS",
+        "tip": "Atur batas FPS apa pun untuk permainan"
+    },
+    "Information->FPS Unlocker": {
+        "name": "FPS Unlocker"
+    },
+    "Information->FPS Unlocker->FPS Unlocker": {
+        "name": "FPS Unlocker"
+    },
+    "Information->FPS Unlocker->FPS Unlocker->FPS limit": {
+        "name": "Batas FPS"
+    },
+    "Information->FPS Unlocker->Fix screen->Fix screen resize": {
+        "name": "Perbaiki ukuran layar",
+        "tip": "Perbaiki perubahan resolusi layar saat berganti wilayah"
+    },
+    "Information->FPS Unlocker->Fix screen": {
+        "name": "Perbaiki layar"
+    },
+    "Information->FPS Unlocker->Unfocused FPS->Limit FPS when unfocused": {
+        "name": "Batasi FPS saat tidak fokus",
+        "tip": "Kurangi FPS saat jendela game tidak fokus"
+    },
+    "Information->FPS Unlocker->Unfocused FPS": {
+        "name": "FPS tidak fokus"
+    },
+    "Information->FPS Unlocker->Unfocused FPS->Unfocused FPS limit": {
+        "name": "Batas FPS tidak fokus"
+    },
+    "Information->FPS Unlocker->Paused FPS->Limit FPS when paused": {
+        "name": "Batasi FPS saat jeda",
+        "tip": "Kurangi FPS saat game dijeda (menu escape)"
+    },
+    "Information->FPS Unlocker->Paused FPS": {
+        "name": "FPS saat jeda"
+    },
+    "Information->FPS Unlocker->Paused FPS->Paused FPS limit": {
+        "name": "Batas FPS saat jeda"
+    },
+    "Information->Camera->Free camera->Free camera": {
+        "name": "Kamera bebas",
+        "tip": "Pergerakan kamera tanpa batas",
+        "tip2": "Saat melihat posisi jauh, disarankan untuk menggerakkan kamera secara halus ke posisi tersebut,\nkarena pemain/ kendaraan mungkin tidak akan terlihat.\n\nDisarankan memegang senjata atau teropong untuk menghindari bug"
+    },
+    "Information->Camera": {
+        "name": "Kamera"
+    },
+    "Information->Camera->Free camera": {
+        "name": "Kamera bebas"
+    },
+    "Information->Camera->Free camera->Free camera key": {
+        "name": "Tombol kamera bebas"
+    },
+    "Information->Camera->Free camera->Free camera freeze key": {
+        "name": "Tombol bekukan kamera bebas",
+        "tip": "Membekukan posisi kamera saat ini"
+    },
+    "Information->Camera->Free camera->Free camera mode": {
+        "name": "Mode kamera bebas",
+        "tip2": "Auto - Tekan singkat mengaktifkan Toggle, tekan lama mengaktifkan Hold\nHold - Aktif saat ditekan dan ditahan\nToggle - Aktif dengan satu tekan",
+        "comboBoxValues": {
+            "Hold": "Hold",
+            "Toggle": "Toggle",
+            "Auto": "Auto"
+        }
+    },
+    "Information->Camera->Free camera->Set camera position via minimap": {
+        "name": "Atur posisi kamera lewat minimap",
+        "tip": "ALT+klik kiri di minimap untuk mengatur posisi kamera bebas"
+    },
+    "Information->Camera->Free camera->Free camera behavior settings->Camera Speed2": {
+        "name": "Kecepatan kamera"
+    },
+    "Information->Camera->Free camera->Free camera behavior settings": {
+        "name": "Pengaturan perilaku kamera bebas"
+    },
+    "Information->Camera->Free camera->Free camera behavior settings->Dead Zone": {
+        "name": "Zona mati",
+        "tip": "Area di tengah layar di mana kursor tidak menggerakkan kamera"
+    },
+    "Information->Camera->Free camera->Free camera behavior settings->Fast Camera Speed": {
+        "name": "Kecepatan kamera cepat",
+        "tip": "Kecepatan maksimum kamera saat kursor berada di tepi layar"
+    },
+    "Information->Camera->Free camera->Free camera behavior settings->Fast Zone": {
+        "name": "Zona cepat",
+        "tip": "Area dari pusat layar tempat percepatan kamera dimulai"
+    },
+    "Information->Camera->FOV changer->FOV changer": {
+        "name": "Pengubah FOV",
+        "tip": "Penyesuaian Field of View"
+    },
+    "Information->Camera->FOV changer": {
+        "name": "Pengubah FOV"
+    },
+    "Information->Camera->FOV changer->Method of changing": {
+        "name": "Metode pengubahan",
+        "comboBoxValues": {
+            "Dont change": "Jangan ubah",
+            "Alt + Scroll": "Alt + Scroll",
+            "Scroll": "Scroll"
+        }
+    },
+    "Information->Camera->FOV changer->Scroll target": {
+        "name": "Target scroll",
+        "comboBoxValues": {
+            "FOV": "FOV",
+            "Camera Arm Length": "Panjang lengan kamera"
+        }
+    },
+    "Information->Camera->FOV changer->FOV Changer settings->Current FOV": {
+        "name": "FOV saat ini"
+    },
+    "Information->Camera->FOV changer->FOV Changer settings": {
+        "name": "Pengaturan pengubah FOV"
+    },
+    "Information->Camera->FOV changer->FOV Changer settings->FOV change Step": {
+        "name": "Langkah perubahan FOV"
+    },
+    "Information->Camera->FOV changer->FOV Changer settings->Smooth FOV change": {
+        "name": "Perubahan FOV halus"
+    },
+    "Information->Camera->FOV changer->Camera Zoom settings->Current Zoom Distance": {
+        "name": "Jarak zoom saat ini"
+    },
+    "Information->Camera->FOV changer->Camera Zoom settings": {
+        "name": "Pengaturan zoom kamera"
+    },
+    "Information->Camera->FOV changer->Camera Zoom settings->Zoom Distance Step": {
+        "name": "Langkah jarak zoom"
+    },
+    "Information->Camera->Cloud settings->Disable clouds": {
+        "name": "Nonaktifkan awan",
+        "tip": "Mematikan rendering awan di langit"
+    },
+    "Information->Camera->Cloud settings": {
+        "name": "Pengaturan awan"
+    },
+    "Information->Camera->Night intensity->Night intensity": {
+        "name": "Intensitas malam",
+        "tip": "Mengubah tingkat visibilitas di malam hari"
+    },
+    "Information->Camera->Night intensity": {
+        "name": "Intensitas malam"
+    },
+    "Information->Camera->Night intensity->Night intensity value": {
+        "name": "Nilai intensitas malam"
+    },
+    "Player->Building->Auto Build->Auto build": {
+        "name": "Bangun otomatis",
+        "tip": "Membangun blueprint atau parit secara otomatis"
+    },
+    "Player->Building->Auto Build": {
+        "name": "Bangun otomatis"
+    },
+    "Player->Building->Auto Build->Auto building bind": {
+        "name": "Bind bangunan otomatis"
+    },
+    "Player->Building->Auto Build->Searching distance": {
+        "name": "Jarak pencarian",
+        "tip": "Jarak untuk mencari blueprint atau parit"
+    },
+    "Player->Building->Auto Build->Build toggles": {
+        "toggleBlockNames": {
+            "Auto stop when W/A/S/D pressed": "Berhenti otomatis saat W/A/S/D ditekan",
+            "Drainage of puddles": "Pengeringan genangan air",
+            "Only on roads": "Hanya di jalan",
+            "Repair damaged structures": "Perbaiki struktur rusak"
+        }
+    },
+    "Player->Building->Auto Build->Repair health threshold %": {
+        "name": "Batas HP untuk repair (%)",
+        "tip": "Perbaiki struktur dengan HP di bawah persentase ini"
+    }
+}

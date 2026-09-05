@@ -1,0 +1,1357 @@
+[2026-09-05 21:36:34.337] [melonity] [info] [Core.cpp:255] Path: C:\Users\WDAGUtilityAccount\Downloads\launcher_files\melonity_foxhole
+
+  __  __      _             _ _         
+ |  \/  |    | |           (_) |        
+ | \  / | ___| | ___  _ __  _| |_ _   _ 
+ | |\/| |/ _ \ |/ _ \| '_ \| | __| | | |
+ | |  | |  __/ | (_) | | | | | |_| |_| |
+ |_|  |_|\___|_|\___/|_| |_|_|\__|\__, |
+                                   __/ |
+                                  |___/ 
+
+[21:36:34:339] [info] Initializing...
+[21:36:34:341] [info] Build date: Sep  4 2026 17:39:56
+[21:36:34:342] [debug] --------------------------------------------------------------------------------
+[21:36:34:343] [debug] Searching for pattern ReportCrash in process module War-Win64-Shipping.exe
+[21:36:34:382] [debug] FindPattern
+[21:36:34:382] [debug] Found at 0x7FF6449EFAD0
+[21:36:34:428] [info] Sentry [INFO] using database path "C:\Users\WDAGUtilityAccount\Downloads\launcher_files\melonity_foxhole\.sentry-native"
+[21:36:34:430] [info] Sentry [DEBUG] starting transport
+[21:36:34:440] [info] Sentry [DEBUG] starting background worker thread
+[21:36:34:440] [info] Sentry [DEBUG] starting backend
+[21:36:34:441] [info] Sentry [DEBUG] background worker thread started
+[21:36:34:462] [info] Sentry [DEBUG] processing and pruning old runs
+[21:36:35:461] [info] Cloud config initialized
+[21:36:39:880] [info] Initializing DirectX 11 renderer...
+[21:36:39:880] [debug] --------------------------------------------------------------------------------
+[21:36:39:880] [debug] Searching for call IDXGISwapChain
+[21:36:40:003] [debug] Found at 0x1FB6043C010
+[21:36:40:008] [info] DirectX 11 renderer initialized
+[21:36:40:071] [info] Initializing hook: IDXGISwapChain
+[21:36:40:071] [info] Hook initialized: IDXGISwapChain
+[21:36:40:071] [info] Initializing hook: IDXGISwapChain
+[21:36:40:076] [info] Hook initialized: IDXGISwapChain
+[21:36:40:077] [info] Initializing hook: PostRender
+[21:36:40:077] [debug] --------------------------------------------------------------------------------
+[21:36:40:077] [debug] Searching for pattern PostRender in process module War-Win64-Shipping.exe
+[21:36:40:099] [debug] FindPattern
+[21:36:40:099] [debug] Found at 0x7FF645B66CE0
+[21:36:40:105] [info] Hook initialized: PostRender
+[21:36:40:105] [info] Initializing hook: ProcessEvent
+[21:36:40:105] [debug] --------------------------------------------------------------------------------
+[21:36:40:105] [debug] Searching for pattern ProcessEvent in process module War-Win64-Shipping.exe
+[21:36:40:122] [debug] FindPattern
+[21:36:40:122] [debug] Found at 0x7FF644B99C80
+[21:36:40:127] [info] Hook initialized: ProcessEvent
+[21:36:40:127] [info] Initializing hook: CalculateTargetForDownwardTrace
+[21:36:40:127] [debug] --------------------------------------------------------------------------------
+[21:36:40:127] [debug] Searching for pattern CalculateTargetForDownwardTrace in process module War-Win64-Shipping.exe
+[21:36:40:144] [debug] FindPattern
+[21:36:40:144] [debug] Found at 0x7FF6443BF320
+[21:36:40:149] [info] Hook initialized: CalculateTargetForDownwardTrace
+[21:36:40:149] [info] Initializing hook: UObject_ConditionalBeginDestroy
+[21:36:40:149] [debug] --------------------------------------------------------------------------------
+[21:36:40:149] [debug] Searching for pattern UObject_ConditionalBeginDestroy in process module War-Win64-Shipping.exe
+[21:36:40:165] [debug] FindPattern -> 0x7FF644B399DC
+[21:36:40:166] [debug] Abs
+[21:36:40:166] [debug] Found at 0x7FF644B42C80
+[21:36:40:171] [info] Hook initialized: UObject_ConditionalBeginDestroy
+[21:36:40:171] [info] Initializing hook: AActor_BeginPlay
+[21:36:40:171] [debug] --------------------------------------------------------------------------------
+[21:36:40:171] [debug] Searching for pattern AActor_BeginPlay in process module War-Win64-Shipping.exe
+[21:36:40:190] [debug] FindPattern
+[21:36:40:190] [debug] Found at 0x7FF6458D87F0
+[21:36:40:195] [info] Hook initialized: AActor_BeginPlay
+[21:36:40:195] [info] Initializing hook: AActor_RouteEndPlay
+[21:36:40:195] [debug] --------------------------------------------------------------------------------
+[21:36:40:195] [debug] Searching for pattern AActor_RouteEndPlay in process module War-Win64-Shipping.exe
+[21:36:40:212] [debug] FindPattern
+[21:36:40:212] [debug] Found at 0x7FF6458F4230
+[21:36:40:218] [info] Hook initialized: AActor_RouteEndPlay
+[21:36:40:218] [info] Initializing hook: GetWarTweakables
+[21:36:40:218] [debug] --------------------------------------------------------------------------------
+[21:36:40:218] [debug] Searching for pattern GetWarTweakables in process module War-Win64-Shipping.exe
+[21:36:40:236] [debug] FindPattern
+[21:36:40:236] [debug] Found at 0x7FF64474CAB0
+[21:36:40:241] [info] Hook initialized: GetWarTweakables
+[21:36:40:241] [info] Initializing hook: OnMapIntelUpdate
+[21:36:40:241] [debug] --------------------------------------------------------------------------------
+[21:36:40:241] [debug] Searching for pattern OnMapIntelUpdate in process module War-Win64-Shipping.exe
+[21:36:40:260] [debug] FindPattern
+[21:36:40:260] [debug] Found at 0x7FF6441AC050
+[21:36:40:266] [info] Hook initialized: OnMapIntelUpdate
+[21:36:40:266] [info] Initializing hook: RetriveItem
+[21:36:40:266] [debug] --------------------------------------------------------------------------------
+[21:36:40:266] [debug] Searching for pattern RetriveItem in process module War-Win64-Shipping.exe
+[21:36:40:282] [debug] FindPattern
+[21:36:40:282] [debug] Found at 0x7FF643F417E0
+[21:36:40:287] [info] Hook initialized: RetriveItem
+[21:36:40:287] [info] Initializing hook: ShowPause
+[21:36:40:287] [debug] --------------------------------------------------------------------------------
+[21:36:40:287] [debug] Searching for pattern ShowPause in process module War-Win64-Shipping.exe
+[21:36:40:308] [debug] FindPattern
+[21:36:40:308] [debug] Found at 0x7FF644144970
+[21:36:40:313] [info] Hook initialized: ShowPause
+[21:36:40:314] [info] Initializing hook: UpdateVisiblity
+[21:36:40:314] [debug] --------------------------------------------------------------------------------
+[21:36:40:314] [debug] Searching for pattern UpdateVisiblity in process module War-Win64-Shipping.exe
+[21:36:40:334] [debug] FindPattern
+[21:36:40:334] [debug] Found at 0x7FF6441F1460
+[21:36:40:339] [info] Hook initialized: UpdateVisiblity
+[21:36:40:339] [info] Initializing hook: GetCameraCachePOV
+[21:36:40:339] [debug] --------------------------------------------------------------------------------
+[21:36:40:339] [debug] Searching for pattern GetCameraCachePOV in process module War-Win64-Shipping.exe
+[21:36:40:353] [debug] FindPattern
+[21:36:40:353] [debug] Found at 0x7FF645DDD770
+[21:36:40:357] [info] Hook initialized: GetCameraCachePOV
+[21:36:40:357] [info] Initializing hook: GetMacAddress
+[21:36:40:357] [debug] --------------------------------------------------------------------------------
+[21:36:40:357] [debug] Searching for pattern GetMacAddress in process module War-Win64-Shipping.exe
+[21:36:40:372] [debug] FindPattern
+[21:36:40:372] [debug] Found at 0x7FF6449DF560
+[21:36:40:377] [info] Hook initialized: GetMacAddress
+[21:36:40:377] [info] Initializing hook: GetPlacementStatus
+[21:36:40:377] [debug] --------------------------------------------------------------------------------
+[21:36:40:377] [debug] Searching for pattern GetPlacementStatus in process module War-Win64-Shipping.exe
+[21:36:40:392] [debug] FindPattern -> 0x7FF644218AF8
+[21:36:40:392] [debug] Abs
+[21:36:40:392] [debug] Found at 0x7FF64420D060
+[21:36:40:396] [info] Hook initialized: GetPlacementStatus
+[21:36:40:396] [info] Initializing hook: Ghost_CheckPlacement_Obstruction
+[21:36:40:396] [debug] --------------------------------------------------------------------------------
+[21:36:40:396] [debug] Searching for pattern Ghost_CheckPlacement_Obstruction in process module War-Win64-Shipping.exe
+[21:36:40:414] [debug] FindPattern
+[21:36:40:414] [debug] Found at 0x7FF6442158D0
+[21:36:40:419] [info] Hook initialized: Ghost_CheckPlacement_Obstruction
+[21:36:40:419] [info] Initializing hook: ShowPopup
+[21:36:40:419] [debug] --------------------------------------------------------------------------------
+[21:36:40:419] [debug] Searching for pattern ShowPopup in process module War-Win64-Shipping.exe
+[21:36:40:434] [debug] FindPattern -> 0x7FF64408A58C
+[21:36:40:434] [debug] Abs
+[21:36:40:434] [debug] Found at 0x7FF6448E8B70
+[21:36:40:439] [info] Hook initialized: ShowPopup
+[21:36:40:439] [info] Initializing hook: ASimVehicle_MoveRight2
+[21:36:40:439] [debug] --------------------------------------------------------------------------------
+[21:36:40:439] [debug] Searching for pattern ASimVehicle_MoveRight2 in process module War-Win64-Shipping.exe
+[21:36:40:459] [debug] FindPattern -> 0x7FF6443AE398
+[21:36:40:459] [debug] Abs
+[21:36:40:459] [debug] Found at 0x7FF644390234
+[21:36:40:463] [info] Hook initialized: ASimVehicle_MoveRight2
+[21:36:40:463] [info] Initializing hook: ASimCharacter_MoveRight
+[21:36:40:463] [debug] --------------------------------------------------------------------------------
+[21:36:40:463] [debug] Searching for pattern ASimCharacter_MoveRight in process module War-Win64-Shipping.exe
+[21:36:40:478] [debug] FindPattern
+[21:36:40:478] [debug] Found at 0x7FF6441202E0
+[21:36:40:483] [info] Hook initialized: ASimCharacter_MoveRight
+[21:36:40:483] [info] Initializing hook: UGameEngine_PreExit
+[21:36:40:483] [debug] --------------------------------------------------------------------------------
+[21:36:40:483] [debug] Searching for pattern UGameEngine_PreExit in process module War-Win64-Shipping.exe
+[21:36:40:497] [debug] FindPattern
+[21:36:40:498] [debug] Found at 0x7FF645B4CC70
+[21:36:40:502] [info] Hook initialized: UGameEngine_PreExit
+[21:36:40:502] [info] Initializing hook: GetScreenSizeMem
+[21:36:40:502] [debug] --------------------------------------------------------------------------------
+[21:36:40:502] [debug] Searching for pattern GetScreenSizeMem in process module War-Win64-Shipping.exe
+[21:36:40:517] [debug] FindPattern -> 0x7FF644557342
+[21:36:40:517] [debug] Abs
+[21:36:40:517] [debug] Found at 0x7FF64454DC00
+[21:36:40:521] [info] Hook initialized: GetScreenSizeMem
+[21:36:40:521] [info] Initializing hook: SetComboboxValue
+[21:36:40:522] [debug] --------------------------------------------------------------------------------
+[21:36:40:522] [debug] Searching for pattern SetComboboxValue in process module War-Win64-Shipping.exe
+[21:36:40:540] [debug] FindPattern
+[21:36:40:540] [debug] Found at 0x7FF643F3F390
+[21:36:40:546] [info] Hook initialized: SetComboboxValue
+[21:36:40:546] [info] Initializing hook: ConvertToCollisionChannel
+[21:36:40:546] [debug] --------------------------------------------------------------------------------
+[21:36:40:546] [debug] Searching for pattern ConvertToCollisionChannel in process module War-Win64-Shipping.exe
+[21:36:40:564] [debug] FindPattern -> 0x7FF645BF4D8E
+[21:36:40:564] [debug] Abs
+[21:36:40:564] [debug] Found at 0x7FF645B3EF50
+[21:36:40:569] [info] Hook initialized: ConvertToCollisionChannel
+[21:36:40:569] [info] Initializing hook: GetArmLength
+[21:36:40:569] [debug] --------------------------------------------------------------------------------
+[21:36:40:569] [debug] Searching for pattern GetArmLength in process module War-Win64-Shipping.exe
+[21:36:40:584] [debug] FindPattern
+[21:36:40:584] [debug] Found at 0x7FF64417C900
+[21:36:40:588] [info] Hook initialized: GetArmLength
+[21:36:40:588] [info] Initializing hook: GetNightIntensity
+[21:36:40:589] [debug] --------------------------------------------------------------------------------
+[21:36:40:589] [debug] Searching for pattern GetNightIntensity in process module War-Win64-Shipping.exe
+[21:36:40:607] [debug] FindPattern
+[21:36:40:607] [debug] Found at 0x7FF6447A4DD0
+[21:36:40:613] [info] Hook initialized: GetNightIntensity
+[21:36:40:613] [info] Initializing hook: UpdateIntelRequest
+[21:36:40:613] [debug] --------------------------------------------------------------------------------
+[21:36:40:613] [debug] Searching for pattern UpdateIntelRequest in process module War-Win64-Shipping.exe
+[21:36:40:630] [debug] FindPattern
+[21:36:40:630] [debug] Found at 0x7FF6441B6AF0
+[21:36:40:635] [info] Hook initialized: UpdateIntelRequest
+[21:36:40:635] [info] Initializing hook: FEngineLoop_Tick
+[21:36:40:635] [debug] --------------------------------------------------------------------------------
+[21:36:40:635] [debug] Searching for pattern FEngineLoop_Tick in process module War-Win64-Shipping.exe
+[21:36:40:650] [debug] FindPattern
+[21:36:40:650] [debug] Found at 0x7FF643B42540
+[21:36:40:654] [info] Hook initialized: FEngineLoop_Tick
+[21:36:40:654] [info] Initializing hook: UGameEngine_Tick
+[21:36:40:654] [debug] --------------------------------------------------------------------------------
+[21:36:40:654] [debug] Searching for pattern UGameEngine_Tick in process module War-Win64-Shipping.exe
+[21:36:40:677] [debug] FindPattern
+[21:36:40:677] [debug] Found at 0x7FF645B53690
+[21:36:40:682] [info] Hook initialized: UGameEngine_Tick
+[21:36:40:682] [info] Initializing hook: PumpMessages
+[21:36:40:682] [debug] --------------------------------------------------------------------------------
+[21:36:40:682] [debug] Searching for pattern PumpMessages in process module War-Win64-Shipping.exe
+[21:36:40:704] [debug] FindPattern
+[21:36:40:704] [debug] Found at 0x7FF644BFB300
+[21:36:40:711] [info] Hook initialized: PumpMessages
+[21:36:40:711] [info] Initializing hook: CSV_SCOPED_TIMING_STAT_EXCLUSIVE
+[21:36:40:711] [debug] --------------------------------------------------------------------------------
+[21:36:40:711] [debug] Searching for pattern CSV_SCOPED_TIMING_STAT_EXCLUSIVE in process module War-Win64-Shipping.exe
+[21:36:40:727] [debug] FindPattern -> 0x7FF645C36BC5
+[21:36:40:727] [debug] Abs
+[21:36:40:727] [debug] Found at 0x7FF6449AA910
+[21:36:40:732] [info] Hook initialized: CSV_SCOPED_TIMING_STAT_EXCLUSIVE
+[21:36:40:732] [info] Initializing hook: CSV_SCOPED_TIMING_STAT_EXCLUSIVE_END
+[21:36:40:732] [debug] --------------------------------------------------------------------------------
+[21:36:40:732] [debug] Searching for pattern CSV_SCOPED_TIMING_STAT_EXCLUSIVE_END in process module War-Win64-Shipping.exe
+[21:36:40:748] [debug] FindPattern -> 0x7FF645C36F37
+[21:36:40:748] [debug] Abs
+[21:36:40:748] [debug] Found at 0x7FF6449AE730
+[21:36:40:753] [info] Hook initialized: CSV_SCOPED_TIMING_STAT_EXCLUSIVE_END
+[21:36:40:753] [info] Initializing hook: WndProc
+[21:36:40:753] [debug] --------------------------------------------------------------------------------
+[21:36:40:753] [debug] Searching for wndproc
+[21:36:40:764] [debug] Found at 0x7FF644BECB20
+[21:36:40:769] [info] Hook initialized: WndProc
+[21:36:40:817] [error] FontManager::GetFont can't load fontFamily: ||, path: ||, using default font
+[21:36:40:957] [info] Initializing finished
+[21:37:31:046] [debug] --------------------------------------------------------------------------------
+[21:37:31:046] [debug] Searching for pattern GetMalloc in process module War-Win64-Shipping.exe
+[21:37:31:069] [debug] FindPattern -> 0x7FF6449BDD68
+[21:37:31:069] [debug] Abs
+[21:37:31:069] [debug] Found at 0x7FF6448FA8E0
+[21:37:31:371] [debug] --------------------------------------------------------------------------------
+[21:37:31:371] [debug] Searching for pattern ComputeViewProjectionMatrix in process module War-Win64-Shipping.exe
+[21:37:31:388] [debug] FindPattern -> 0x7FF645B7DA21
+[21:37:31:388] [debug] Abs
+[21:37:31:388] [debug] Found at 0x7FF6440BD8D0
+[21:37:31:388] [debug] --------------------------------------------------------------------------------
+[21:37:31:388] [debug] Searching for pattern ProjectWorldToScreen in process module War-Win64-Shipping.exe
+[21:37:31:403] [debug] FindPattern -> 0x7FF645B7DA3C
+[21:37:31:404] [debug] Abs
+[21:37:31:404] [debug] Found at 0x7FF645E5B2E0
+[21:37:31:404] [debug] --------------------------------------------------------------------------------
+[21:37:31:404] [debug] Searching for pattern GWorld in process module War-Win64-Shipping.exe
+[21:37:31:427] [debug] FindPattern -> 0x7FF643B42CD2
+[21:37:31:427] [debug] Abs
+[21:37:31:427] [debug] Found at 0x7FF6480D7348
+[21:37:31:427] [debug] --------------------------------------------------------------------------------
+[21:37:31:427] [debug] Searching for pattern GetGObjects in process module War-Win64-Shipping.exe
+[21:37:31:446] [debug] FindPattern -> 0x7FF644BB0830
+[21:37:31:446] [debug] Abs
+[21:37:31:446] [debug] Found at 0x7FF647FED678
+[21:37:31:446] [debug] --------------------------------------------------------------------------------
+[21:37:31:446] [debug] Searching for pattern GetGlobalNames in process module War-Win64-Shipping.exe
+[21:37:31:464] [debug] FindPattern -> 0x7FF6449C2B86
+[21:37:31:465] [debug] Abs
+[21:37:31:465] [debug] Found at 0x7FF647FD4300
+[21:37:31:467] [debug] --------------------------------------------------------------------------------
+[21:37:31:467] [debug] Searching for pattern UWarGameInstance_WorldConquestMapIdOffset in process module War-Win64-Shipping.exe
+[21:37:31:485] [debug] FindPattern -> 0x7FF64414C9F4
+[21:37:31:485] [debug] Offset
+[21:37:31:485] [debug] Found at 0x7FF64414C9F7
+[21:37:31:486] [debug] --------------------------------------------------------------------------------
+[21:37:31:487] [debug] Searching for pattern FSlateApplicationBase in process module War-Win64-Shipping.exe
+[21:37:31:511] [debug] FindPattern -> 0x7FF644C38CB2
+[21:37:31:512] [debug] Abs
+[21:37:31:512] [debug] Found at 0x7FF647FF0FB8
+[21:37:31:709] [debug] --------------------------------------------------------------------------------
+[21:37:31:709] [debug] Searching for pattern MemeStorageBoxCheck in process module War-Win64-Shipping.exe
+[21:37:31:746] [debug] FindPattern
+[21:37:31:747] [debug] Found at 0x7FF6442C92FD
+[21:37:31:805] [debug] --------------------------------------------------------------------------------
+[21:37:31:805] [debug] Searching for pattern OnBeforeReceivedAudioMixedFnPtr in process module vivoxsdk.dll
+[21:37:31:842] [debug] FindPattern -> 0x7FFC52E74380
+[21:37:31:842] [debug] Offset -> 0x7FFC52E74396
+[21:37:31:842] [debug] Abs
+[21:37:31:842] [debug] Found at 0x7FFC5384B958
+[21:37:32:112] [debug] --------------------------------------------------------------------------------
+[21:37:32:112] [debug] Searching for pattern GetWeatherOffset in process module War-Win64-Shipping.exe
+[21:37:32:132] [debug] FindPattern
+[21:37:32:133] [debug] Found at 0x7FF6443FA670
+[21:37:32:176] [error] Failed to load texture file ~/newMenu/id.svg
+[21:37:32:177] [error] Failed to load texture file ~/newMenu/ph.svg
+[21:37:32:177] [error] Failed to load texture file ~/newMenu/pt.svg
+[21:37:32:183] [error] Failed to load texture file ~/newMenu/heroSheet.png
+[21:37:32:226] [error] Failed to load texture file ~/newMenu/wheel/wheel.svg
+[21:37:32:226] [error] Failed to load texture file ~/newMenu/wheel/wheelSelected0.svg
+[21:37:32:226] [error] Failed to load texture file ~/newMenu/wheel/wheelSelected1.svg
+[21:37:32:226] [error] Failed to load texture file ~/newMenu/wheel/wheelSelected2.svg
+[21:37:32:226] [error] Failed to load texture file ~/newMenu/wheel/wheelSelected3.svg
+[21:37:32:226] [error] Failed to load texture file ~/newMenu/wheel/wheelSelected4.svg
+[21:37:32:226] [error] Failed to load texture file ~/newMenu/wheel/wheelSelected5.svg
+[21:37:32:226] [error] Failed to load texture file ~/newMenu/wheel/wheelSelected6.svg
+[21:37:32:226] [error] Failed to load texture file ~/newMenu/wheel/wheelSelected7.svg
+[21:37:32:226] [error] Failed to load texture file ~/newMenu/wheel/cross.svg
+[21:37:32:226] [error] Failed to load texture file ~/newMenu/wheel/crossClose.svg
+[21:37:32:226] [error] Failed to load texture file ~/newMenu/wheel/wheelBig.svg
+[21:37:32:226] [error] Failed to load texture file ~/newMenu/wheel/wheelBigSelected0.svg
+[21:37:32:226] [error] Failed to load texture file ~/newMenu/wheel/wheelBigSelected1.svg
+[21:37:32:226] [error] Failed to load texture file ~/newMenu/wheel/wheelBigSelected2.svg
+[21:37:32:226] [error] Failed to load texture file ~/newMenu/wheel/wheelBigSelected3.svg
+[21:37:32:226] [error] Failed to load texture file ~/newMenu/wheel/wheelBigSelected4.svg
+[21:37:32:226] [error] Failed to load texture file ~/newMenu/wheel/wheelBigSelected5.svg
+[21:37:32:226] [error] Failed to load texture file ~/newMenu/wheel/wheelBigSelected6.svg
+[21:37:32:227] [error] Failed to load texture file ~/newMenu/wheel/wheelBigSelected7.svg
+[21:37:32:232] [info] SecureOverlay: overlay window created on game window thread (owner-bound)
+[21:37:32:234] [info] Inject check
+[21:37:32:241] [info] Commends check 0
+[21:37:32:285] [info] SecureOverlay: ACTIVE (swap chain: plain, WDA: verified)
+[21:37:35:265] [info] Inject check
+[21:37:35:267] [info] Commends check 0
+[21:37:38:299] [info] Inject check
+[21:37:38:301] [info] Commends check 0
+[21:37:41:315] [info] Inject check
+[21:37:41:316] [info] Commends check 0
+[21:37:44:339] [info] Inject check
+[21:37:44:341] [info] Commends check 0
+[21:37:47:361] [info] Inject check
+[21:37:47:364] [info] Commends check 0
+[21:37:50:383] [info] Inject check
+[21:37:50:388] [info] Commends check 0
+[21:37:53:416] [info] Inject check
+[21:37:53:416] [info] Commends check 0
+[21:38:01:452] [info] Inject check
+[21:38:01:466] [info] Commends check 0
+[21:38:07:107] [debug] --------------------------------------------------------------------------------
+[21:38:07:107] [debug] Searching for pattern APlayerController_SimScreenOffset in process module War-Win64-Shipping.exe
+[21:38:07:128] [debug] FindPattern -> 0x7FF643F74BD0
+[21:38:07:128] [debug] Offset
+[21:38:07:128] [debug] Found at 0x7FF643F74BD2
+[21:38:07:138] [debug] --------------------------------------------------------------------------------
+[21:38:07:138] [debug] Searching for pattern LineTraceSingle in process module War-Win64-Shipping.exe
+[21:38:07:158] [debug] FindPattern -> 0x7FF6460CE507
+[21:38:07:158] [debug] Offset -> 0x7FF6460CE59D
+[21:38:07:158] [debug] Abs
+[21:38:07:158] [debug] Found at 0x7FF645C10480
+[21:38:07:160] [debug] --------------------------------------------------------------------------------
+[21:38:07:160] [debug] Searching for pattern LastBuildTimeOffset in process module War-Win64-Shipping.exe
+[21:38:07:174] [debug] FindPattern -> 0x7FF6441BBFF0
+[21:38:07:174] [debug] Offset
+[21:38:07:174] [debug] Found at 0x7FF6441BC010
+[21:38:09:149] [debug] --------------------------------------------------------------------------------
+[21:38:09:149] [debug] Searching for pattern GetFree in process module War-Win64-Shipping.exe
+[21:38:09:167] [debug] FindPattern
+[21:38:09:167] [debug] Found at 0x7FF6448E9930
+[21:38:09:277] [debug] --------------------------------------------------------------------------------
+[21:38:09:277] [debug] Searching for pattern CalculateTargetForDownwardTraceReturnAddress in process module War-Win64-Shipping.exe
+[21:38:09:300] [debug] FindPattern -> 0x7FF644136BF2
+[21:38:09:301] [debug] Offset
+[21:38:09:301] [debug] Found at 0x7FF644136BF7
+[21:38:09:317] [debug] --------------------------------------------------------------------------------
+[21:38:09:317] [debug] Searching for pattern AWarCharacter_InteractiveObjectsOffset in process module War-Win64-Shipping.exe
+[21:38:09:334] [debug] FindPattern -> 0x7FF6443DBFCD
+[21:38:09:334] [debug] Offset
+[21:38:09:334] [debug] Found at 0x7FF6443DBFD0
+[21:38:09:338] [debug] --------------------------------------------------------------------------------
+[21:38:09:339] [debug] Searching for pattern AWarCharacter_IsPawnVisibleVirtualIndex in process module War-Win64-Shipping.exe
+[21:38:09:355] [debug] FindPattern -> 0x7FF643F87194
+[21:38:09:355] [debug] Offset
+[21:38:09:355] [debug] Found at 0x7FF643F87196
+[21:38:09:436] [debug] --------------------------------------------------------------------------------
+[21:38:09:436] [debug] Searching for pattern FUntypedBulkData_Lock in process module War-Win64-Shipping.exe
+[21:38:09:452] [debug] FindPattern -> 0x7FF645970C66
+[21:38:09:452] [debug] Abs
+[21:38:09:452] [debug] Found at 0x7FF644A5F420
+[21:38:09:452] [debug] --------------------------------------------------------------------------------
+[21:38:09:453] [debug] Searching for pattern FUntypedBulkData_Unlock in process module War-Win64-Shipping.exe
+[21:38:09:453] [debug] Found in cache at 0x2340C66
+[21:38:09:453] [debug] FindPattern -> 0x7FF645970C66
+[21:38:09:453] [debug] Offset -> 0x7FF645970C86
+[21:38:09:453] [debug] Abs
+[21:38:09:453] [debug] Found at 0x7FF644A6C830
+[21:38:09:588] [info] Inject check
+[21:38:09:592] [info] Commends check 0
+[21:38:09:626] [debug] --------------------------------------------------------------------------------
+[21:38:09:626] [debug] Searching for pattern CalculateTargetForDownwardTraceReturnAddress2 in process module War-Win64-Shipping.exe
+[21:38:09:653] [debug] FindPattern
+[21:38:09:653] [debug] Found at 0x7FF64401FE4A
+[21:38:12:601] [info] Inject check
+[21:38:12:602] [info] Commends check 0
+[21:38:15:625] [info] Inject check
+[21:38:15:627] [info] Commends check 0
+[21:38:18:650] [info] Inject check
+[21:38:18:651] [info] Commends check 0
+[21:38:21:665] [info] Inject check
+[21:38:21:666] [info] Commends check 0
+[21:38:24:678] [info] Inject check
+[21:38:24:680] [info] Commends check 0
+[21:38:27:702] [info] Inject check
+[21:38:27:703] [info] Commends check 0
+[21:38:30:730] [info] Inject check
+[21:38:30:732] [info] Commends check 0
+[21:38:33:754] [info] Inject check
+[21:38:33:754] [info] Commends check 0
+[21:38:36:783] [info] Inject check
+[21:38:36:785] [info] Commends check 0
+[21:38:39:801] [info] Inject check
+[21:38:39:816] [info] Commends check 0
+[21:38:42:841] [info] Inject check
+[21:38:42:860] [info] Commends check 0
+[21:38:45:892] [info] Inject check
+[21:38:45:905] [info] Commends check 0
+[21:38:48:930] [info] Inject check
+[21:38:48:932] [info] Commends check 0
+[21:38:51:959] [info] Inject check
+[21:38:51:961] [info] Commends check 0
+[21:38:54:995] [info] Inject check
+[21:38:54:997] [info] Commends check 0
+[21:38:58:012] [info] Inject check
+[21:38:58:014] [info] Commends check 0
+[21:39:01:040] [info] Inject check
+[21:39:01:040] [info] Commends check 0
+[21:39:04:056] [info] Inject check
+[21:39:04:057] [info] Commends check 0
+[21:39:15:104] [info] Inject check
+[21:39:15:106] [info] Commends check 0
+[21:39:18:115] [info] Inject check
+[21:39:18:116] [info] Commends check 0
+[21:39:21:133] [info] Inject check
+[21:39:21:134] [info] Commends check 0
+[21:39:24:144] [info] Inject check
+[21:39:24:145] [info] Commends check 0
+[21:39:27:154] [info] Inject check
+[21:39:27:156] [info] Commends check 0
+[21:39:30:180] [info] Inject check
+[21:39:30:182] [info] Commends check 0
+[21:39:33:196] [info] Inject check
+[21:39:33:197] [info] Commends check 0
+[21:39:36:227] [info] Inject check
+[21:39:36:229] [info] Commends check 0
+[21:39:39:249] [info] Inject check
+[21:39:39:250] [info] Commends check 0
+[21:39:40:806] [debug] --------------------------------------------------------------------------------
+[21:39:40:806] [debug] Searching for pattern ASimPlayerController_ActiveObjectOffset in process module War-Win64-Shipping.exe
+[21:39:40:825] [debug] FindPattern -> 0x7FF64417AABB
+[21:39:40:825] [debug] Offset
+[21:39:40:825] [debug] Found at 0x7FF64417AABD
+[21:39:41:002] [debug] --------------------------------------------------------------------------------
+[21:39:41:002] [debug] Searching for pattern ASimGameState_MapsIntelInfoOffset in process module War-Win64-Shipping.exe
+[21:39:41:021] [debug] FindPattern -> 0x7FF6441AC063
+[21:39:41:021] [debug] Offset
+[21:39:41:021] [debug] Found at 0x7FF6441AC066
+[21:39:42:270] [info] Inject check
+[21:39:42:271] [info] Commends check 0
+[21:39:45:283] [info] Inject check
+[21:39:45:284] [info] Commends check 0
+[21:39:48:299] [info] Inject check
+[21:39:48:315] [info] Commends check 0
+[21:39:51:329] [info] Inject check
+[21:39:51:330] [info] Commends check 0
+[21:39:54:342] [info] Inject check
+[21:39:54:343] [info] Commends check 0
+[21:39:57:357] [info] Inject check
+[21:39:57:358] [info] Commends check 0
+[21:40:00:364] [info] Inject check
+[21:40:00:365] [info] Commends check 0
+[21:40:03:394] [info] Inject check
+[21:40:03:396] [info] Commends check 0
+[21:40:06:407] [info] Inject check
+[21:40:06:408] [info] Commends check 0
+[21:40:09:429] [info] Inject check
+[21:40:09:431] [info] Commends check 0
+[21:40:12:446] [info] Inject check
+[21:40:12:463] [info] Commends check 0
+[21:40:15:493] [info] Inject check
+[21:40:15:495] [info] Commends check 0
+[21:40:18:517] [info] Inject check
+[21:40:18:519] [info] Commends check 0
+[21:40:21:548] [info] Inject check
+[21:40:21:549] [info] Commends check 0
+[21:40:24:557] [info] Inject check
+[21:40:24:575] [info] Commends check 0
+[21:40:27:612] [info] Inject check
+[21:40:27:614] [info] Commends check 0
+[21:40:30:641] [info] Inject check
+[21:40:30:642] [info] Commends check 0
+[21:40:33:659] [info] Inject check
+[21:40:33:661] [info] Commends check 0
+[21:40:36:680] [info] Inject check
+[21:40:36:680] [info] Commends check 0
+[21:40:37:330] [debug] --------------------------------------------------------------------------------
+[21:40:37:330] [debug] Searching for pattern GetCharacterInvokeInfoOffset in process module War-Win64-Shipping.exe
+[21:40:37:349] [debug] FindPattern -> 0x7FF644136A98
+[21:40:37:349] [debug] Offset
+[21:40:37:349] [debug] Found at 0x7FF644136A9C
+[21:40:37:349] [debug] --------------------------------------------------------------------------------
+[21:40:37:349] [debug] Searching for pattern GetCalcMuzzlePosition in process module War-Win64-Shipping.exe
+[21:40:37:366] [debug] FindPattern -> 0x7FF644136D48
+[21:40:37:366] [debug] Abs
+[21:40:37:366] [debug] Found at 0x7FF64411A140
+[21:40:39:691] [info] Inject check
+[21:40:39:705] [info] Commends check 0
+[21:40:42:718] [info] Inject check
+[21:40:42:721] [info] Commends check 0
+[21:40:45:741] [info] Inject check
+[21:40:45:745] [info] Commends check 0
+[21:40:48:768] [info] Inject check
+[21:40:48:771] [info] Commends check 0
+[21:40:51:787] [info] Inject check
+[21:40:51:792] [info] Commends check 0
+[21:40:54:170] [debug] --------------------------------------------------------------------------------
+[21:40:54:170] [debug] Searching for pattern CratePayloadToUnkIndex in process module War-Win64-Shipping.exe
+[21:40:54:191] [debug] FindPattern -> 0x7FF644073908
+[21:40:54:191] [debug] Abs
+[21:40:54:191] [debug] Found at 0x7FF647DDCE48
+[21:40:54:191] [debug] --------------------------------------------------------------------------------
+[21:40:54:191] [debug] Searching for pattern UnkIndexToActor in process module War-Win64-Shipping.exe
+[21:40:54:206] [debug] FindPattern -> 0x7FF64424329D
+[21:40:54:206] [debug] Abs
+[21:40:54:206] [debug] Found at 0x7FF644075900
+[21:40:54:814] [info] Inject check
+[21:40:54:815] [info] Commends check 0
+[21:40:57:836] [info] Inject check
+[21:40:57:838] [info] Commends check 0
+[21:41:00:859] [info] Inject check
+[21:41:00:860] [info] Commends check 0
+[21:41:03:892] [info] Inject check
+[21:41:03:893] [info] Commends check 0
+[21:41:06:908] [info] Inject check
+[21:41:06:910] [info] Commends check 0
+[21:41:09:941] [info] Inject check
+[21:41:09:953] [info] Commends check 0
+[21:41:12:965] [info] Inject check
+[21:41:12:966] [info] Commends check 0
+[21:41:15:990] [info] Inject check
+[21:41:15:994] [info] Commends check 0
+[21:41:19:017] [info] Inject check
+[21:41:19:027] [info] Commends check 0
+[21:41:22:035] [info] Inject check
+[21:41:22:039] [info] Commends check 0
+[21:41:25:067] [info] Inject check
+[21:41:25:068] [info] Commends check 0
+[21:41:28:080] [info] Inject check
+[21:41:28:081] [info] Commends check 0
+[21:41:31:091] [info] Inject check
+[21:41:31:106] [info] Commends check 0
+[21:41:34:116] [info] Inject check
+[21:41:34:117] [info] Commends check 0
+[21:41:37:141] [info] Inject check
+[21:41:37:143] [info] Commends check 0
+[21:41:40:153] [info] Inject check
+[21:41:40:170] [info] Commends check 0
+[21:41:43:178] [info] Inject check
+[21:41:43:179] [info] Commends check 0
+[21:41:46:192] [info] Inject check
+[21:41:46:193] [info] Commends check 0
+[21:41:49:208] [info] Inject check
+[21:41:49:209] [info] Commends check 0
+[21:41:52:232] [info] Inject check
+[21:41:52:233] [info] Commends check 0
+[21:41:55:259] [info] Inject check
+[21:41:55:260] [info] Commends check 0
+[21:41:58:276] [info] Inject check
+[21:41:58:277] [info] Commends check 0
+[21:42:01:305] [info] Inject check
+[21:42:01:306] [info] Commends check 0
+[21:42:04:337] [info] Inject check
+[21:42:04:338] [info] Commends check 0
+[21:42:07:365] [info] Inject check
+[21:42:07:366] [info] Commends check 0
+[21:42:10:383] [info] Inject check
+[21:42:10:384] [info] Commends check 0
+[21:42:13:406] [info] Inject check
+[21:42:13:407] [info] Commends check 0
+[21:42:16:430] [info] Inject check
+[21:42:16:431] [info] Commends check 0
+[21:42:19:457] [info] Inject check
+[21:42:19:459] [info] Commends check 0
+[21:42:22:472] [info] Inject check
+[21:42:22:485] [info] Commends check 0
+[21:42:25:496] [info] Inject check
+[21:42:25:497] [info] Commends check 0
+[21:42:28:511] [info] Inject check
+[21:42:28:512] [info] Commends check 0
+[21:42:31:529] [info] Inject check
+[21:42:31:529] [info] Commends check 0
+[21:42:34:558] [info] Inject check
+[21:42:34:560] [info] Commends check 0
+[21:42:37:576] [info] Inject check
+[21:42:37:577] [info] Commends check 0
+[21:42:40:601] [info] Inject check
+[21:42:40:602] [info] Commends check 0
+[21:42:43:627] [info] Inject check
+[21:42:43:628] [info] Commends check 0
+[21:42:46:656] [info] Inject check
+[21:42:46:657] [info] Commends check 0
+[21:42:49:690] [info] Inject check
+[21:42:49:692] [info] Commends check 0
+[21:42:52:712] [info] Inject check
+[21:42:52:714] [info] Commends check 0
+[21:42:55:741] [info] Inject check
+[21:42:55:742] [info] Commends check 0
+[21:42:58:758] [info] Inject check
+[21:42:58:759] [info] Commends check 0
+[21:43:01:791] [info] Inject check
+[21:43:01:791] [info] Commends check 0
+[21:43:04:806] [info] Inject check
+[21:43:04:807] [info] Commends check 0
+[21:43:07:825] [info] Inject check
+[21:43:07:826] [info] Commends check 0
+[21:43:10:858] [info] Inject check
+[21:43:10:859] [info] Commends check 0
+[21:43:13:876] [info] Inject check
+[21:43:13:877] [info] Commends check 0
+[21:43:16:899] [info] Inject check
+[21:43:16:900] [info] Commends check 0
+[21:43:19:933] [info] Inject check
+[21:43:19:937] [info] Commends check 0
+[21:43:21:022] [debug] --------------------------------------------------------------------------------
+[21:43:21:022] [debug] Searching for pattern FillRegimentString in process module War-Win64-Shipping.exe
+[21:43:21:047] [debug] FindPattern
+[21:43:21:048] [debug] Found at 0x7FF643E6A7E0
+[21:43:22:951] [info] Inject check
+[21:43:22:952] [info] Commends check 0
+[21:43:25:980] [info] Inject check
+[21:43:25:981] [info] Commends check 0
+[21:43:29:000] [info] Inject check
+[21:43:29:001] [info] Commends check 0
+[21:43:32:018] [info] Inject check
+[21:43:32:020] [info] Commends check 0
+[21:43:35:032] [info] Inject check
+[21:43:35:034] [info] Commends check 0
+[21:43:38:047] [info] Inject check
+[21:43:38:048] [info] Commends check 0
+[21:43:41:059] [info] Inject check
+[21:43:41:060] [info] Commends check 0
+[21:43:44:079] [info] Inject check
+[21:43:44:080] [info] Commends check 0
+[21:43:47:091] [info] Inject check
+[21:43:47:092] [info] Commends check 0
+[21:43:50:117] [info] Inject check
+[21:43:50:119] [info] Commends check 0
+[21:43:53:149] [info] Inject check
+[21:43:53:150] [info] Commends check 0
+[21:43:56:177] [info] Inject check
+[21:43:56:178] [info] Commends check 0
+[21:43:59:199] [info] Inject check
+[21:43:59:201] [info] Commends check 0
+[21:44:02:210] [info] Inject check
+[21:44:02:211] [info] Commends check 0
+[21:44:05:220] [info] Inject check
+[21:44:05:221] [info] Commends check 0
+[21:44:08:241] [info] Inject check
+[21:44:08:243] [info] Commends check 0
+[21:44:11:256] [info] Inject check
+[21:44:11:257] [info] Commends check 0
+[21:44:14:272] [info] Inject check
+[21:44:14:288] [info] Commends check 0
+[21:44:17:308] [info] Inject check
+[21:44:17:309] [info] Commends check 0
+[21:44:25:382] [info] Inject check
+[21:44:25:383] [info] Commends check 0
+[21:44:28:394] [info] Inject check
+[21:44:28:396] [info] Commends check 0
+[21:44:31:430] [info] Inject check
+[21:44:31:430] [info] Commends check 0
+[21:44:34:457] [info] Inject check
+[21:44:34:458] [info] Commends check 0
+[21:44:37:479] [info] Inject check
+[21:44:37:483] [info] Commends check 0
+[21:44:40:493] [info] Inject check
+[21:44:40:505] [info] Commends check 0
+[21:44:43:520] [info] Inject check
+[21:44:43:523] [info] Commends check 0
+[21:44:46:542] [info] Inject check
+[21:44:46:554] [info] Commends check 0
+[21:44:49:564] [info] Inject check
+[21:44:49:575] [info] Commends check 0
+[21:44:52:592] [info] Inject check
+[21:44:52:598] [info] Commends check 0
+[21:44:55:617] [info] Inject check
+[21:44:55:622] [info] Commends check 0
+[21:44:58:646] [info] Inject check
+[21:44:58:647] [info] Commends check 0
+[21:45:01:663] [info] Inject check
+[21:45:01:669] [info] Commends check 0
+[21:45:04:681] [info] Inject check
+[21:45:04:682] [info] Commends check 0
+[21:45:07:697] [info] Inject check
+[21:45:07:703] [info] Commends check 0
+[21:45:10:713] [info] Inject check
+[21:45:10:720] [info] Commends check 0
+[21:45:13:742] [info] Inject check
+[21:45:13:752] [info] Commends check 0
+[21:45:16:775] [info] Inject check
+[21:45:16:783] [info] Commends check 0
+[21:45:19:802] [info] Inject check
+[21:45:19:806] [info] Commends check 0
+[21:45:22:814] [info] Inject check
+[21:45:22:825] [info] Commends check 0
+[21:45:25:851] [info] Inject check
+[21:45:25:863] [info] Commends check 0
+[21:45:28:887] [info] Inject check
+[21:45:28:892] [info] Commends check 0
+[21:45:31:920] [info] Inject check
+[21:45:31:926] [info] Commends check 0
+[21:45:34:936] [info] Inject check
+[21:45:34:942] [info] Commends check 0
+[21:45:37:966] [info] Inject check
+[21:45:37:977] [info] Commends check 0
+[21:45:40:996] [info] Inject check
+[21:45:41:000] [info] Commends check 0
+[21:45:44:021] [info] Inject check
+[21:45:44:025] [info] Commends check 0
+[21:45:47:042] [info] Inject check
+[21:45:47:054] [info] Commends check 0
+[21:45:50:082] [info] Inject check
+[21:45:50:085] [info] Commends check 0
+[21:45:53:101] [info] Inject check
+[21:45:53:102] [info] Commends check 0
+[21:45:56:112] [info] Inject check
+[21:45:56:116] [info] Commends check 0
+[21:45:59:124] [info] Inject check
+[21:45:59:130] [info] Commends check 0
+[21:46:02:148] [info] Inject check
+[21:46:02:152] [info] Commends check 0
+[21:46:05:169] [info] Inject check
+[21:46:05:181] [info] Commends check 0
+[21:46:08:202] [info] Inject check
+[21:46:08:203] [info] Commends check 0
+[21:46:11:218] [info] Inject check
+[21:46:11:223] [info] Commends check 0
+[21:46:14:242] [info] Inject check
+[21:46:14:246] [info] Commends check 0
+[21:46:17:265] [info] Inject check
+[21:46:17:267] [info] Commends check 0
+[21:46:20:275] [info] Inject check
+[21:46:20:282] [info] Commends check 0
+[21:46:23:310] [info] Inject check
+[21:46:23:315] [info] Commends check 0
+[21:46:26:346] [info] Inject check
+[21:46:26:352] [info] Commends check 0
+[21:46:29:090] [debug] --------------------------------------------------------------------------------
+[21:46:29:090] [debug] Searching for pattern StateOffset in process module War-Win64-Shipping.exe
+[21:46:29:111] [debug] FindPattern -> 0x7FF644124D14
+[21:46:29:111] [debug] Offset
+[21:46:29:111] [debug] Found at 0x7FF644124D16
+[21:46:29:122] [debug] --------------------------------------------------------------------------------
+[21:46:29:122] [debug] Searching for pattern CalcBoundsVirtualIndex in process module War-Win64-Shipping.exe
+[21:46:29:139] [debug] FindPattern -> 0x7FF645A8C55D
+[21:46:29:139] [debug] Offset
+[21:46:29:139] [debug] Found at 0x7FF645A8C55F
+[21:46:29:141] [debug] --------------------------------------------------------------------------------
+[21:46:29:142] [debug] Searching for pattern Fire in process module War-Win64-Shipping.exe
+[21:46:29:155] [debug] FindPattern
+[21:46:29:155] [debug] Found at 0x7FF644124720
+[21:46:29:155] [debug] --------------------------------------------------------------------------------
+[21:46:29:155] [debug] Searching for pattern StopFire in process module War-Win64-Shipping.exe
+[21:46:29:173] [debug] FindPattern
+[21:46:29:173] [debug] Found at 0x7FF644124FB0
+[21:46:29:361] [info] Inject check
+[21:46:29:363] [info] Commends check 0
+[21:46:32:375] [info] Inject check
+[21:46:32:381] [info] Commends check 0
+[21:46:35:396] [info] Inject check
+[21:46:35:407] [info] Commends check 0
+[21:46:38:417] [info] Inject check
+[21:46:38:422] [info] Commends check 0
+[21:46:41:442] [info] Inject check
+[21:46:41:446] [info] Commends check 0
+[21:46:44:468] [info] Inject check
+[21:46:44:480] [info] Commends check 0
+[21:46:47:501] [info] Inject check
+[21:46:47:512] [info] Commends check 0
+[21:46:50:538] [info] Inject check
+[21:46:50:544] [info] Commends check 0
+[21:46:53:564] [info] Inject check
+[21:46:53:569] [info] Commends check 0
+[21:46:56:587] [info] Inject check
+[21:46:56:588] [info] Commends check 0
+[21:46:58:888] [debug] --------------------------------------------------------------------------------
+[21:46:58:888] [debug] Searching for pattern CapsuleTraceSingle in process module War-Win64-Shipping.exe
+[21:46:58:906] [debug] FindPattern -> 0x7FF6460C53DB
+[21:46:58:906] [debug] Offset -> 0x7FF6460C53FC
+[21:46:58:906] [debug] Abs
+[21:46:58:906] [debug] Found at 0x7FF645BF8B20
+[21:46:59:615] [info] Inject check
+[21:46:59:619] [info] Commends check 0
+[21:47:02:631] [info] Inject check
+[21:47:02:636] [info] Commends check 0
+[21:47:05:653] [info] Inject check
+[21:47:05:664] [info] Commends check 0
+[21:47:08:687] [info] Inject check
+[21:47:08:694] [info] Commends check 0
+[21:47:11:710] [info] Inject check
+[21:47:11:716] [info] Commends check 0
+[21:47:14:733] [info] Inject check
+[21:47:14:743] [info] Commends check 0
+[21:47:17:752] [info] Inject check
+[21:47:17:757] [info] Commends check 0
+[21:47:20:771] [info] Inject check
+[21:47:20:777] [info] Commends check 0
+[21:47:23:799] [info] Inject check
+[21:47:23:810] [info] Commends check 0
+[21:47:26:830] [info] Inject check
+[21:47:26:834] [info] Commends check 0
+[21:47:29:851] [info] Switching to screen: 20 0x1fc46250040
+[21:47:29:851] [info] Using vehicle seat
+[21:47:29:851] [debug] --------------------------------------------------------------------------------
+[21:47:29:851] [debug] Searching for pattern UseObject in process module War-Win64-Shipping.exe
+[21:47:29:872] [debug] FindPattern
+[21:47:29:872] [debug] Found at 0x7FF6443E39B0
+[21:47:29:876] [info] Inject check
+[21:47:29:888] [info] Commends check 0
+[21:47:30:466] [info] Transfering: Metal
+[21:47:30:571] [info] Transfering: Metal
+[21:47:30:672] [info] Transfering: Metal
+[21:47:30:787] [error] Auto Farm: UnloadLogic No load place found. false
+[21:47:32:910] [info] Inject check
+[21:47:32:916] [info] Commends check 0
+[21:47:35:924] [info] Inject check
+[21:47:35:935] [info] Commends check 0
+[21:47:38:956] [info] Inject check
+[21:47:38:963] [info] Commends check 0
+[21:47:41:987] [info] Inject check
+[21:47:41:998] [info] Commends check 0
+[21:47:45:015] [info] Inject check
+[21:47:45:020] [info] Commends check 0
+[21:47:48:035] [info] Inject check
+[21:47:48:041] [info] Commends check 0
+[21:47:51:063] [info] Inject check
+[21:47:51:068] [info] Commends check 0
+[21:47:54:092] [info] Inject check
+[21:47:54:097] [info] Commends check 0
+[21:47:57:124] [info] Inject check
+[21:47:57:131] [info] Commends check 0
+[21:48:00:158] [info] Inject check
+[21:48:00:164] [info] Commends check 0
+[21:48:03:177] [info] Inject check
+[21:48:03:182] [info] Commends check 0
+[21:48:06:194] [info] Inject check
+[21:48:06:199] [info] Commends check 0
+[21:48:09:216] [info] Inject check
+[21:48:09:223] [info] Commends check 0
+[21:48:12:235] [info] Inject check
+[21:48:12:236] [info] Commends check 0
+[21:48:15:248] [info] Inject check
+[21:48:15:249] [info] Commends check 0
+[21:48:18:261] [info] Inject check
+[21:48:18:265] [info] Commends check 0
+[21:48:21:293] [info] Inject check
+[21:48:21:299] [info] Commends check 0
+[21:48:24:320] [info] Inject check
+[21:48:24:326] [info] Commends check 0
+[21:48:27:343] [info] Inject check
+[21:48:27:344] [info] Commends check 0
+[21:48:30:363] [info] Inject check
+[21:48:30:370] [info] Commends check 0
+[21:48:33:391] [info] Inject check
+[21:48:33:397] [info] Commends check 0
+[21:48:36:412] [info] Inject check
+[21:48:36:418] [info] Commends check 0
+[21:48:39:459] [info] Inject check
+[21:48:39:460] [info] Commends check 0
+[21:48:42:479] [info] Inject check
+[21:48:42:481] [info] Commends check 0
+[21:48:45:509] [info] Inject check
+[21:48:45:514] [info] Commends check 0
+[21:48:48:531] [info] Inject check
+[21:48:48:537] [info] Commends check 0
+[21:48:51:558] [info] Inject check
+[21:48:51:563] [info] Commends check 0
+[21:48:54:571] [info] Inject check
+[21:48:54:582] [info] Commends check 0
+[21:48:57:598] [info] Inject check
+[21:48:57:605] [info] Commends check 0
+[21:49:00:629] [info] Inject check
+[21:49:00:634] [info] Commends check 0
+[21:49:03:664] [info] Inject check
+[21:49:03:668] [info] Commends check 0
+[21:49:06:691] [info] Inject check
+[21:49:06:704] [info] Commends check 0
+[21:49:09:718] [info] Inject check
+[21:49:09:729] [info] Commends check 0
+[21:49:12:739] [info] Inject check
+[21:49:12:745] [info] Commends check 0
+[21:49:15:769] [info] Inject check
+[21:49:15:776] [info] Commends check 0
+[21:49:18:793] [info] Inject check
+[21:49:18:803] [info] Commends check 0
+[21:49:21:826] [info] Inject check
+[21:49:21:837] [info] Commends check 0
+[21:49:24:865] [info] Inject check
+[21:49:24:869] [info] Commends check 0
+[21:49:27:889] [info] Inject check
+[21:49:27:893] [info] Commends check 0
+[21:49:30:909] [info] Inject check
+[21:49:30:915] [info] Commends check 0
+[21:49:33:932] [info] Inject check
+[21:49:33:933] [info] Commends check 0
+[21:49:36:954] [info] Inject check
+[21:49:36:957] [info] Commends check 0
+[21:49:39:981] [info] Inject check
+[21:49:39:985] [info] Commends check 0
+[21:49:43:000] [info] Inject check
+[21:49:43:002] [info] Commends check 0
+[21:49:46:027] [info] Inject check
+[21:49:46:032] [info] Commends check 0
+[21:49:49:050] [info] Inject check
+[21:49:49:051] [info] Commends check 0
+[21:49:52:080] [info] Inject check
+[21:49:52:085] [info] Commends check 0
+[21:49:55:107] [info] Inject check
+[21:49:55:108] [info] Commends check 0
+[21:49:58:125] [info] Inject check
+[21:49:58:131] [info] Commends check 0
+[21:50:01:154] [info] Inject check
+[21:50:01:165] [info] Commends check 0
+[21:50:04:188] [info] Inject check
+[21:50:04:198] [info] Commends check 0
+[21:50:07:215] [info] Inject check
+[21:50:07:222] [info] Commends check 0
+[21:50:10:239] [info] Inject check
+[21:50:10:245] [info] Commends check 0
+[21:50:13:262] [info] Inject check
+[21:50:13:271] [info] Commends check 0
+[21:50:16:290] [info] Inject check
+[21:50:16:295] [info] Commends check 0
+[21:50:19:311] [info] Inject check
+[21:50:19:321] [info] Commends check 0
+[21:50:22:338] [info] Inject check
+[21:50:22:345] [info] Commends check 0
+[21:50:25:359] [info] Inject check
+[21:50:25:369] [info] Commends check 0
+[21:50:28:389] [info] Inject check
+[21:50:28:397] [info] Commends check 0
+[21:50:31:421] [info] Inject check
+[21:50:31:428] [info] Commends check 0
+[21:50:34:450] [info] Inject check
+[21:50:34:458] [info] Commends check 0
+[21:50:37:467] [info] Inject check
+[21:50:37:476] [info] Commends check 0
+[21:50:40:484] [info] Inject check
+[21:50:40:493] [info] Commends check 0
+[21:50:43:518] [info] Inject check
+[21:50:43:519] [info] Commends check 0
+[21:50:46:543] [info] Inject check
+[21:50:46:549] [info] Commends check 0
+[21:50:49:562] [info] Inject check
+[21:50:49:572] [info] Commends check 0
+[21:50:52:589] [info] Inject check
+[21:50:52:595] [info] Commends check 0
+[21:50:55:618] [info] Inject check
+[21:50:55:625] [info] Commends check 0
+[21:50:58:636] [info] Inject check
+[21:50:58:643] [info] Commends check 0
+[21:51:01:654] [info] Inject check
+[21:51:01:665] [info] Commends check 0
+[21:51:04:691] [info] Inject check
+[21:51:04:696] [info] Commends check 0
+[21:51:07:715] [info] Inject check
+[21:51:07:726] [info] Commends check 0
+[21:51:10:751] [info] Inject check
+[21:51:10:758] [info] Commends check 0
+[21:51:13:778] [info] Inject check
+[21:51:13:784] [info] Commends check 0
+[21:51:16:808] [info] Inject check
+[21:51:16:819] [info] Commends check 0
+[21:51:19:843] [info] Inject check
+[21:51:19:850] [info] Commends check 0
+[21:51:22:857] [info] Inject check
+[21:51:22:867] [info] Commends check 0
+[21:51:25:885] [info] Inject check
+[21:51:25:891] [info] Commends check 0
+[21:51:28:908] [info] Inject check
+[21:51:28:918] [info] Commends check 0
+[21:51:31:933] [info] Inject check
+[21:51:31:939] [info] Commends check 0
+[21:51:34:956] [info] Inject check
+[21:51:34:966] [info] Commends check 0
+[21:51:37:991] [info] Inject check
+[21:51:37:998] [info] Commends check 0
+[21:51:41:015] [info] Inject check
+[21:51:41:026] [info] Commends check 0
+[21:51:44:044] [info] Inject check
+[21:51:44:054] [info] Commends check 0
+[21:51:47:078] [info] Inject check
+[21:51:47:088] [info] Commends check 0
+[21:51:50:107] [info] Inject check
+[21:51:50:112] [info] Commends check 0
+[21:51:53:133] [info] Inject check
+[21:51:53:143] [info] Commends check 0
+[21:51:56:159] [info] Inject check
+[21:51:56:160] [info] Commends check 0
+[21:51:59:173] [info] Inject check
+[21:51:59:179] [info] Commends check 0
+[21:52:02:199] [info] Inject check
+[21:52:02:205] [info] Commends check 0
+[21:52:05:232] [info] Inject check
+[21:52:05:238] [info] Commends check 0
+[21:52:08:255] [info] Inject check
+[21:52:08:265] [info] Commends check 0
+[21:52:11:280] [info] Inject check
+[21:52:11:286] [info] Commends check 0
+[21:52:14:309] [info] Inject check
+[21:52:14:315] [info] Commends check 0
+[21:52:17:338] [info] Inject check
+[21:52:17:349] [info] Commends check 0
+[21:52:20:365] [info] Inject check
+[21:52:20:372] [info] Commends check 0
+[21:52:23:400] [info] Inject check
+[21:52:23:406] [info] Commends check 0
+[21:52:26:422] [info] Inject check
+[21:52:26:435] [info] Commends check 0
+[21:52:29:456] [info] Inject check
+[21:52:29:466] [info] Commends check 0
+[21:52:32:492] [info] Inject check
+[21:52:32:498] [info] Commends check 0
+[21:52:35:515] [info] Inject check
+[21:52:35:525] [info] Commends check 0
+[21:52:38:535] [info] Inject check
+[21:52:38:546] [info] Commends check 0
+[21:52:41:565] [info] Inject check
+[21:52:41:570] [info] Commends check 0
+[21:52:44:598] [info] Inject check
+[21:52:44:604] [info] Commends check 0
+[21:52:47:616] [info] Inject check
+[21:52:47:622] [info] Commends check 0
+[21:52:50:635] [info] Inject check
+[21:52:50:646] [info] Commends check 0
+[21:52:53:657] [info] Inject check
+[21:52:53:664] [info] Commends check 0
+[21:52:56:680] [info] Inject check
+[21:52:56:690] [info] Commends check 0
+[21:52:59:709] [info] Inject check
+[21:52:59:718] [info] Commends check 0
+[21:53:02:740] [info] Inject check
+[21:53:02:751] [info] Commends check 0
+[21:53:05:768] [info] Inject check
+[21:53:05:777] [info] Commends check 0
+[21:53:08:800] [info] Inject check
+[21:53:08:807] [info] Commends check 0
+[21:53:11:827] [info] Inject check
+[21:53:11:833] [info] Commends check 0
+[21:53:14:852] [info] Inject check
+[21:53:14:857] [info] Commends check 0
+[21:53:17:877] [info] Inject check
+[21:53:17:888] [info] Commends check 0
+[21:53:20:910] [info] Inject check
+[21:53:20:916] [info] Commends check 0
+[21:53:23:941] [info] Inject check
+[21:53:23:947] [info] Commends check 0
+[21:53:26:964] [info] Inject check
+[21:53:26:975] [info] Commends check 0
+[21:53:29:997] [info] Inject check
+[21:53:30:008] [info] Commends check 0
+[21:53:33:019] [info] Inject check
+[21:53:33:021] [info] Commends check 0
+[21:53:36:038] [info] Inject check
+[21:53:36:050] [info] Commends check 0
+[21:53:39:061] [info] Inject check
+[21:53:39:068] [info] Commends check 0
+[21:53:42:087] [info] Inject check
+[21:53:42:093] [info] Commends check 0
+[21:53:45:127] [info] Inject check
+[21:53:45:137] [info] Commends check 0
+[21:53:48:156] [info] Inject check
+[21:53:48:163] [info] Commends check 0
+[21:53:51:175] [info] Inject check
+[21:53:51:181] [info] Commends check 0
+[21:53:54:199] [info] Inject check
+[21:53:54:209] [info] Commends check 0
+[21:53:57:233] [info] Inject check
+[21:53:57:242] [info] Commends check 0
+[21:54:00:265] [info] Inject check
+[21:54:00:272] [info] Commends check 0
+[21:54:03:285] [info] Inject check
+[21:54:03:291] [info] Commends check 0
+[21:54:06:314] [info] Inject check
+[21:54:06:321] [info] Commends check 0
+[21:54:09:339] [info] Inject check
+[21:54:09:345] [info] Commends check 0
+[21:54:12:362] [info] Inject check
+[21:54:12:373] [info] Commends check 0
+[21:54:15:393] [info] Inject check
+[21:54:15:398] [info] Commends check 0
+[21:54:18:426] [info] Inject check
+[21:54:18:431] [info] Commends check 0
+[21:54:21:442] [info] Inject check
+[21:54:21:448] [info] Commends check 0
+[21:54:24:473] [info] Inject check
+[21:54:24:484] [info] Commends check 0
+[21:54:27:509] [info] Inject check
+[21:54:27:514] [info] Commends check 0
+[21:54:30:536] [info] Inject check
+[21:54:30:543] [info] Commends check 0
+[21:54:33:566] [info] Inject check
+[21:54:33:577] [info] Commends check 0
+[21:54:36:600] [info] Inject check
+[21:54:36:611] [info] Commends check 0
+[21:54:39:636] [info] Inject check
+[21:54:39:642] [info] Commends check 0
+[21:54:42:658] [info] Inject check
+[21:54:42:669] [info] Commends check 0
+[21:54:45:684] [info] Inject check
+[21:54:45:695] [info] Commends check 0
+[21:54:48:713] [info] Inject check
+[21:54:48:719] [info] Commends check 0
+[21:54:51:740] [info] Inject check
+[21:54:51:745] [info] Commends check 0
+[21:54:54:764] [info] Inject check
+[21:54:54:770] [info] Commends check 0
+[21:54:57:787] [info] Inject check
+[21:54:57:798] [info] Commends check 0
+[21:55:00:815] [info] Inject check
+[21:55:00:826] [info] Commends check 0
+[21:55:03:842] [info] Inject check
+[21:55:03:852] [info] Commends check 0
+[21:55:06:870] [info] Inject check
+[21:55:06:876] [info] Commends check 0
+[21:55:09:896] [info] Inject check
+[21:55:09:902] [info] Commends check 0
+[21:55:12:921] [info] Inject check
+[21:55:12:927] [info] Commends check 0
+[21:55:15:949] [info] Inject check
+[21:55:15:954] [info] Commends check 0
+[21:55:18:970] [info] Inject check
+[21:55:18:981] [info] Commends check 0
+[21:55:21:998] [info] Inject check
+[21:55:22:003] [info] Commends check 0
+[21:55:25:025] [info] Inject check
+[21:55:25:032] [info] Commends check 0
+[21:55:28:052] [info] Inject check
+[21:55:28:058] [info] Commends check 0
+[21:55:31:075] [info] Inject check
+[21:55:31:085] [info] Commends check 0
+[21:55:34:101] [info] Inject check
+[21:55:34:107] [info] Commends check 0
+[21:55:37:124] [info] Inject check
+[21:55:37:131] [info] Commends check 0
+[21:55:40:147] [info] Inject check
+[21:55:40:153] [info] Commends check 0
+[21:55:43:170] [info] Inject check
+[21:55:43:181] [info] Commends check 0
+[21:55:46:195] [info] Inject check
+[21:55:46:202] [info] Commends check 0
+[21:55:49:220] [info] Inject check
+[21:55:49:227] [info] Commends check 0
+[21:55:52:244] [info] Inject check
+[21:55:52:251] [info] Commends check 0
+[21:55:55:271] [info] Inject check
+[21:55:55:277] [info] Commends check 0
+[21:55:58:295] [info] Inject check
+[21:55:58:304] [info] Commends check 0
+[21:56:01:327] [info] Inject check
+[21:56:01:337] [info] Commends check 0
+[21:56:04:351] [info] Inject check
+[21:56:04:361] [info] Commends check 0
+[21:56:07:384] [info] Inject check
+[21:56:07:391] [info] Commends check 0
+[21:56:10:404] [info] Inject check
+[21:56:10:413] [info] Commends check 0
+[21:56:13:431] [info] Inject check
+[21:56:13:437] [info] Commends check 0
+[21:56:16:455] [info] Inject check
+[21:56:16:461] [info] Commends check 0
+[21:56:19:482] [info] Inject check
+[21:56:19:487] [info] Commends check 0
+[21:56:22:513] [info] Inject check
+[21:56:22:518] [info] Commends check 0
+[21:56:25:536] [info] Inject check
+[21:56:25:543] [info] Commends check 0
+[21:56:28:569] [info] Inject check
+[21:56:28:576] [info] Commends check 0
+[21:56:31:603] [info] Inject check
+[21:56:31:613] [info] Commends check 0
+[21:56:34:634] [info] Inject check
+[21:56:34:640] [info] Commends check 0
+[21:56:37:657] [info] Inject check
+[21:56:37:667] [info] Commends check 0
+[21:56:40:684] [info] Inject check
+[21:56:40:691] [info] Commends check 0
+[21:56:43:708] [info] Inject check
+[21:56:43:717] [info] Commends check 0
+[21:56:46:731] [info] Inject check
+[21:56:46:743] [info] Commends check 0
+[21:56:49:763] [info] Inject check
+[21:56:49:773] [info] Commends check 0
+[21:56:52:797] [info] Inject check
+[21:56:52:807] [info] Commends check 0
+[21:56:55:822] [info] Inject check
+[21:56:55:832] [info] Commends check 0
+[21:56:58:851] [info] Inject check
+[21:56:58:861] [info] Commends check 0
+[21:57:01:883] [info] Inject check
+[21:57:01:891] [info] Commends check 0
+[21:57:04:903] [info] Inject check
+[21:57:04:909] [info] Commends check 0
+[21:57:07:919] [info] Inject check
+[21:57:07:927] [info] Commends check 0
+[21:57:10:954] [info] Inject check
+[21:57:10:956] [info] Commends check 0
+[21:57:13:968] [info] Inject check
+[21:57:13:969] [info] Commends check 0
+[21:57:16:979] [info] Inject check
+[21:57:16:980] [info] Commends check 0
+[21:57:20:002] [info] Inject check
+[21:57:20:008] [info] Commends check 0
+[21:57:23:035] [info] Inject check
+[21:57:23:041] [info] Commends check 0
+[21:57:26:060] [info] Inject check
+[21:57:26:061] [info] Commends check 0
+[21:57:29:086] [info] Inject check
+[21:57:29:095] [info] Commends check 0
+[21:57:32:118] [info] Inject check
+[21:57:32:122] [info] Commends check 0
+[21:57:35:144] [info] Inject check
+[21:57:35:150] [info] Commends check 0
+[21:57:38:167] [info] Inject check
+[21:57:38:179] [info] Commends check 0
+[21:57:41:186] [info] Inject check
+[21:57:41:192] [info] Commends check 0
+[21:57:44:211] [info] Inject check
+[21:57:44:221] [info] Commends check 0
+[21:57:47:241] [info] Inject check
+[21:57:47:244] [info] Commends check 0
+[21:57:50:274] [info] Inject check
+[21:57:50:278] [info] Commends check 0
+[21:57:53:292] [info] Inject check
+[21:57:53:297] [info] Commends check 0
+[21:57:55:203] [debug] --------------------------------------------------------------------------------
+[21:57:55:203] [debug] Searching for pattern GetWindDirection in process module War-Win64-Shipping.exe
+[21:57:55:227] [debug] FindPattern
+[21:57:55:227] [debug] Found at 0x7FF64417EC20
+[21:57:55:227] [debug] --------------------------------------------------------------------------------
+[21:57:55:227] [debug] Searching for pattern GetWindSpeed in process module War-Win64-Shipping.exe
+[21:57:55:246] [debug] FindPattern
+[21:57:55:246] [debug] Found at 0x7FF64417ED30
+[21:57:55:256] [debug] --------------------------------------------------------------------------------
+[21:57:55:256] [debug] Searching for pattern GetMuzzlePositionForMount in process module War-Win64-Shipping.exe
+[21:57:55:274] [debug] FindPattern
+[21:57:55:274] [debug] Found at 0x7FF6440C1990
+[21:57:55:276] [debug] --------------------------------------------------------------------------------
+[21:57:55:276] [debug] Searching for pattern CalculateArtyHit in process module War-Win64-Shipping.exe
+[21:57:55:292] [debug] FindPattern -> 0x7FF64434042E
+[21:57:55:292] [debug] Abs
+[21:57:55:292] [debug] Found at 0x7FF644011B40
+[21:57:55:318] [debug] --------------------------------------------------------------------------------
+[21:57:55:318] [debug] Searching for pattern GetInterface in process module War-Win64-Shipping.exe
+[21:57:55:333] [debug] FindPattern -> 0x7FF6440C402A
+[21:57:55:333] [debug] Abs
+[21:57:55:333] [debug] Found at 0x7FF644B93340
+[21:57:55:333] [debug] --------------------------------------------------------------------------------
+[21:57:55:333] [debug] Searching for pattern GetMountAimDistance in process module War-Win64-Shipping.exe
+[21:57:55:347] [debug] FindPattern -> 0x7FF644340377
+[21:57:55:347] [debug] Abs
+[21:57:55:347] [debug] Found at 0x7FF6440C4100
+[21:57:56:315] [info] Inject check
+[21:57:56:319] [info] Commends check 0
+[21:57:59:342] [info] Inject check
+[21:57:59:347] [info] Commends check 0
+[21:58:02:366] [info] Inject check
+[21:58:02:372] [info] Commends check 0
+[21:58:05:395] [info] Inject check
+[21:58:05:396] [info] Commends check 0
+[21:58:08:412] [info] Inject check
+[21:58:08:423] [info] Commends check 0
+[21:58:11:440] [info] Inject check
+[21:58:11:446] [info] Commends check 0
+[21:58:14:471] [info] Inject check
+[21:58:14:477] [info] Commends check 0
+[21:58:17:494] [info] Inject check
+[21:58:17:495] [info] Commends check 0
+[21:58:20:510] [info] Inject check
+[21:58:20:516] [info] Commends check 0
+[21:58:23:536] [info] Inject check
+[21:58:23:541] [info] Commends check 0
+[21:58:26:563] [info] Inject check
+[21:58:26:567] [info] Commends check 0
+[21:58:29:581] [info] Inject check
+[21:58:29:585] [info] Commends check 0
+[21:58:32:605] [info] Inject check
+[21:58:32:605] [info] Commends check 0
+[21:58:35:635] [info] Inject check
+[21:58:35:640] [info] Commends check 0
+[21:58:38:663] [info] Inject check
+[21:58:38:668] [info] Commends check 0
+[21:58:41:689] [info] Inject check
+[21:58:41:694] [info] Commends check 0
+[21:58:44:718] [info] Inject check
+[21:58:44:724] [info] Commends check 0
+[21:58:47:735] [info] Inject check
+[21:58:47:736] [info] Commends check 0
+[21:58:50:747] [info] Inject check
+[21:58:50:747] [info] Commends check 0
+[21:58:53:773] [info] Inject check
+[21:58:53:779] [info] Commends check 0
+[21:58:56:797] [info] Inject check
+[21:58:56:801] [info] Commends check 0
+[21:58:59:816] [info] Inject check
+[21:58:59:817] [info] Commends check 0
+[21:59:02:835] [info] Inject check
+[21:59:02:838] [info] Commends check 0
+[21:59:05:856] [info] Inject check
+[21:59:05:858] [info] Commends check 0
+[21:59:08:878] [info] Inject check
+[21:59:08:883] [info] Commends check 0
+[21:59:11:896] [info] Inject check
+[21:59:11:900] [info] Commends check 0
+[21:59:14:911] [info] Inject check
+[21:59:14:924] [info] Commends check 0
+[21:59:17:949] [info] Inject check
+[21:59:17:952] [info] Commends check 0
+[21:59:20:973] [info] Inject check
+[21:59:20:977] [info] Commends check 0
+[21:59:24:000] [info] Inject check
+[21:59:24:005] [info] Commends check 0
+[21:59:27:019] [info] Inject check
+[21:59:27:021] [info] Commends check 0
+[21:59:30:031] [info] Inject check
+[21:59:30:032] [info] Commends check 0
+[21:59:33:044] [info] Inject check
+[21:59:33:049] [info] Commends check 0
+[21:59:36:073] [info] Inject check
+[21:59:36:077] [info] Commends check 0
+[21:59:39:089] [info] Inject check
+[21:59:39:094] [info] Commends check 0
+[21:59:42:110] [info] Inject check
+[21:59:42:113] [info] Commends check 0
+[21:59:44:492] [info] Sentry [DEBUG] sending envelope
+[21:59:44:492] [info] Sentry [DEBUG] submitting task to background worker thread
+[21:59:44:492] [info] Sentry [DEBUG] shutting down backend
+[21:59:44:492] [info] Sentry [DEBUG] executing task on worker thread
+[21:59:44:492] [info] Sentry [DEBUG] shutting down transport
+[21:59:44:492] [info] Sentry [DEBUG] shutting down background worker thread
+[21:59:44:492] [info] Sentry [DEBUG] submitting task to background worker thread
+[21:59:44:492] [info] Sentry [DEBUG] sending request using winhttp to "https://sentry.melonity.gg:443/api/8/envelope/":
+x-sentry-auth:Sentry sentry_key=0a578d268c1be62f1995670465cb881d, sentry_version=7, sentry_client=sentry.native/0.7.17
+content-type:application/x-sentry-envelope
+content-length:330
+
+[21:59:44:780] [info] Sentry [DEBUG] received response:
+HTTP/1.1 200 OK
+Connection: keep-alive
+Date: Sat, 05 Sep 2026 18:59:47 GMT
+Content-Length: 2
+Content-Type: application/json
+Server: cloudflare
+Vary: origin, access-control-request-method, access-control-request-headers
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+access-control-allow-origin: *
+access-control-expose-headers: x-sentry-error,x-sentry-rate-limits,retry-after
+cross-origin-resource-policy: cross-origin
+cf-cache-status: DYNAMIC
+Server-Timing: cfCacheStatus;desc="DYNAMIC"
+Server-Timing: cfEdge;dur=9,cfOrigin;dur=115
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=k3BJQKc5jCKbVgvN88MCcKVY0tQXyj77oKoih7dwQCHwEey6bYK2mzyoXRYbqb8NL6k9ReV4eMAfi6BuEBmA2gV4uNcf4KoFk4hnMKFpD9d7btIsT3EaHBxUh3HEcNNQ672wWTo%3D"}]}
+CF-RAY: a367791e3caa813c-LCA
+alt-svc: h3=":443"; ma=86400
+
+
+[21:59:44:781] [info] Sentry [DEBUG] request handled in 289ms
+[21:59:44:781] [info] Sentry [DEBUG] executing task on worker thread
+[21:59:44:781] [info] Sentry [DEBUG] background worker thread shut down
+[21:59:45:889] [info] Inject check
+[21:59:45:898] [info] Commends check 0

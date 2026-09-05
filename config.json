@@ -1,0 +1,17 @@
+{
+  "language": "en",
+  "language_detected": true,
+  "selected_preset": "Foxhole",
+  "bring_windows_to_top": {
+    "modifiers": {
+      "control": false,
+      "alt": false,
+      "shift": false,
+      "win": false
+    },
+    "vk": 0
+  },
+  "auto_arrange_windows": false,
+  "close_after_inject": true,
+  "last_seen_notification_id": 0
+}

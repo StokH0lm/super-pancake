@@ -1,0 +1,1990 @@
+{
+    "inlined_strings": {
+        "resource_settings": "Resource settings",
+        "navigation": "Navigation",
+        "outside_folder": "Outside folder",
+        "common_settings": "Common settings",
+        "many_days_left": "Marami pang days left",
+        "days_left": "{} days left pa",
+        "config_settings": "Config settings",
+        "create": "Create",
+        "resource_settings_desc": "Papaltan nito ang original Dota 2 materials. Kailangan i-restart ang game after i-enable.",
+        "config_settings_desc": "Dito puwede kang pumili ng available configs, gumawa ng bago, mag-delete ng hindi kailangan\nat mag-share ng code o mag-import ng config ng ibang user gamit ang code nila.",
+        "name": "Name",
+        "author": "Author",
+        "import": "Import",
+        "code": "Code",
+        "edited": "Na-edit",
+        "actions": "Actions",
+        "delete": "Delete",
+        "cancel": "Cancel",
+        "load": "Load",
+        "list_configs": "List configs",
+        "list_of_avaliable_configs": "List ng available configs",
+        "delete_config": "Delete config {}?",
+        "delete_config_desc": "Ang deleted config puwede lang ma-restore gamit ang code."
+    },
+    "root": {
+        "name": "root"
+    },
+    "Player": {
+        "name": "Player"
+    },
+    "ESP": {
+        "name": "ESP"
+    },
+    "Information": {
+        "name": "Information"
+    },
+    "Settings->System->Show menu on start": {
+        "name": "Show menu on start"
+    },
+    "Settings": {
+        "name": "Settings"
+    },
+    "Settings->System": {
+        "name": "System"
+    },
+    "Settings->System->Open menu": {
+        "name": "Open menu",
+        "tip": "Additional key para buksan ang menu\nMain key - Insert"
+    },
+    "Settings->System->Menu scale": {
+        "name": "Menu scale"
+    },
+    "Settings->System->Disable animated tips": {
+        "toggleBlockNames": {
+            "Disable animated tips": "Disable animated tips"
+        }
+    },
+    "Settings->System->Dll: Stable, Scripts: Stable": {
+        "name": "Dll: Stable, Scripts: Stable"
+    },
+    "Settings->Scripts->Scripts->Load server scripts": {
+        "name": "Load server scripts",
+        "tip": "Puwedeng i-disable kapag naka-enable ang Dev Mode"
+    },
+    "Settings->Scripts": {
+        "name": "Scripts"
+    },
+    "Settings->Scripts->Scripts": {
+        "name": "Scripts"
+    },
+    "Settings->Scripts->Scripts->Reload scripts from server": {
+        "name": "Reload scripts from server"
+    },
+    "Settings->Scripts->Scripts->Load local scripts": {
+        "name": "Load local scripts",
+        "tip": "Scripts mula sa third-party developers"
+    },
+    "Settings->Scripts->Scripts->Dev Mode": {
+        "name": "Dev Mode",
+        "tip": "Developer mode na may additional information",
+        "tip2": "Ina-enable ang test menu tabs, Debug Menu [F11], at in-game shortcut menu"
+    },
+    "Settings->Scripts->Scripts->Bug reporter icon": {
+        "name": "Bug reporter icon"
+    },
+    "Settings->Scripts->Scripts->Verbose script logs": {
+        "name": "Verbose script logs"
+    },
+    "Settings->Scripts->Scripts->Dump separate translations": {
+        "name": "Dump separate translations"
+    },
+    "Settings->Scripts->Scripts->Open console": {
+        "name": "Open console"
+    },
+    "Settings->Scripts->Scripts->Reload scripts": {
+        "name": "Reload scripts"
+    },
+    "Settings->Scripts->Scripts->Unload dll": {
+        "name": "Unload dll"
+    },
+    "Settings->Scripts->Scripts->Debug Menu Settings": {
+        "name": "Debug Menu Settings"
+    },
+    "Settings->Scripts->Scripts->Debug Menu Settings->Debug menu scale": {
+        "name": "Debug menu scale"
+    },
+    "Settings->Scripts->Scripts->Debug Menu Settings->Debug font size": {
+        "name": "Debug font size"
+    },
+    "Settings->Scripts->Scripts->Debug Menu Settings->Debug menu font": {
+        "name": "Debug menu font"
+    },
+    "Settings->Scripts->Scripts->Console Settings": {
+        "name": "Console Settings"
+    },
+    "Settings->Scripts->Scripts->Console Settings->Debug menu scale": {
+        "name": "Debug menu scale"
+    },
+    "Settings->Scripts->Scripts->Console Settings->Debug font size": {
+        "name": "Debug font size"
+    },
+    "Settings->Scripts->Scripts->Console Settings->Debug menu font": {
+        "name": "Debug menu font"
+    },
+    "Favorites": {
+        "name": "Favorites"
+    },
+    "Settings->Configs->Current config:": {
+        "name": "Current config:"
+    },
+    "Settings->Configs": {
+        "name": "Configs"
+    },
+    "Settings->KeyBinds->There is no options...": {
+        "name": "Walang options..."
+    },
+    "Settings->KeyBinds": {
+        "name": "KeyBinds"
+    },
+    "Settings->Wheel->Wheel Key": {
+        "name": "Wheel Key"
+    },
+    "Settings->Wheel": {
+        "name": "Wheel"
+    },
+    "Settings->Wheel->There is no options...": {
+        "name": "Walang options..."
+    },
+    "Settings->Resources->There is no options...": {
+        "name": "Walang options..."
+    },
+    "Settings->Resources": {
+        "name": "Resources"
+    },
+    "ESP->Object Info": {
+        "name": "Object Info"
+    },
+    "ESP->Object Info->Ally": {
+        "name": "Ally"
+    },
+    "ESP->Object Info->Ally->Header->Enable": {
+        "name": "Enable"
+    },
+    "ESP->Object Info->Ally->Header": {
+        "name": "Header"
+    },
+    "ESP->Object Info->Ally->Header->Color": {
+        "name": "Color"
+    },
+    "ESP->Object Info->Ally->Infantry->Infantry": {
+        "name": "Infantry"
+    },
+    "ESP->Object Info->Ally->Infantry": {
+        "name": "Infantry"
+    },
+    "ESP->Object Info->Ally->Infantry->Infantry information": {
+        "name": "Infantry information",
+        "multiComboBoxValues": {
+            "health number": "HP number",
+            "HP Bar": "HP Bar",
+            "Name": "Name",
+            "Name (hold alt)": "Name (hold alt)",
+            "Equipped weapon": "Equipped weapon",
+            "Other equipment": "Other equipment",
+            "Lines to entity": "Lines to entity",
+            "Aiming line": "Aiming line"
+        }
+    },
+    "ESP->Object Info->Ally->Infantry->Skeleton Type": {
+        "name": "Skeleton Type",
+        "comboBoxValues": {
+            "None": "None",
+            "Always": "Always",
+            "Only when visible": "Only kapag visible",
+            "Only when not visible": "Only kapag hindi visible"
+        }
+    },
+    "ESP->Object Info->Ally->Infantry->Boxes Type": {
+        "name": "Boxes Type",
+        "comboBoxValues": {
+            "None": "None",
+            "3D": "3D",
+            "2D": "2D"
+        }
+    },
+    "ESP->Object Info->Ally->Infantry->Always visible model": {
+        "toggleBlockNames": {
+            "Always visible model": "Laging visible ang model"
+        }
+    },
+    "ESP->Object Info->Ally->Infantry->Additional Settings->Info Position": {
+        "name": "Info Position",
+        "comboBoxValues": {
+            "Center": "Center",
+            "Top Left": "Top Left",
+            "Top Center": "Top Center",
+            "Top Right": "Top Right",
+            "Bottom Left": "Bottom Left",
+            "Bottom Center": "Bottom Center",
+            "Bottom Right": "Bottom Right",
+            "Left Top": "Left Top",
+            "Left Center": "Left Center",
+            "Left Bottom": "Left Bottom",
+            "Right Top": "Right Top",
+            "Right Center": "Right Center",
+            "Right Bottom": "Right Bottom"
+        }
+    },
+    "ESP->Object Info->Ally->Infantry->Additional Settings": {
+        "name": "Additional Settings"
+    },
+    "ESP->Object Info->Ally->Infantry->Additional Settings->HP Bar Position": {
+        "name": "HP Bar Position",
+        "comboBoxValues": {
+            "Bottom": "Bottom",
+            "Top": "Top",
+            "Left": "Left",
+            "Right": "Right"
+        }
+    },
+    "ESP->Object Info->Ally->Vehicles->Vehicles": {
+        "name": "Vehicles"
+    },
+    "ESP->Object Info->Ally->Vehicles": {
+        "name": "Vehicles"
+    },
+    "ESP->Object Info->Ally->Vehicles->Vehicle information": {
+        "name": "Vehicle information",
+        "multiComboBoxValues": {
+            "Health": "Health",
+            "HP Bar": "HP Bar",
+            "Lock": "Lock",
+            "Squad lock": "Squad lock",
+            "Fuel": "Fuel",
+            "Temperature": "Temperature",
+            "Inventory": "Inventory",
+            "Lines to entity": "Lines to entity"
+        }
+    },
+    "ESP->Object Info->Ally->Vehicles->Boxes Type": {
+        "name": "Boxes Type",
+        "comboBoxValues": {
+            "None": "None",
+            "3D": "3D",
+            "2D": "2D"
+        }
+    },
+    "ESP->Object Info->Ally->Vehicles->Always visible model": {
+        "toggleBlockNames": {
+            "Always visible model": "Laging visible ang model"
+        }
+    },
+    "ESP->Object Info->Ally->Vehicles->Additional Settings->Info Position": {
+        "name": "Info Position",
+        "comboBoxValues": {
+            "Center": "Center",
+            "Top Left": "Top Left",
+            "Top Center": "Top Center",
+            "Top Right": "Top Right",
+            "Bottom Left": "Bottom Left",
+            "Bottom Center": "Bottom Center",
+            "Bottom Right": "Bottom Right",
+            "Left Top": "Left Top",
+            "Left Center": "Left Center",
+            "Left Bottom": "Left Bottom",
+            "Right Top": "Right Top",
+            "Right Center": "Right Center",
+            "Right Bottom": "Right Bottom"
+        }
+    },
+    "ESP->Object Info->Ally->Vehicles->Additional Settings": {
+        "name": "Additional Settings"
+    },
+    "ESP->Object Info->Ally->Vehicles->Additional Settings->HP Bar Position": {
+        "name": "HP Bar Position",
+        "comboBoxValues": {
+            "Bottom": "Bottom",
+            "Top": "Top",
+            "Left": "Left",
+            "Right": "Right"
+        }
+    },
+    "ESP->Object Info->Ally->Vehicles->Additional Settings->Additional information on lines": {
+        "name": "Additional info sa lines",
+        "multiComboBoxValues": {
+            "Lock": "Lock",
+            "Squad lock": "Squad lock",
+            "Driver": "Driver"
+        }
+    },
+    "ESP->Object Info->Ally->Etc->Buildings": {
+        "name": "Buildings"
+    },
+    "ESP->Object Info->Ally->Etc": {
+        "name": "Iba pa"
+    },
+    "ESP->Object Info->Ally->Etc->Building Misc": {
+        "name": "Building Misc",
+        "multiComboBoxValues": {
+            "Health": "Health",
+            "Inventory": "Inventory",
+            "Stockpile": "Stockpile",
+            "Use area Box": "Use area box"
+        }
+    },
+    "ESP->Object Info->Ally->Etc->Always visible model": {
+        "toggleBlockNames": {
+            "Always visible model": "Laging visible ang model"
+        }
+    },
+    "ESP->Object Info->Ally->Etc->Watchtower info": {
+        "name": "Watchtower info",
+        "multiComboBoxValues": {
+            "Range": "Range",
+            "Lines to watchtower": "Lines papunta sa watchtower"
+        }
+    },
+    "ESP->Object Info->Ally->Etc->Pillbox info": {
+        "name": "Pillbox info",
+        "multiComboBoxValues": {
+            "Firing range": "Firing range"
+        }
+    },
+    "ESP->Object Info->Enemy": {
+        "name": "Enemy"
+    },
+    "ESP->Object Info->Enemy->Header->Enable": {
+        "name": "Enable"
+    },
+    "ESP->Object Info->Enemy->Header": {
+        "name": "Header"
+    },
+    "ESP->Object Info->Enemy->Header->Color": {
+        "name": "Color"
+    },
+    "ESP->Object Info->Enemy->Infantry->Infantry": {
+        "name": "Infantry"
+    },
+    "ESP->Object Info->Enemy->Infantry": {
+        "name": "Infantry"
+    },
+    "ESP->Object Info->Enemy->Infantry->Infantry information": {
+        "name": "Infantry information",
+        "multiComboBoxValues": {
+            "health number": "HP number",
+            "HP Bar": "HP Bar",
+            "Name": "Name",
+            "Name (hold alt)": "Name (hold alt)",
+            "Equipped weapon": "Equipped weapon",
+            "Other equipment": "Other equipment",
+            "Lines to entity": "Lines to entity",
+            "Aiming line": "Aiming line"
+        }
+    },
+    "ESP->Object Info->Enemy->Infantry->Skeleton Type": {
+        "name": "Skeleton Type",
+        "comboBoxValues": {
+            "None": "None",
+            "Always": "Always",
+            "Only when visible": "Only kapag visible",
+            "Only when not visible": "Only kapag hindi visible"
+        }
+    },
+    "ESP->Object Info->Enemy->Infantry->Boxes Type": {
+        "name": "Boxes Type",
+        "comboBoxValues": {
+            "None": "None",
+            "3D": "3D",
+            "2D": "2D"
+        }
+    },
+    "ESP->Object Info->Enemy->Infantry->Always visible model": {
+        "toggleBlockNames": {
+            "Always visible model": "Laging visible ang model"
+        }
+    },
+    "ESP->Object Info->Enemy->Infantry->Additional Settings->Info Position": {
+        "name": "Info Position",
+        "comboBoxValues": {
+            "Center": "Center",
+            "Top Left": "Top Left",
+            "Top Center": "Top Center",
+            "Top Right": "Top Right",
+            "Bottom Left": "Bottom Left",
+            "Bottom Center": "Bottom Center",
+            "Bottom Right": "Bottom Right",
+            "Left Top": "Left Top",
+            "Left Center": "Left Center",
+            "Left Bottom": "Left Bottom",
+            "Right Top": "Right Top",
+            "Right Center": "Right Center",
+            "Right Bottom": "Right Bottom"
+        }
+    },
+    "ESP->Object Info->Enemy->Infantry->Additional Settings": {
+        "name": "Additional Settings"
+    },
+    "ESP->Object Info->Enemy->Infantry->Additional Settings->HP Bar Position": {
+        "name": "HP Bar Position",
+        "comboBoxValues": {
+            "Bottom": "Bottom",
+            "Top": "Top",
+            "Left": "Left",
+            "Right": "Right"
+        }
+    },
+    "ESP->Object Info->Enemy->Vehicles->Vehicles": {
+        "name": "Vehicles"
+    },
+    "ESP->Object Info->Enemy->Vehicles": {
+        "name": "Vehicles"
+    },
+    "ESP->Object Info->Enemy->Vehicles->Vehicle information": {
+        "name": "Vehicle information",
+        "multiComboBoxValues": {
+            "Health": "Health",
+            "HP Bar": "HP Bar",
+            "Lock": "Lock",
+            "Squad lock": "Squad lock",
+            "Fuel": "Fuel",
+            "Temperature": "Temperature",
+            "Inventory": "Inventory",
+            "Lines to entity": "Lines to entity"
+        }
+    },
+    "ESP->Object Info->Enemy->Vehicles->Boxes Type": {
+        "name": "Boxes Type",
+        "comboBoxValues": {
+            "None": "None",
+            "3D": "3D",
+            "2D": "2D"
+        }
+    },
+    "ESP->Object Info->Enemy->Vehicles->Always visible model": {
+        "toggleBlockNames": {
+            "Always visible model": "Laging visible ang model"
+        }
+    },
+    "ESP->Object Info->Enemy->Vehicles->Additional Settings->Info Position": {
+        "name": "Info Position",
+        "comboBoxValues": {
+            "Center": "Center",
+            "Top Left": "Top Left",
+            "Top Center": "Top Center",
+            "Top Right": "Top Right",
+            "Bottom Left": "Bottom Left",
+            "Bottom Center": "Bottom Center",
+            "Bottom Right": "Bottom Right",
+            "Left Top": "Left Top",
+            "Left Center": "Left Center",
+            "Left Bottom": "Left Bottom",
+            "Right Top": "Right Top",
+            "Right Center": "Right Center",
+            "Right Bottom": "Right Bottom"
+        }
+    },
+    "ESP->Object Info->Enemy->Vehicles->Additional Settings": {
+        "name": "Additional Settings"
+    },
+    "ESP->Object Info->Enemy->Vehicles->Additional Settings->HP Bar Position": {
+        "name": "HP Bar Position",
+        "comboBoxValues": {
+            "Bottom": "Bottom",
+            "Top": "Top",
+            "Left": "Left",
+            "Right": "Right"
+        }
+    },
+    "ESP->Object Info->Enemy->Vehicles->Additional Settings->Additional information on lines": {
+        "name": "Additional info sa lines",
+        "multiComboBoxValues": {
+            "Lock": "Lock",
+            "Squad lock": "Squad lock",
+            "Driver": "Driver"
+        }
+    },
+    "ESP->Object Info->Enemy->Etc->Buildings": {
+        "name": "Buildings"
+    },
+    "ESP->Object Info->Enemy->Etc": {
+        "name": "Iba pa"
+    },
+    "ESP->Object Info->Enemy->Etc->Building Misc": {
+        "name": "Building Misc",
+        "multiComboBoxValues": {
+            "Health": "Health",
+            "Inventory": "Inventory",
+            "Stockpile": "Stockpile",
+            "Use area Box": "Use area box"
+        }
+    },
+    "ESP->Object Info->Enemy->Etc->Always visible model": {
+        "toggleBlockNames": {
+            "Always visible model": "Laging visible ang model"
+        }
+    },
+    "ESP->Object Info->Enemy->Etc->Watchtower info": {
+        "name": "Watchtower info",
+        "multiComboBoxValues": {
+            "Range": "Range",
+            "Lines to watchtower": "Lines papunta sa watchtower"
+        }
+    },
+    "ESP->Object Info->Enemy->Etc->Pillbox info": {
+        "name": "Pillbox info",
+        "multiComboBoxValues": {
+            "Firing range": "Firing range"
+        }
+    },
+    "ESP->Object Info->Neutral": {
+        "name": "Neutral"
+    },
+    "ESP->Object Info->Neutral->Etc->Wreckage": {
+        "toggleBlockNames": {
+            "Wreckage Circle": "Wreckage circle",
+            "Wreckage Lines": "Wreckage lines"
+        }
+    },
+    "ESP->Object Info->Neutral->Etc": {
+        "name": "Iba pa"
+    },
+    "ESP->Object Info->Neutral->Etc->Listening Kits": {
+        "toggleBlockNames": {
+            "Listening Kits Circle": "Listening kits circle",
+            "Listening Kits Lines": "Listening kits lines"
+        }
+    },
+    "ESP->Object Info->Neutral->Etc->Resources fields": {
+        "toggleBlockNames": {
+            "Information about resource field": "Info tungkol sa resource field",
+            "Resource field circle": "Resource field circle",
+            "Rare resources circle": "Rare resources circle"
+        }
+    },
+    "ESP->Object Info->Neutral->Etc->Explosives": {
+        "toggleBlockNames": {
+            "AP Mines": "AP mines",
+            "AT Mines": "AT mines",
+            "Grenades": "Grenades"
+        }
+    },
+    "ESP->Object Info->Neutral->Etc->Wounded soldier": {
+        "toggleBlockNames": {
+            "Wounded soldier circle": "Wounded soldier circle",
+            "Wounded soldier line": "Wounded soldier line"
+        }
+    },
+    "ESP->Object Info->Neutral->Etc->Other": {
+        "toggleBlockNames": {
+            "Artillery hits places": "Mga lugar na tinatamaan ng artillery",
+            "Pick-up items": "Mga pick-up items",
+            "Puddles": "Mga puddles",
+            "Switch arrows": "Mga switch arrows"
+        }
+    },
+    "ESP->Object Info->Neutral->Vehicles->Vehicles": {
+        "name": "Vehicles"
+    },
+    "ESP->Object Info->Neutral->Vehicles": {
+        "name": "Vehicles"
+    },
+    "ESP->Object Info->Neutral->Vehicles->Vehicle information": {
+        "name": "Vehicle information",
+        "multiComboBoxValues": {
+            "Health": "Health",
+            "HP Bar": "HP Bar",
+            "Lock": "Lock",
+            "Squad lock": "Squad lock",
+            "Fuel": "Fuel",
+            "Temperature": "Temperature",
+            "Inventory": "Inventory",
+            "Lines to entity": "Lines to entity"
+        }
+    },
+    "ESP->Object Info->Neutral->Vehicles->Boxes Type": {
+        "name": "Boxes Type",
+        "comboBoxValues": {
+            "None": "None",
+            "3D": "3D",
+            "2D": "2D"
+        }
+    },
+    "ESP->Object Info->Neutral->Vehicles->Always visible model": {
+        "toggleBlockNames": {
+            "Always visible model": "Laging visible ang model"
+        }
+    },
+    "ESP->Object Info->Neutral->Vehicles->Additional Settings->Info Position": {
+        "name": "Posisyon ng Info",
+        "comboBoxValues": {
+            "Center": "Gitna",
+            "Top Left": "Upper Left",
+            "Top Center": "Upper Center",
+            "Top Right": "Upper Right",
+            "Bottom Left": "Lower Left",
+            "Bottom Center": "Lower Center",
+            "Bottom Right": "Lower Right",
+            "Left Top": "Left Upper",
+            "Left Center": "Left Gitna",
+            "Left Bottom": "Left Lower",
+            "Right Top": "Right Upper",
+            "Right Center": "Right Gitna",
+            "Right Bottom": "Right Lower"
+        }
+    },
+    "ESP->Object Info->Neutral->Vehicles->Additional Settings": {
+        "name": "Additional Settings"
+    },
+    "ESP->Object Info->Neutral->Vehicles->Additional Settings->HP Bar Position": {
+        "name": "Posisyon ng HP Bar",
+        "comboBoxValues": {
+            "Bottom": "Ibaba",
+            "Top": "Itaas",
+            "Left": "Kaliwa",
+            "Right": "Kanan"
+        }
+    },
+    "ESP->Object Info->Neutral->Vehicles->Additional Settings->Additional information on lines": {
+        "name": "Dagdag na info sa lines",
+        "multiComboBoxValues": {
+            "Lock": "Lock",
+            "Squad lock": "Squad Lock",
+            "Driver": "Driver"
+        }
+    },
+    "ESP->Object Info->Neutral->Etc->Buildings": {
+        "name": "Buildings"
+    },
+    "ESP->Object Info->Neutral->Etc->Building Misc": {
+        "name": "Building Misc",
+        "multiComboBoxValues": {
+            "Health": "Health",
+            "Inventory": "Inventory",
+            "Stockpile": "Stockpile",
+            "Use area Box": "Gamitin ang Area Box"
+        }
+    },
+    "ESP->Object Info->Neutral->Etc->Always visible model": {
+        "toggleBlockNames": {
+            "Always visible model": "Laging visible ang model"
+        }
+    },
+    "ESP->Object Info->ETC": {
+        "name": "ETC"
+    },
+    "ESP->Object Info->ETC->Lines->Tracking Line": {
+        "name": "Tracking Line",
+        "tip": "Nagdo-draw ng line papunta sa selected na objects"
+    },
+    "ESP->Object Info->ETC->Lines": {
+        "name": "Lines"
+    },
+    "ESP->Object Info->ETC->Lines->Hide line if target is visible": {
+        "toggleBlockNames": {
+            "Hide line if target is visible": "Itago ang line kung visible ang target"
+        }
+    },
+    "ESP->Object Info->ETC->Lines->Start Distance": {
+        "name": "Simulang Distansya"
+    },
+    "ESP->Object Info->ETC->Lines->End Distance": {
+        "name": "Huling Distansya"
+    },
+    "ESP->Object Info->ETC->Lines->Line Transparency": {
+        "name": "Transparency ng Line"
+    },
+    "ESP->Object Info->ETC->Lines->Text Transparency": {
+        "name": "Transparency ng Text"
+    },
+    "ESP->Object Info->ETC->Lines->Font Scale": {
+        "name": "Font Scale"
+    },
+    "ESP->Object Info->ETC->Highlight Interactable": {
+        "name": "I-highlight ang Interactable",
+        "tip": "I-highlight ang mga object na puwedeng i-interact"
+    },
+    "ESP->Object Info->ETC->Circle Size": {
+        "name": "Laki ng Circle"
+    },
+    "ESP->Object Info->ETC->Circle Color": {
+        "name": "Kulay ng Circle"
+    },
+    "ESP->Object Info->ETC->Current Interactable Color": {
+        "name": "Kulay ng Kasalukuyang Interactable",
+        "tip": "Kulay para sa kasalukuyang naka-highlight na interactable object"
+    },
+    "ESP->Player->Player Info": {
+        "name": "Player Info"
+    },
+    "ESP->Player": {
+        "name": "Player"
+    },
+    "ESP->Player->Position X": {
+        "name": "Posisyon X"
+    },
+    "ESP->Player->Position Y": {
+        "name": "Posisyon Y"
+    },
+    "ESP->Player->Etc": {
+        "toggleBlockNames": {
+            "Show rotation and movement speed": "Ipakita ang rotation at movement speed",
+            "Show PID": "Ipakita ang PID",
+            "Debug Text": "Debug Text"
+        }
+    },
+    "Player->Movement->Auto move->Auto move": {
+        "name": "Auto Move",
+        "tip": "Magpatuloy sa paggalaw sa napiling direction"
+    },
+    "Player->Movement": {
+        "name": "Movement"
+    },
+    "Player->Movement->Auto move": {
+        "name": "Auto Move"
+    },
+    "Player->Movement->Auto move->Move forward bind": {
+        "name": "Bind para Move Forward",
+        "tip": "Umabante"
+    },
+    "Player->Movement->Auto move->Move backward bind": {
+        "name": "Bind para Move Backward",
+        "tip": "Umatras"
+    },
+    "Player->Movement->Auto move->Auto move toggles": {
+        "toggleBlockNames": {
+            "Auto stop when W/S pressed": "Auto stop kapag pinindot ang W/S",
+            "Auto stop when enemy spotted": "Auto stop kapag may nakita na enemy",
+            "Free camera while running": "Free camera habang tumatakbo",
+            "Auto sprint": "Auto sprint"
+        }
+    },
+    "Information->Notifications->Players proximity notifications": {
+        "name": "Players proximity notifications",
+        "tip": "I-enable ang notifications para sa nearby enemies at allies"
+    },
+    "Information->Notifications": {
+        "name": "Notifications"
+    },
+    "Information->Notifications->TTS Volume": {
+        "name": "TTS Volume",
+        "tip": "Volume para sa Text-to-Speech notifications"
+    },
+    "Information->Notifications->Inactivity timeout (sec)": {
+        "name": "Inactivity timeout (sec)",
+        "tip": "Oras na walang galaw ng cursor bago ituring na inactive ang user"
+    },
+    "Information->Notifications->Enemy in Radius->Enemy in Radius": {
+        "name": "Enemy in Radius",
+        "tip": "Mag-notify kapag may enemy sa loob ng specified radius"
+    },
+    "Information->Notifications->Enemy in Radius": {
+        "name": "Enemy in Radius"
+    },
+    "Information->Notifications->Enemy in Radius->Detection Radius (m)": {
+        "name": "Detection Radius (m)",
+        "tip": "Detection radius in meters"
+    },
+    "Information->Notifications->Enemy in Radius->Cooldown (sec)": {
+        "name": "Cooldown (sec)",
+        "tip": "Minimum na oras sa pagitan ng notifications"
+    },
+    "Information->Notifications->Enemy in Radius->TTS Text##aboba1": {
+        "name": "TTS Text##aboba1",
+        "tip": "Text na babasahin kapag may na-detect na enemy"
+    },
+    "Information->Notifications->Enemy in Radius->enemy_radius_opts": {
+        "toggleBlockNames": {
+            "Ignore aircraft": "I-ignore ang aircraft",
+            "Only when inactive": "Kapag inactive lang"
+        }
+    },
+    "Information->Notifications->Enemy appears in hex->Enemy appears in hex": {
+        "name": "Enemy appears in hex",
+        "tip": "Mag-notify kapag may bagong enemy player sa hex"
+    },
+    "Information->Notifications->Enemy appears in hex": {
+        "name": "Enemy appears in hex"
+    },
+    "Information->Notifications->Enemy appears in hex->Cooldown (sec)": {
+        "name": "Cooldown (sec)",
+        "tip": "Minimum na oras sa pagitan ng notifications"
+    },
+    "Information->Notifications->Enemy appears in hex->Max enemy count": {
+        "name": "Max enemy count",
+        "tip": "Itigil ang notifications kapag naabot ang bilang ng enemies (0 = unlimited)"
+    },
+    "Information->Notifications->Enemy appears in hex->TTS Text##aboba2": {
+        "name": "TTS Text##aboba2",
+        "tip": "Text na babasahin kapag may bagong enemy"
+    },
+    "Information->Notifications->Enemy appears in hex->enemy_world_opts": {
+        "toggleBlockNames": {
+            "Only when inactive": "Kapag inactive lang"
+        }
+    },
+    "Information->Notifications->TTS Local chat voiceover->TTS Local chat voiceover": {
+        "name": "TTS Local chat voiceover",
+        "tip": "Voice messages mula sa mga players sa paligid mo"
+    },
+    "Information->Notifications->TTS Local chat voiceover": {
+        "name": "TTS Local chat voiceover"
+    },
+    "Information->Notifications->TTS Local chat voiceover->Cooldown (sec)": {
+        "name": "Cooldown (sec)",
+        "tip": "Minimum na oras sa pagitan ng TTS messages"
+    },
+    "Information->Notifications->TTS Local chat voiceover->chat_tts_opts": {
+        "toggleBlockNames": {
+            "Include sender name": "Isama ang pangalan ng sender",
+            "Only when inactive": "Kapag inactive lang"
+        }
+    },
+    "Information->Notifications->Ally in Radius->Ally in Radius": {
+        "name": "Ally in Radius",
+        "tip": "Mag-notify kapag may ally sa loob ng specified radius"
+    },
+    "Information->Notifications->Ally in Radius": {
+        "name": "Ally in Radius"
+    },
+    "Information->Notifications->Ally in Radius->Detection Radius (m)": {
+        "name": "Detection Radius (m)",
+        "tip": "Detection radius in meters"
+    },
+    "Information->Notifications->Ally in Radius->Cooldown (sec)": {
+        "name": "Cooldown (sec)",
+        "tip": "Minimum na oras sa pagitan ng notifications"
+    },
+    "Information->Notifications->Ally in Radius->TTS Text##aboba3": {
+        "name": "TTS Text##aboba3",
+        "tip": "Text na babasahin kapag may na-detect na ally"
+    },
+    "Information->Notifications->Ally in Radius->ally_radius_opts": {
+        "toggleBlockNames": {
+            "Only when inactive": "Kapag inactive lang"
+        }
+    },
+    "Player->Pathfinding->Character Pathfinding->Move to position": {
+        "name": "Move sa Posisyon",
+        "tip": "Automatic na paggalaw ng character papunta sa napiling posisyon",
+        "tip2": "Puwede mong itakda ang posisyon gamit ang minimap"
+    },
+    "Player->Pathfinding": {
+        "name": "Pathfinding"
+    },
+    "Player->Pathfinding->Character Pathfinding": {
+        "name": "Character Pathfinding"
+    },
+    "Player->Pathfinding->Character Pathfinding->Set destination key": {
+        "name": "Key para mag-set ng destination",
+        "tip": "Para mag-set ng posisyon, hawakan ang key at i-click ang posisyon"
+    },
+    "Player->Pathfinding->Character Pathfinding->Auto move": {
+        "toggleBlockNames": {
+            "Auto move": "Auto Move"
+        }
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Climb penalty": {
+        "name": "Climb Penalty"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings": {
+        "name": "Pathfinding Settings"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Climb height": {
+        "name": "Climb Height"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Grid size": {
+        "name": "Grid Size"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Max step count": {
+        "name": "Max Step Count"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Ground check count": {
+        "name": "Ground Check Count"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Max climb height": {
+        "name": "Max Climb Height"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Height check start": {
+        "name": "Height Check Start"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Max slope angle": {
+        "name": "Max Slope Angle"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Off-road penalty": {
+        "name": "Off-road Penalty"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Barbed wire penalty": {
+        "name": "Barbed Wire Penalty"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Small radius penalty": {
+        "name": "Small Radius Penalty"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Water penalty": {
+        "name": "Water Penalty"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Player proximity distance": {
+        "name": "Distansya ng Player Proximity"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Player proximity penalty": {
+        "name": "Player Proximity Penalty"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->H cost weight": {
+        "name": "H Cost Weight"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Staircase penalty": {
+        "name": "Staircase Penalty"
+    },
+    "Player->Pathfinding->Character Pathfinding->Pathfinding settings->Path rebuild interval": {
+        "name": "Interval ng Path Rebuild"
+    },
+    "Player->Pathfinding->Character Pathfinding->Debug settings->Debug toggles": {
+        "toggleBlockNames": {
+            "Show debug": "Ipakita ang debug",
+            "Show move arrows": "Ipakita ang move arrows",
+            "Show climb arrows": "Ipakita ang climb arrows",
+            "Show actual trace": "Ipakita ang actual trace"
+        }
+    },
+    "Player->Pathfinding->Character Pathfinding->Debug settings": {
+        "name": "Debug Settings"
+    },
+    "Player->Pathfinding->Hint->Hint": {
+        "name": "Hint",
+        "tip": "Bind + RMB sa ground position — pumunta sa napiling point\nBind + RMB sa minimap — pumunta sa napiling point\nBind + RMB sa vehicle/building — lumapit at pumasok sa object\nBind + RMB sa container — lumapit at mag pack/unpack ng container\nBind + RMB sa container habang nasa crane — kunin/ilagay ang container\nBind + Shift + RMB — magdagdag ng action sa queue (gumagana sa lahat ng actions sa itaas)"
+    },
+    "Player->Pathfinding->Hint": {
+        "name": "Hint"
+    },
+    "Player->Aircraft->Bomb target->Bomb landing indicator": {
+        "name": "Bomb Landing Indicator",
+        "tip": "Indicator sa surface kung saan babagsak ang bomba"
+    },
+    "Player->Aircraft": {
+        "name": "Aircraft"
+    },
+    "Player->Aircraft->Bomb target": {
+        "name": "Bomb Target"
+    },
+    "Information->Logi helper->Show Refinery Orders->Show refinery orders": {
+        "name": "Ipakita ang Refinery Orders",
+        "tip": "Ipakita ang status ng refinery orders"
+    },
+    "Information->Logi helper": {
+        "name": "Logi Helper"
+    },
+    "Information->Logi helper->Show Refinery Orders": {
+        "name": "Show Refinery Orders"
+    },
+    "Information->Logi helper->Show Refinery Orders->styles": {
+        "toggleBlockNames": {
+            "Enable dark background": "I-enable ang dark background",
+            "Show final column": "Ipakita ang final column"
+        }
+    },
+    "Information->Logi helper->Show Refinery Orders->Scale": {
+        "name": "Scale",
+        "tip": "Laki ng display ng refinery orders"
+    },
+    "Player->Vehicle->Crane Radius->Crane radius": {
+        "name": "Crane Radius",
+        "tip": "I-render ang crane radius"
+    },
+    "Player->Vehicle": {
+        "name": "Vehicle"
+    },
+    "Player->Vehicle->Crane Radius": {
+        "name": "Crane Radius"
+    },
+    "Player->Vehicle->Crane Radius->Range color": {
+        "name": "Kulay ng Range"
+    },
+    "Player->Commend Trader->Commend trader->Auto commend trader": {
+        "name": "Auto Commend Trader",
+        "tip": "Automatic na nagco-commend ng players na nagsusulat sa chat"
+    },
+    "Player->Commend Trader": {
+        "name": "Commend Trader"
+    },
+    "Player->Commend Trader->Commend trader": {
+        "name": "Commend Trader"
+    },
+    "Player->Commend Trader->Commend trader->Commend toggles": {
+        "toggleBlockNames": {
+            "Auto commend trade": "Auto commend trade",
+            "Auto commend response": "Auto commend response",
+            "Auto commend from list": "Auto commend mula sa list",
+            "Skip self commend": "I-skip ang self commend"
+        }
+    },
+    "Player->Commend Trader->Commend trader->Auto commend id list": {
+        "name": "Auto commend ID list",
+        "tip": "SteamID64, hiwalay gamit ang comma"
+    },
+    "Player->Artillery->Shell runner->Shell runner": {
+        "name": "Shell runner",
+        "tip": "Para gumana, kailangan pumili ng lugar na may shells at artillery"
+    },
+    "Player->Artillery": {
+        "name": "Artillery"
+    },
+    "Player->Artillery->Shell runner": {
+        "name": "Shell runner"
+    },
+    "Player->Artillery->Shell runner->Select stockpile with shells and target": {
+        "name": "Piliin ang stockpile na may shells at target",
+        "tip": "Pwede kang pumili ng pallet. Para i-clear — pindutin ang bind sa bakanteng space"
+    },
+    "Player->Artillery->Auto reloader->Auto reloader": {
+        "name": "Auto reloader",
+        "tip": "Awtomatikong nagre-reload ng artillery habang nasa loob ka"
+    },
+    "Player->Artillery->Auto reloader": {
+        "name": "Auto reloader"
+    },
+    "Player->Artillery->Auto reloader->Delay after sitting down": {
+        "name": "Delay pagkatapos umupo",
+        "tip": "Delay bago magsimulang mag-reload pagkatapos umupo bilang gunner"
+    },
+    "Player->Artillery->Auto reloader->Pre-reload delay": {
+        "name": "Pre-reload delay",
+        "tip": "Delay pagkatapos maubos ang ammo bago mag-request ng reload"
+    },
+    "Player->Artillery->Auto reloader->Reload request interval": {
+        "name": "Reload request interval",
+        "tip": "Minimum na pagitan ng reload requests para maiwasan ang spam"
+    },
+    "Player->Artillery->Auto fire->Auto fire": {
+        "name": "Auto fire",
+        "tip": "Awtomatikong nagpapaputok ng artillery. Hihinto kapag lumabas"
+    },
+    "Player->Artillery->Auto fire": {
+        "name": "Auto fire"
+    },
+    "Player->Artillery->Auto fire->Auto stop condition": {
+        "name": "Auto stop condition",
+        "tip": "Condition kung kailan hihinto ang auto fire",
+        "comboBoxValues": {
+            "When not in artillery": "Kapag wala na sa artillery",
+            "If W/A/S/D/Q pressed": "Kapag pinindot ang W/A/S/D/Q"
+        }
+    },
+    "Player->Exploits->Move in ui->Move in ui": {
+        "name": "Move sa UI",
+        "tip": "I-enable ang movement kahit bukas ang UI"
+    },
+    "Player->Exploits": {
+        "name": "Exploits"
+    },
+    "Player->Exploits->Move in ui": {
+        "name": "Move sa UI"
+    },
+    "ESP->Player->Self health bar->Self health bar": {
+        "name": "Sariling Health Bar",
+        "tip": "UI ng health ng character/vehicle"
+    },
+    "ESP->Player->Self health bar": {
+        "name": "Sariling Health Bar"
+    },
+    "ESP->Player->Self health bar->Panel position->X pos": {
+        "name": "X pos",
+        "tip": "Posisyon X ng health bar"
+    },
+    "ESP->Player->Self health bar->Panel position": {
+        "name": "Panel position"
+    },
+    "ESP->Player->Self health bar->Panel position->Y pos": {
+        "name": "Y pos",
+        "tip": "Posisyon Y ng health bar"
+    },
+    "ESP->Player->Self health bar->Render settings->Health color": {
+        "name": "Kulay ng Health",
+        "tip": "Kulay ng health bar kapag full health"
+    },
+    "ESP->Player->Self health bar->Render settings": {
+        "name": "Render settings"
+    },
+    "ESP->Player->Self health bar->Render settings->Low health color": {
+        "name": "Kulay ng Low Health",
+        "tip": "Kulay ng health bar kapag mababa na ang health"
+    },
+    "ESP->Player->Self health bar->Render settings->Scale": {
+        "name": "Scale",
+        "tip": "Scale ng health bar"
+    },
+    "ESP->Player->Self health bar->Render settings->Width": {
+        "name": "Width",
+        "tip": "Lapad ng health bar"
+    },
+    "ESP->Player->Self health bar->Render settings->Height": {
+        "name": "Height",
+        "tip": "Taas ng health bar"
+    },
+    "ESP->Player->Self health bar->Render settings->Alpha": {
+        "name": "Alpha",
+        "tip": "Alpha ng health bar"
+    },
+    "Player->Movement->Followbot->Followbot": {
+        "name": "Followbot",
+        "tip": "Automatic na sumusunod sa napiling player"
+    },
+    "Player->Movement->Followbot": {
+        "name": "Followbot"
+    },
+    "Player->Movement->Followbot->Toggle Followbot to target": {
+        "name": "Toggle Followbot sa target",
+        "tip": "I-toggle ang followbot papunta sa target"
+    },
+    "Player->Movement->Followbot->Auto stop toggles": {
+        "toggleBlockNames": {
+            "Auto stop when W/A/S/D pressed": "Auto stop kapag pinindot ang W/A/S/D"
+        }
+    },
+    "Player->Farm helpers->Auto Farm->Auto farm": {
+        "name": "Auto farm",
+        "tip": "Automatic na nagmi-mine ng resources gamit ang character o harvester.\nAng mga mined resources ay dinadala sa drop point."
+    },
+    "Player->Farm helpers": {
+        "name": "Farm helpers"
+    },
+    "Player->Farm helpers->Auto Farm": {
+        "name": "Auto Farm"
+    },
+    "Player->Farm helpers->Auto Farm->Farm toggles": {
+        "toggleBlockNames": {
+            "Stop by W/A/S/D": "Huminto kapag pinindot ang W/A/S/D",
+            "Rare resources mode": "Rare resources mode",
+            "Store rare metal": "I-store ang rare metal",
+            "Store tech materials": "I-store ang tech materials",
+            "Private facility storage first": "Private facility storage muna",
+            "Avoid other players": "Iwasan ang ibang players",
+            "Switch to rare resource mode when full": "Lumipat sa rare resource mode kapag full",
+            "Uload only when full": "Mag-unload lang kapag full",
+            "Move to AFK point when enemy nearby": "Pumunta sa AFK point kapag may enemy malapit"
+        }
+    },
+    "Player->Farm helpers->Auto Farm->Start bot key bind": {
+        "name": "Start bot key bind",
+        "tip": "Kapag pinindot ulit, titigil ang bot"
+    },
+    "Player->Farm helpers->Auto Farm->Set drop point key bind": {
+        "name": "Set drop point key bind",
+        "tip": "Supported ang containers, vehicles, facilities at bases\nHold Shift para magdagdag ng multiple points"
+    },
+    "Player->Farm helpers->Auto Farm->Set rare material drop point key bind": {
+        "name": "Set rare material drop point key bind",
+        "tip": "Supported ang containers, vehicles, facilities at bases\nHold Shift para magdagdag ng multiple points"
+    },
+    "Player->Farm helpers->Auto Farm->Set AFK place key bind": {
+        "name": "Set AFK place key bind"
+    },
+    "Player->Farm helpers->Auto Farm->Hints": {
+        "name": "Hints"
+    },
+    "Player->Farm helpers->Auto Farm->Rare resources mode": {
+        "name": "Rare resources mode",
+        "tip": "Aluminum, iron, copper, rare metal at tech materials\nKapag puno na ang inventory, ibabagsak ng script ang regular metal sa ground."
+    },
+    "Player->Farm helpers->Auto Farm->Store rare resources": {
+        "name": "Store rare resources",
+        "tip": "Ini-store ang rare resources sa mga naka-set na drop points.\nKung naka-disable, mananatili sila sa inventory."
+    },
+    "Player->Building->Auto Click->Auto LMB": {
+        "name": "Auto LMB",
+        "tip": "Para sa pag-repair, paghuhukay, pag-build, atbp."
+    },
+    "Player->Building": {
+        "name": "Building"
+    },
+    "Player->Building->Auto Click": {
+        "name": "Auto Click"
+    },
+    "Player->Building->Auto Click->Auto stop toggles": {
+        "toggleBlockNames": {
+            "Auto stop when W/A/S/D pressed": "Auto stop kapag pinindot ang W/A/S/D",
+            "Auto stop when clicked": "Auto stop kapag nag-click"
+        }
+    },
+    "Player->Building->Auto Click->Auto LMB bind": {
+        "name": "Auto LMB bind"
+    },
+    "Player->Vehicle->Replicate movement->Replicate vehicle control": {
+        "name": "Replicate vehicle control",
+        "tip": "Inuulit ang WASD key presses ng driver kahit wala sa focus ang game",
+        "tip2": "Ang feature na ito ay para makontrol ang vehicles mula sa multiple game windows.\nHalimbawa, pwede kang gumamit ng tank o artillery habang solo naglalaro.\n\nExample: Sa driver window, i-enable ang feature at i-minimize ito sa window\nng gunner o commander. Pagkatapos nito, pwede mong pindutin ang WASD.\n'Mahuhuli' ng driver window ang mga key press na ito."
+    },
+    "Player->Vehicle->Replicate movement": {
+        "name": "Replicate movement"
+    },
+    "Player->Vehicle->Replicate movement->Activation key bind": {
+        "name": "Activation key bind"
+    },
+    "Player->Vehicle->Replicate movement->Movement toggles": {
+        "toggleBlockNames": {
+            "Auto open gates": "Auto open gates",
+            "Disable if no crew inside": "I-disable kapag walang crew sa loob"
+        }
+    },
+    "Player->Vehicle->Replicate movement->Check crew pause method": {
+        "name": "Check crew pause method",
+        "comboBoxValues": {
+            "When somebody exit": "Kapag may lumabas",
+            "When solo in vehicle": "Kapag solo sa vehicle"
+        }
+    },
+    "Player->Vehicle->AutoGear->Auto gear change": {
+        "name": "Auto gear change",
+        "tip": "Awtomatikong nagpapalit ng gear sa heavy trucks"
+    },
+    "Player->Vehicle->AutoGear": {
+        "name": "AutoGear"
+    },
+    "Player->Vehicle->AutoGear->Speed to up gear": {
+        "name": "Speed para mag up gear",
+        "tip": "Speed (m/s) kung kailan tataas ang gear"
+    },
+    "Player->Vehicle->AutoGear->Speed to down gear": {
+        "name": "Speed para mag down gear",
+        "tip": "Speed (m/s) kung kailan bababa ang gear"
+    },
+    "Player->Vehicle->SHTStuff->Auto engineer repair": {
+        "name": "Auto engineer repair",
+        "tip": "Awtomatikong nire-repair ang engine sa heavy trucks"
+    },
+    "Player->Vehicle->SHTStuff": {
+        "name": "SHTStuff"
+    },
+    "Player->Artillery->Artillery calculator": {
+        "name": "Artillery calculator",
+        "tip": "Function para kalkulahin ang firing position ng artillery"
+    },
+    "Player->Artillery->Set target position key": {
+        "name": "Set target position key",
+        "tip": "Posisyon kung saan papaputok"
+    },
+    "Player->Artillery->Set artillery position key": {
+        "name": "Set artillery position key",
+        "tip": "Posisyon kung saan magpapaputok (kung hindi naka-set, gagamitin ang posisyon ng character)",
+        "tip2": "Kapag pinindot ulit, matatanggal ang posisyon"
+    },
+    "Player->Artillery->Render toggle key": {
+        "name": "Render toggle key",
+        "tip": "Key para i-toggle ang display ng info"
+    },
+    "Player->Artillery->What to render": {
+        "name": "Ano ang i-render",
+        "multiComboBoxValues": {
+            "Line from target to predicted pos": "Line mula target papunta predicted pos",
+            "Line to predicted pos": "Line papunta predicted pos",
+            "Dispersion area": "Dispersion area",
+            "Panel on cursor": "Panel sa cursor"
+        }
+    },
+    "Player->Artillery->Show debug info": {
+        "toggleBlockNames": {
+            "Show debug info": "Ipakita ang debug info"
+        }
+    },
+    "Player->Artillery->Artillery dispersion Preset": {
+        "name": "Artillery dispersion preset",
+        "tip": "Ipinapakita ang radius ng artillery spread sa target position",
+        "comboBoxValues": {
+            "Cremari Mortar": "Cremari Mortar",
+            "Gunboat": "Gunboat",
+            "Mortar Truck": "Mortar Truck",
+            "Ship 120mm": "Ship 120mm",
+            "Ship 150mm": "Ship 150mm",
+            "Colonial Field 120mm": "Colonial Field 120mm",
+            "Warden Emplaced 120mm": "Warden Emplaced 120mm",
+            "Battle Tank 150mm": "Battle Tank 150mm",
+            "Warden Emplaced 150mm": "Warden Emplaced 150mm",
+            "Colonial Emplaced 150mm": "Colonial Emplaced 150mm",
+            "Train 300mm": "Train 300mm",
+            "Storm Cannon 300mm": "Storm Cannon 300mm",
+            "Colonial Rocket Tankette 4C": "Colonial Rocket Tankette 4C",
+            "Warden Rocket Half-Track 4C": "Warden Rocket Half-Track 4C",
+            "Warden Field Launcher 4C": "Warden Field Launcher 4C",
+            "Colonial Katyusha 3C": "Colonial Katyusha 3C",
+            "Warden King Jester 3C": "Warden King Jester 3C",
+            "Colonial Hades Net 3C": "Colonial Hades Net 3C"
+        }
+    },
+    "Player->Artillery->Tips->Hint": {
+        "name": "Hint",
+        "tip": "Pwede kang mag-click sa minimap para i-set ang target position at artillery position.\n\nHold ALT para i-set ang artillery position kapag nag-click sa minimap.\n\nAng puting bilog sa minimap ay ang target position.\nAng orange na bilog ay ang artillery position."
+    },
+    "Player->Artillery->Tips": {
+        "name": "Tips"
+    },
+    "Information->Logi helper->Search stuff->Search stuff": {
+        "name": "Search stuff",
+        "tip": "Maghanap ng items sa bases at warehouses",
+        "tip2": "Pagkatapos i-type ang text sa input field, i-highlight ng script lahat ng lugar kung saan nandun ang hinahanap na item"
+    },
+    "Information->Logi helper->Search stuff": {
+        "name": "Search stuff"
+    },
+    "Information->Logi helper->Search stuff->Search toggles": {
+        "toggleBlockNames": {
+            "Background scan": "Background scan",
+            "Map mod fix": "Map mod fix"
+        },
+        "toggleBlockTips": {
+            "Background scan": "Unti-unting sini-scan ang warehouses at bases sa current hex sa background",
+            "Map mod fix": "Inaayos ang coordinates para sa map mod kung hindi tugma ang mga points"
+        }
+    },
+    "Information->Logi helper->Search stuff->Open panel key bind": {
+        "name": "Open panel key bind"
+    },
+    "Information->Logi helper->Search stuff->Open panel button": {
+        "name": "Open panel button"
+    },
+    "Player->Vehicle->Auto pilot->Auto pilot": {
+        "name": "Auto pilot"
+    },
+    "Player->Vehicle->Auto pilot": {
+        "name": "Auto pilot"
+    },
+    "Player->Vehicle->Auto pilot->Pathfinding toggles": {
+        "toggleBlockNames": {
+            "Auto stop when disabled": "Auto stop when disabled",
+            "Auto stop when no fuel": "Auto stop kapag walang fuel",
+            "Debug draw": "Debug draw"
+        }
+    },
+    "Player->Vehicle->Auto pilot->Update map paths": {
+        "name": "Update map paths"
+    },
+    "Player->Vehicle->Auto pilot->Hint": {
+        "name": "Hint",
+        "tip": "Para itigil ang autopilot - pindutin ang W+S sabay"
+    },
+    "Information->Logi helper->Logi helper->Logi helper": {
+        "name": "Logi helper",
+        "tip": "Kalkulasyon ng kailangan na crates para sa selected base",
+        "tip2": "Kapag hover ang cursor sa base, ika-calculate ng script ang kailangan na crates\n\nPuwedeng i-collect automatically ang crates gamit ang button sa panel"
+    },
+    "Information->Logi helper->Logi helper": {
+        "name": "Logi helper"
+    },
+    "Information->Logi helper->Logi helper->Open panel key bind": {
+        "name": "Open panel key bind"
+    },
+    "Information->Logi helper->Logi helper->Open panel button": {
+        "name": "Open panel button"
+    },
+    "Player->Farm helpers->Auto Train->Auto train": {
+        "name": "Auto train",
+        "tip": "Script para i-automate ang maliit na train"
+    },
+    "Player->Farm helpers->Auto Train": {
+        "name": "Auto Train"
+    },
+    "Player->Farm helpers->Auto Train->Train toggles": {
+        "toggleBlockNames": {
+            "Use shipping cart": "Gamitin ang shipping cart",
+            "Auto coal refill": "Auto coal refill"
+        }
+    },
+    "Player->Farm helpers->Auto Train->Open panel key bind": {
+        "name": "Open panel key bind",
+        "tip": "Menu para i-set up ang routes at actions"
+    },
+    "Player->Farm helpers->Auto Train->Start bot key bind": {
+        "name": "Start bot key bind",
+        "tip": "Simulan ang auto train sequence. Kung naka-run na, ititigil ito."
+    },
+    "Player->Farm helpers->Auto Train->Cart switch delay": {
+        "name": "Cart switch delay",
+        "tip": "Delay sa seconds pagkatapos mag-switch ng cart tab bago magpatuloy"
+    },
+    "Player->Farm helpers->Auto Train->Next station delay": {
+        "name": "Next station delay",
+        "tip": "Delay sa seconds bago simulan ang actions sa next station"
+    },
+    "Player->Repeat pull->Repeat pull": {
+        "name": "Repeat pull",
+        "tip": "Ang repeat button ay nasa ilalim ng warehouse interface",
+        "tip2": "Kukunin ng script ang item mula sa stockpile na huling kinuha"
+    },
+    "Player->Repeat pull": {
+        "name": "Repeat pull"
+    },
+    "Player->Repeat pull->Auto disable": {
+        "toggleBlockNames": {
+            "Auto disable if stockpile is empty": "Auto disable kung empty ang stockpile"
+        }
+    },
+    "Information->Minimap->Mini-Map->Minimap": {
+        "name": "Minimap",
+        "tip": "Minimap na puwede interaksyonan"
+    },
+    "Information->Minimap": {
+        "name": "Minimap"
+    },
+    "Information->Minimap->Mini-Map": {
+        "name": "Mini-Map"
+    },
+    "Information->Minimap->Mini-Map->Map panel scale": {
+        "name": "Map panel scale",
+        "tip": "Scale ng minimap panel"
+    },
+    "Information->Minimap->Mini-Map->Icons scale": {
+        "name": "Icons scale",
+        "tip": "Icons ng players, occupied vehicles, at abandoned vehicles"
+    },
+    "Information->Minimap->Mini-Map->Zoom": {
+        "name": "Zoom",
+        "tip": "Puwedeng mag-zoom in at out gamit ang '+' at '-' "
+    },
+    "Information->Minimap->Mini-Map->Edge Expansion": {
+        "name": "Edge Expansion",
+        "tip": "Pinalalawak ang map display area lampas sa minimap"
+    },
+    "Information->Minimap->Mini-Map->Cache duration": {
+        "name": "Cache duration",
+        "tip": "Tagal ng display ng entity sa minimap"
+    },
+    "Information->Minimap->Mini-Map->Minimap Color": {
+        "name": "Minimap Color"
+    },
+    "Information->Minimap->Mini-Map->Roads Color": {
+        "name": "Roads Color"
+    },
+    "Information->Minimap->Mini-Map->Show objects": {
+        "name": "Show objects",
+        "multiComboBoxValues": {
+            "Wreckages": "Wreckages",
+            "Players": "Players",
+            "Empty Vehicles": "Empty Vehicles",
+            "Player Vehicles": "Player Vehicles",
+            "Watch Towers": "Watch Towers",
+            "Observation Bunkers": "Observation Bunkers",
+            "Listening Kits": "Listening Kits",
+            "Spawn Bases": "Spawn Bases",
+            "Production": "Production",
+            "Artillery Explosions": "Artillery Explosions"
+        }
+    },
+    "Information->Minimap->Mini-Map->Show teams": {
+        "name": "Show teams",
+        "multiComboBoxValues": {
+            "Ally": "Ally",
+            "Enemy": "Enemy"
+        }
+    },
+    "Information->Minimap->Mini-Map->Map info toggles": {
+        "toggleBlockNames": {
+            "Show players count on map": "Ipakita ang bilang ng players sa map",
+            "Show tech level on map": "Ipakita ang tech level sa map",
+            "Show players via intelligence": "Ipakita ang players via intel",
+            "Show ally intel coverage": "Ipakita ang intel coverage ng allies",
+            "Show enemy intel coverage": "Ipakita ang intel coverage ng enemies"
+        }
+    },
+    "Information->Minimap->Mini-Map->Players Count Position": {
+        "name": "Players Count Position",
+        "comboBoxValues": {
+            "Top": "Top",
+            "Bottom": "Bottom"
+        }
+    },
+    "Information->Minimap->Mini-Map->Intel coverage outline thickness": {
+        "name": "Kapal ng outline ng intel coverage"
+    },
+    "Information->Minimap->Mini-Map->Ally intel coverage fill color": {
+        "name": "Fill color ng ally intel coverage"
+    },
+    "Information->Minimap->Mini-Map->Ally intel coverage outline color": {
+        "name": "Outline color ng ally intel coverage"
+    },
+    "Information->Minimap->Mini-Map->Enemy intel coverage fill color": {
+        "name": "Fill color ng enemy intel coverage"
+    },
+    "Information->Minimap->Mini-Map->Enemy intel coverage outline color": {
+        "name": "Outline color ng enemy intel coverage"
+    },
+    "Information->Minimap->Mini-Map->Minimap position settings->Minimap position X": {
+        "name": "Minimap position X"
+    },
+    "Information->Minimap->Mini-Map->Minimap position settings": {
+        "name": "Minimap position settings"
+    },
+    "Information->Minimap->Mini-Map->Minimap position settings->Minimap position Y": {
+        "name": "Minimap position Y"
+    },
+    "Information->Minimap->Map scan->Map scan": {
+        "name": "Map scan",
+        "tip": "Kapag sinimulan, sini-scan ang selected area o buong mapa para sa enemies/vehicles/objects",
+        "tip2": "Kung mag-select ng area gamit ang CTRL+LMB, ang scanner\ngagawa lang sa area na yun"
+    },
+    "Information->Minimap->Map scan": {
+        "name": "Map scan"
+    },
+    "Information->Minimap->Map scan->Scan toggles": {
+        "toggleBlockNames": {
+            "Wreckage attention": "Wreckage attention",
+            "Cyclical scan": "Cyclical scan",
+            "Random position scan": "Random position scan"
+        },
+        "toggleBlockTips": {
+            "Wreckage attention": "Kung naka-enable, hihinto muna ang scanner sa wreckage para manatiling loaded pagkatapos ng scan",
+            "Cyclical scan": "",
+            "Random position scan": ""
+        }
+    },
+    "Information->Minimap->Map scan->[DEV] Map scanner settings->Not recommended to change the default settings": {
+        "name": "Hindi recommended baguhin ang default settings",
+        "tip": "Puwedeng i-revert ang changes sa right-click → Reset to default"
+    },
+    "Information->Minimap->Map scan->[DEV] Map scanner settings": {
+        "name": "[DEV] Map scanner settings"
+    },
+    "Information->Minimap->Map scan->[DEV] Map scanner settings->Scan step duration": {
+        "name": "Scan step duration"
+    },
+    "Information->Minimap->Map scan->[DEV] Map scanner settings->Scan step X": {
+        "name": "Scan step X"
+    },
+    "Information->Minimap->Map scan->[DEV] Map scanner settings->Scan step Y": {
+        "name": "Scan step Y"
+    },
+    "Information->Minimap->Map scan->Start scan": {
+        "name": "Start scan",
+        "tip": "Titigil ang scan kapag pinindot ulit"
+    },
+    "Information->Minimap->Map scan->Start scan keybind": {
+        "name": "Start scan keybind",
+        "tip": "Titigil ang scan kapag pinindot ulit"
+    },
+    "Player->Aim assist->AIM assist": {
+        "name": "AIM assist",
+        "tip": "Automatic na pagtutok ng weapon sa enemies"
+    },
+    "Player->Aim assist": {
+        "name": "Aim assist"
+    },
+    "Player->Aim assist->Search FOV": {
+        "name": "Search FOV",
+        "tip": "Radius sa paligid ng cursor para hanapin ang enemy"
+    },
+    "Player->Aim assist->Search step": {
+        "name": "Search step",
+        "tip": "Grid step kapag sini-scan ang enemy model (mababa - mas accurate pero mas mabagal)"
+    },
+    "Player->Aim assist->Render FOV": {
+        "name": "Render FOV",
+        "tip": "Ipakita ang radius kapag nagtutok sa enemy",
+        "comboBoxValues": {
+            "Only when aiming": "Only when aiming",
+            "Always": "Always",
+            "Never": "Never"
+        }
+    },
+    "Player->Aim assist->Debug visualization": {
+        "toggleBlockNames": {
+            "Debug visualization": "Debug visualization"
+        }
+    },
+    "Player->Vehicle->Train fireman->Train fireman": {
+        "name": "Train fireman",
+        "tip": "Automatic coal addition bilang fireman sa malaking train"
+    },
+    "Player->Vehicle->Train fireman": {
+        "name": "Train fireman"
+    },
+    "Player->Vehicle->Train fireman->Activation key bind": {
+        "name": "Activation key bind"
+    },
+    "Player->Vehicle->Train fireman->Min fuel": {
+        "name": "Min fuel"
+    },
+    "Player->Vehicle->Train fireman->Min speed": {
+        "name": "Min speed"
+    },
+    "Player->Exploits->Vehicle->Ignore lack of fuel": {
+        "name": "Ignore lack of fuel",
+        "tip": "Gagana ang vehicle kahit walang fuel"
+    },
+    "Player->Exploits->Vehicle": {
+        "name": "Vehicle"
+    },
+    "Player->Exploits->Vehicle->Ignore artillery": {
+        "toggleBlockNames": {
+            "Ignore artillery": "Ignore artillery"
+        }
+    },
+    "Player->Exploits->Vehicle->Ignore disabled vehicle": {
+        "name": "Ignore disabled vehicle",
+        "tip": "Gagana ang vehicle kahit sira"
+    },
+    "Player->Exploits->Vehicle->Time before disable ignore (0 - off)": {
+        "name": "Time before disable ignore (0 - off)",
+        "tip": "Oras kung gaano katagal gagana ang vehicle pagkatapos masaktan"
+    },
+    "Player->Exploits->Weapons->Ignore weapon use restrictions": {
+        "name": "Ignore weapon use restrictions",
+        "tip": "Puwede gumamit ng weapons kahit anong condition"
+    },
+    "Player->Exploits->Weapons": {
+        "name": "Weapons"
+    },
+    "Player->Exploits->Building->Ignore some building rules": {
+        "name": "Ignore some building rules",
+        "tip": "Gagana ang building kahit hindi sundin lahat ng rules"
+    },
+    "Player->Exploits->Building": {
+        "name": "Building"
+    },
+    "Player->Exploits->Building->Ignore building cooldown": {
+        "name": "Ignore building cooldown",
+        "tip": "Tinatanggal ang delay sa pagitan ng building"
+    },
+    "Player->Movement->Auto deploy->Auto deploy": {
+        "name": "Auto deploy",
+        "tip": "Movement papunta sa deploy zone sa home region"
+    },
+    "Player->Movement->Auto deploy": {
+        "name": "Auto deploy"
+    },
+    "Player->Movement->Auto deploy->Move to deploy point bind": {
+        "name": "Move to deploy point bind"
+    },
+    "Player->Movement->Auto deploy->Auto deploy toggles": {
+        "toggleBlockNames": {
+            "Auto run to deploy zone after spawn": "Auto run papunta sa deploy zone pagkatapos mag-spawn"
+        }
+    },
+    "Information->Custom range->Around Character->Custom range on character": {
+        "name": "Custom range on character",
+        "tip": "Render radius sa paligid ng iyong character"
+    },
+    "Information->Custom range": {
+        "name": "Custom range"
+    },
+    "Information->Custom range->Around Character": {
+        "name": "Around Character"
+    },
+    "Information->Custom range->Around Character->Display radius": {
+        "name": "Display radius"
+    },
+    "Information->Custom range->Around Character->Range color": {
+        "name": "Range color"
+    },
+    "Information->Custom range->Around Cursor->Custom range on cursor": {
+        "name": "Custom range on cursor",
+        "tip": "Render radius sa paligid ng iyong cursor"
+    },
+    "Information->Custom range->Around Cursor": {
+        "name": "Around Cursor"
+    },
+    "Information->Custom range->Around Cursor->Display radius": {
+        "name": "Display radius"
+    },
+    "Information->Custom range->Around Cursor->Range color": {
+        "name": "Range color"
+    },
+    "Information->Custom range->Ruler->Enable ruler": {
+        "name": "Enable ruler",
+        "tip": "Measure ng distance sa pagitan ng points. Shift+Bind para magdagdag ng point, Bind without Shift para i-clear lahat ng points"
+    },
+    "Information->Custom range->Ruler": {
+        "name": "Ruler"
+    },
+    "Information->Custom range->Ruler->Ruler bind": {
+        "name": "Ruler bind"
+    },
+    "Information->Custom range->Ruler->Ruler color": {
+        "name": "Ruler color"
+    },
+    "Information->Custom range->Ruler->Line thickness": {
+        "name": "Line thickness"
+    },
+    "Information->Voice Transcription/Translation->Voice Transcription/Translation": {
+        "name": "Voice Transcription/Translation"
+    },
+    "Information->Voice Transcription/Translation": {
+        "name": "Voice Transcription/Translation"
+    },
+    "Information->Voice Transcription/Translation->Model": {
+        "name": "Model",
+        "comboBoxValues": {
+            "tiny": "tiny",
+            "tiny.en": "tiny.en",
+            "tiny-q5_1": "tiny-q5_1",
+            "tiny.en-q5_1": "tiny.en-q5_1",
+            "tiny-q8_0": "tiny-q8_0",
+            "base": "base",
+            "base.en": "base.en",
+            "base-q5_1": "base-q5_1",
+            "base.en-q5_1": "base.en-q5_1",
+            "base-q8_0": "base-q8_0",
+            "small": "small",
+            "small.en": "small.en",
+            "small.en-tdrz": "small.en-tdrz",
+            "small-q5_1": "small-q5_1",
+            "small.en-q5_1": "small.en-q5_1",
+            "small-q8_0": "small-q8_0",
+            "medium": "medium",
+            "medium.en": "medium.en",
+            "medium-q5_0": "medium-q5_0",
+            "medium.en-q5_0": "medium.en-q5_0",
+            "medium-q8_0": "medium-q8_0",
+            "large-v1": "large-v1",
+            "large-v2": "large-v2",
+            "large-v2-q5_0": "large-v2-q5_0",
+            "large-v2-q8_0": "large-v2-q8_0",
+            "large-v3": "large-v3",
+            "large-v3-q5_0": "large-v3-q5_0",
+            "large-v3-turbo": "large-v3-turbo",
+            "large-v3-turbo-q5_0": "large-v3-turbo-q5_0",
+            "large-v3-turbo-q8_0": "large-v3-turbo-q8_0"
+        }
+    },
+    "Information->Voice Transcription/Translation->Detect language": {
+        "name": "Detect language",
+        "comboBoxValues": {
+            "auto": "auto",
+            "en": "en",
+            "ru": "ru",
+            "de": "de",
+            "fr": "fr",
+            "es": "es",
+            "it": "it",
+            "pt": "pt",
+            "pl": "pl",
+            "tr": "tr",
+            "ja": "ja",
+            "zh": "zh",
+            "ko": "ko",
+            "ar": "ar",
+            "nl": "nl",
+            "sv": "sv",
+            "da": "da",
+            "fi": "fi",
+            "no": "no",
+            "cs": "cs",
+            "hu": "hu",
+            "ro": "ro",
+            "sk": "sk",
+            "bg": "bg",
+            "el": "el"
+        }
+    },
+    "Information->Voice Transcription/Translation->Buffer timeout (s)": {
+        "name": "Buffer timeout (s)"
+    },
+    "Information->Voice Transcription/Translation->Show text over players": {
+        "name": "Show text over players"
+    },
+    "Information->Voice Transcription/Translation->Text display duration (s)": {
+        "name": "Text display duration (s)"
+    },
+    "Information->Voice Transcription/Translation->Translate": {
+        "name": "Translate"
+    },
+    "Information->Voice Transcription/Translation->Translate to": {
+        "name": "Translate to",
+        "comboBoxValues": {
+            "auto": "auto",
+            "en": "en",
+            "ru": "ru",
+            "de": "de",
+            "fr": "fr",
+            "es": "es",
+            "it": "it",
+            "pt": "pt",
+            "pl": "pl",
+            "tr": "tr",
+            "ja": "ja",
+            "zh": "zh",
+            "ko": "ko",
+            "ar": "ar",
+            "nl": "nl",
+            "sv": "sv",
+            "da": "da",
+            "fi": "fi",
+            "no": "no",
+            "cs": "cs",
+            "hu": "hu",
+            "ro": "ro",
+            "sk": "sk",
+            "bg": "bg",
+            "el": "el"
+        }
+    },
+    "Information->Voice Transcription/Translation->Load model": {
+        "name": "Load model"
+    },
+    "Information->Voice Transcription/Translation->Show history": {
+        "name": "Show history"
+    },
+    "Information->FPS Unlocker->FPS Unlocker->FPS Unlock": {
+        "name": "FPS Unlock",
+        "tip": "I-set ang kahit anong FPS limit para sa laro"
+    },
+    "Information->FPS Unlocker": {
+        "name": "FPS Unlocker"
+    },
+    "Information->FPS Unlocker->FPS Unlocker": {
+        "name": "FPS Unlocker"
+    },
+    "Information->FPS Unlocker->FPS Unlocker->FPS limit": {
+        "name": "FPS limit"
+    },
+    "Information->FPS Unlocker->Fix screen->Fix screen resize": {
+        "name": "Fix screen resize",
+        "tip": "Inaayos ang screen resolution kapag nagbago ang region"
+    },
+    "Information->FPS Unlocker->Fix screen": {
+        "name": "Fix screen"
+    },
+    "Information->FPS Unlocker->Unfocused FPS->Limit FPS when unfocused": {
+        "name": "Limit FPS when unfocused",
+        "tip": "Binabawasan ang FPS kapag hindi naka-focus ang game window"
+    },
+    "Information->FPS Unlocker->Unfocused FPS": {
+        "name": "Unfocused FPS"
+    },
+    "Information->FPS Unlocker->Unfocused FPS->Unfocused FPS limit": {
+        "name": "Unfocused FPS limit"
+    },
+    "Information->FPS Unlocker->Paused FPS->Limit FPS when paused": {
+        "name": "Limit FPS when paused",
+        "tip": "Binabawasan ang FPS kapag naka-pause ang laro (escape menu)"
+    },
+    "Information->FPS Unlocker->Paused FPS": {
+        "name": "Paused FPS"
+    },
+    "Information->FPS Unlocker->Paused FPS->Paused FPS limit": {
+        "name": "Paused FPS limit"
+    },
+    "Information->Camera->Free camera->Free camera": {
+        "name": "Free camera",
+        "tip": "Movement ng camera nang walang restrictions",
+        "tip2": "Kapag tinitingnan ang malayong position, recommended na smooth na ilipat ang camera\npapunta sa position, kung hindi maaaring hindi mag-render ang players/vehicles.\n\nRecommended na may hawak na weapon o binoculars para maiwasan ang bugs"
+    },
+    "Information->Camera": {
+        "name": "Camera"
+    },
+    "Information->Camera->Free camera": {
+        "name": "Free camera"
+    },
+    "Information->Camera->Free camera->Free camera key": {
+        "name": "Free camera key"
+    },
+    "Information->Camera->Free camera->Free camera freeze key": {
+        "name": "Free camera freeze key",
+        "tip": "Ipinapirmi ang kasalukuyang camera position"
+    },
+    "Information->Camera->Free camera->Free camera mode": {
+        "name": "Free camera mode",
+        "tip2": "Auto - Short press para sa Toggle mode, long press para sa Hold\nHold - Activate habang hawak\nToggle - Activate sa isang press lang",
+        "comboBoxValues": {
+            "Hold": "Hold",
+            "Toggle": "Toggle",
+            "Auto": "Auto"
+        }
+    },
+    "Information->Camera->Free camera->Set camera position via minimap": {
+        "name": "Set camera position via minimap",
+        "tip": "ALT+LMB sa minimap para i-set ang free camera position"
+    },
+    "Information->Camera->Free camera->Free camera behavior settings->Camera Speed2": {
+        "name": "Camera Speed"
+    },
+    "Information->Camera->Free camera->Free camera behavior settings": {
+        "name": "Free camera behavior settings"
+    },
+    "Information->Camera->Free camera->Free camera behavior settings->Dead Zone": {
+        "name": "Dead Zone",
+        "tip": "Zone sa gitna ng screen kung saan hindi gumagalaw ang camera kahit gumalaw ang cursor"
+    },
+    "Information->Camera->Free camera->Free camera behavior settings->Fast Camera Speed": {
+        "name": "Fast Camera Speed",
+        "tip": "Maximum camera speed kapag ang cursor ay nasa edge ng screen"
+    },
+    "Information->Camera->Free camera->Free camera behavior settings->Fast Zone": {
+        "name": "Fast Zone",
+        "tip": "Zone mula sa screen center kung saan nagsisimula ang camera acceleration"
+    },
+    "Information->Camera->FOV changer->FOV changer": {
+        "name": "FOV changer",
+        "tip": "Adjust ng Field of View"
+    },
+    "Information->Camera->FOV changer": {
+        "name": "FOV changer"
+    },
+    "Information->Camera->FOV changer->Method of changing": {
+        "name": "Method of changing",
+        "comboBoxValues": {
+            "Dont change": "Wag baguhin",
+            "Alt + Scroll": "Alt + Scroll",
+            "Scroll": "Scroll"
+        }
+    },
+    "Information->Camera->FOV changer->Scroll target": {
+        "name": "Scroll target",
+        "comboBoxValues": {
+            "FOV": "FOV",
+            "Camera Arm Length": "Camera Arm Length"
+        }
+    },
+    "Information->Camera->FOV changer->FOV Changer settings->Current FOV": {
+        "name": "Current FOV"
+    },
+    "Information->Camera->FOV changer->FOV Changer settings": {
+        "name": "FOV Changer settings"
+    },
+    "Information->Camera->FOV changer->FOV Changer settings->FOV change Step": {
+        "name": "FOV change Step"
+    },
+    "Information->Camera->FOV changer->FOV Changer settings->Smooth FOV change": {
+        "name": "Smooth FOV change"
+    },
+    "Information->Camera->FOV changer->Camera Zoom settings->Current Zoom Distance": {
+        "name": "Current Zoom Distance"
+    },
+    "Information->Camera->FOV changer->Camera Zoom settings": {
+        "name": "Camera Zoom settings"
+    },
+    "Information->Camera->FOV changer->Camera Zoom settings->Zoom Distance Step": {
+        "name": "Zoom Distance Step"
+    },
+    "Information->Camera->Cloud settings->Disable clouds": {
+        "name": "Disable clouds",
+        "tip": "Hindi nirender ang clouds sa sky"
+    },
+    "Information->Camera->Cloud settings": {
+        "name": "Cloud settings"
+    },
+    "Information->Camera->Night intensity->Night intensity": {
+        "name": "Night intensity",
+        "tip": "Binabago ang visibility intensity sa gabi"
+    },
+    "Information->Camera->Night intensity": {
+        "name": "Night intensity"
+    },
+    "Information->Camera->Night intensity->Night intensity value": {
+        "name": "Night intensity value"
+    },
+    "Player->Building->Auto Build->Auto build": {
+        "name": "Auto build",
+        "tip": "Automatic na pagtatayo ng blueprints o trenches"
+    },
+    "Player->Building->Auto Build": {
+        "name": "Auto Build"
+    },
+    "Player->Building->Auto Build->Auto building bind": {
+        "name": "Auto building bind"
+    },
+    "Player->Building->Auto Build->Searching distance": {
+        "name": "Searching distance",
+        "tip": "Distansya para maghanap ng blueprints o trenches"
+    },
+    "Player->Building->Auto Build->Build toggles": {
+        "toggleBlockNames": {
+            "Auto stop when W/A/S/D pressed": "Auto stop kapag pinindot ang W/A/S/D",
+            "Drainage of puddles": "Pag-drain ng puddles",
+            "Only on roads": "Sa roads lang",
+            "Repair damaged structures": "I-repair ang damaged structures"
+        }
+    },
+    "Player->Building->Auto Build->Repair health threshold %": {
+        "name": "Repair health threshold %",
+        "tip": "I-repair ang structures kapag below sa percentage na ito ang HP"
+    }
+}
